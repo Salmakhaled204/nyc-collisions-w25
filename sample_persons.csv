@@ -1,0 +1,1001 @@
+unique_id,collision_id,crash_date,crash_time,person_id,person_type,person_injury,vehicle_id,person_age,ejection,emotional_status,bodily_injury,position_in_vehicle,safety_equipment,ped_location,ped_action,complaint,ped_role,contributing_factor_1,contributing_factor_2,person_sex,person_age_imputed,person_injury_clean
+7498541,3906763,05/22/2018,16:30,321f3766-3d3d-46d3-aec1-e139f2c26ee4,OCCUPANT,Unspecified,17783366.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+10019179,4176364,07/24/2019,16:56,70cd89de-934f-4afb-8e25-e8a48e9f65d1,OCCUPANT,Unspecified,19025778.0,30.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,30.0,UNKNOWN
+7249891,3744030,09/04/2017,10:15,a487185d-6ae8-4cba-8877-360084dffeb2,OCCUPANT,Unspecified,17661133.0,21.0,,,,,,,,,Registrant,,,F,21.0,UNKNOWN
+12599476,4627019,04/25/2023,15:08,98fbd84e-ecb9-4b36-a12a-93f1dccd3224,OCCUPANT,Unspecified,20435513.0,75.0,Not Ejected,Does Not Apply,Does Not Apply,"Any person in the rear of a station wagon, pick-up truck, all passengers on a bus, etc",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,75.0,UNKNOWN
+7906329,3818491,12/22/2017,12:40,e932d9b4-e8e7-4d3d-95ec-9b0d3afeb18e,OCCUPANT,Unspecified,17982831.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+10103430,4195820,08/27/2019,15:20,c7c6ed16-5ecc-4cda-9621-a7854cc2ce82,OCCUPANT,Unspecified,19068058.0,42.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,42.0,UNKNOWN
+13215633,4773585,11/18/2024,14:40,17bf3423-4cd7-4e6d-9142-239fda22442f,OCCUPANT,Unspecified,20787245.0,7.0,Not Ejected,Does Not Apply,Does Not Apply,"Any person in the rear of a station wagon, pick-up truck, all passengers on a bus, etc",Unknown,,,Does Not Apply,Passenger,,,F,7.0,UNKNOWN
+11367347,4335799,07/30/2020,17:00,198da1f1-dac8-4d66-8632-364a3d258f0b,OCCUPANT,Unspecified,19723001.0,34.0,,,,,,,,,Registrant,,,M,34.0,UNKNOWN
+7007419,3637771,03/23/2017,8:00,049ac74b-7486-4a7a-a6ab-21c3540dc43c,OCCUPANT,Unspecified,17544842.0,3.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Child Restraint Only,,,Does Not Apply,Passenger,,,M,3.0,UNKNOWN
+11153693,4258239,12/15/2019,17:10,4dd29bda-0b2f-404b-9fed-3bb74b6192ab,OCCUPANT,Unspecified,19608253.0,32.0,,,,,,,,,Registrant,,,F,32.0,UNKNOWN
+7814047,3810615,12/16/2017,14:45,246661af-82df-4f27-96d3-7269a4b982cb,OCCUPANT,Unspecified,17937502.0,26.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,26.0,UNKNOWN
+13008926,4732761,06/13/2024,23:35,251385d6-d878-422b-8d1e-1b7b0a59a9a5,OCCUPANT,Unspecified,20667696.0,61.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,61.0,UNKNOWN
+6126626,3616212,02/13/2017,16:30,d7c7791b-727b-434e-abe8-7ce2f637dd9f,OCCUPANT,Unspecified,17125150.0,27.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,27.0,UNKNOWN
+7578589,3904948,05/21/2018,18:10,fe476c9c-2af7-4a3a-8400-330c870060ac,OCCUPANT,Unspecified,17822657.0,5.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Child Restraint Only,,,Does Not Apply,Passenger,,,M,5.0,UNKNOWN
+7730909,3800374,11/30/2017,15:50,b7322de5-a404-4de4-a8eb-a7524f9e4426,OCCUPANT,Unspecified,17897076.0,30.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,30.0,UNKNOWN
+6275857,3489394,07/27/2016,12:20,1343610,OCCUPANT,Unspecified,17195612.0,30.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,30.0,UNKNOWN
+11892611,4442523,07/30/2021,9:30,a791dd99-9097-4cfc-9df9-3abaab124717,OCCUPANT,Unspecified,20029307.0,74.0,,,,,,,,,Registrant,,,M,74.0,UNKNOWN
+7587857,3751871,09/15/2017,9:33,fbac1add-994a-4e06-aa96-8d7f537303e7,OCCUPANT,Unspecified,17827208.0,60.0,,,,,,,,,Registrant,,,F,60.0,UNKNOWN
+10119969,4199437,08/23/2019,18:47,29adbbd9-8085-40c8-8102-f0e880dda33f,OCCUPANT,Unspecified,19076417.0,38.0,,,,,,,,,Registrant,,,M,38.0,UNKNOWN
+12992478,4728379,05/29/2024,8:45,f4ba1814-7179-4fc2-a6d5-58d9ea15f5a7,OCCUPANT,Unspecified,20658470.0,10.0,Not Ejected,Does Not Apply,Does Not Apply,"Any person in the rear of a station wagon, pick-up truck, all passengers on a bus, etc",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,10.0,UNKNOWN
+9700059,4014310,11/04/2018,14:05,e13da39b-0067-43bd-abff-f4c3bed32462,OCCUPANT,Unspecified,18867708.0,45.0,,,,,,,,,Registrant,,,M,45.0,UNKNOWN
+13177693,4763557,10/14/2024,9:45,404e6055-b92d-481e-95ef-0fa35c81032f,OCCUPANT,Unspecified,20765847.0,35.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,F,35.0,UNKNOWN
+13297019,4794790,02/25/2025,8:45,5abf7746-63ad-4e1c-ab98-1c02c1feffdd,OCCUPANT,Injured,20833534.0,10.0,Not Ejected,Conscious,Head,Right rear passenger or motorcycle sidecar passenger,Child Restraint Only,,,Complaint of Pain or Nausea,Passenger,,,M,10.0,INJURED
+7149599,3724074,08/01/2017,20:22,5d7dcefe-66c1-4c87-94d5-5f278eb048de,OCCUPANT,Unspecified,17612832.0,53.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,53.0,UNKNOWN
+9545830,4035547,11/28/2018,10:12,4a15c932-fdaf-430a-8fef-736ca59797e0,OCCUPANT,Unspecified,18791271.0,33.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,33.0,UNKNOWN
+9730307,3999256,10/12/2018,17:07,719ffe1a-d9f9-4335-a91e-8a627ad61dbe,OCCUPANT,Injured,18882976.0,35.0,Not Ejected,Conscious,Neck,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Complaint of Pain or Nausea,Passenger,,,F,35.0,INJURED
+10163023,4209750,09/21/2019,1:45,2a1951f5-86f1-40d2-9483-6178c40d043c,OCCUPANT,Unspecified,19098183.0,35.0,,,,,,,,,Registrant,,,F,35.0,UNKNOWN
+12488034,4596582,01/09/2023,21:00,b4acbb56-cfc7-4045-94ef-d50cf63f628f,OCCUPANT,Unspecified,20372409.0,36.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,36.0,UNKNOWN
+9129958,4100924,03/20/2019,13:20,e03278d5-d180-4fb7-ae2b-95073bd38a21,OCCUPANT,Unspecified,18586897.0,55.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,55.0,UNKNOWN
+11887744,4440949,07/24/2021,22:20,0347b5cb-9298-452d-8d71-e0afba98f3da,OCCUPANT,Unspecified,20026487.0,46.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Unknown,,,Does Not Apply,Passenger,,,F,46.0,UNKNOWN
+6047964,3602465,01/18/2017,0:45,8ce88f62-bbf1-4d1b-b6bc-18f80b348009,OCCUPANT,Unspecified,17087188.0,,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+8732014,4078266,02/09/2019,18:37,d8309c79-484d-4b40-a190-f6cbb099187e,OCCUPANT,Unspecified,18389539.0,86.0,,,,,,,,,Registrant,,,M,86.0,UNKNOWN
+13039529,4740388,07/12/2024,22:45,a40fde80-132a-4af2-a822-cc9808240340,BICYCLIST,Injured,20685101.0,24.0,Ejected,Conscious,Head,Driver,,,,Minor Bleeding,Driver,,,M,24.0,INJURED
+7765876,3767360,10/11/2017,15:37,18e30a3a-07b3-4bfe-9769-799a69a83b50,BICYCLIST,Unspecified,17914098.0,15.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,15.0,UNKNOWN
+12475539,4594935,12/31/2022,14:30,22f0fe0e-9e8b-4be7-8bb5-f87568cf8ffb,OCCUPANT,Unspecified,20365217.0,41.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,41.0,UNKNOWN
+9327884,4048945,12/17/2018,19:33,1573be5f-7033-4f2f-b25c-2ac5e38ec653,OCCUPANT,Unspecified,,,,,,,,,,,Witness,,,,39.0,UNKNOWN
+12834318,4687760,12/16/2023,19:30,12981b7c-d19e-4f2e-87d1-8bc3041ed182,OCCUPANT,Unspecified,20568883.0,17.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Lap Belt,,,Does Not Apply,Passenger,,,F,17.0,UNKNOWN
+11928216,4452075,08/27/2021,16:00,0b5f0e11-fd9b-450c-a4a7-f6d81d8bf99a,OCCUPANT,Unspecified,20050337.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+7332931,3828554,01/14/2018,8:00,efa6f039-7fd9-4e6b-8e6c-c1a48bb94f4d,OCCUPANT,Unspecified,17701964.0,38.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,38.0,UNKNOWN
+13378131,4815213,05/23/2025,8:55,152cb552-a562-4c60-814c-5807ddb426d1,OCCUPANT,Unspecified,20879726.0,37.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,37.0,UNKNOWN
+9550719,3963033,08/17/2018,6:30,2bae1214-c5bd-451f-88db-9577bf171789,OCCUPANT,Unspecified,18793690.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+7297498,3825302,01/09/2018,14:30,7665b6b7-1801-4b33-9889-476c487034c6,OCCUPANT,Unspecified,17684572.0,64.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,64.0,UNKNOWN
+6172187,3461946,06/15/2016,13:31,960734,OCCUPANT,Unspecified,17147270.0,30.0,,,,,,,,,Registrant,,,M,30.0,UNKNOWN
+6426185,3511311,08/30/2016,11:45,1782065,OCCUPANT,Unspecified,17266441.0,53.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,53.0,UNKNOWN
+6343240,3543712,10/19/2016,22:40,2384836,OCCUPANT,Unspecified,17227211.0,25.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,25.0,UNKNOWN
+11070781,4300897,03/05/2020,11:05,11d463df-ad0a-4645-b1df-b2f479c5c0e2,OCCUPANT,Unspecified,19564244.0,43.0,,,,,,,,,Registrant,,,F,43.0,UNKNOWN
+6757102,3574879,12/07/2016,1:00,2955629,OCCUPANT,Unspecified,17424729.0,27.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,27.0,UNKNOWN
+12284086,4544721,07/08/2022,19:00,1b3f21db-a55b-4239-b4dd-b4e9f4d0481a,OCCUPANT,Unspecified,20255548.0,31.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,31.0,UNKNOWN
+9309127,3925159,06/20/2018,13:30,b8ffcc87-acbc-41c3-a1be-067b700a55c0,OCCUPANT,Unspecified,,,,,,,,,,,Witness,,,,39.0,UNKNOWN
+13306345,4797361,03/05/2025,13:45,5001e228-8bd8-4122-93dc-70c8687a880e,OCCUPANT,Unspecified,20838693.0,30.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,30.0,UNKNOWN
+12003190,4471496,10/27/2021,5:00,f768dae5-89b0-4f78-b91b-585c360ea610,OCCUPANT,Unspecified,20093784.0,38.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,38.0,UNKNOWN
+9747895,4113853,04/12/2019,16:53,35e1cb26-1622-4d4e-89ae-e87b7002c078,OCCUPANT,Unspecified,18891559.0,35.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,F,35.0,UNKNOWN
+7118487,3729565,08/12/2017,1:45,80006585-0226-4c27-9da4-a8694c46165c,OCCUPANT,Unspecified,17597810.0,30.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,30.0,UNKNOWN
+6937515,3668560,04/30/2017,23:00,4502be61-0d1b-4706-85f8-6c10ffa36007,OCCUPANT,Unspecified,17511263.0,62.0,,,,,,,,,Registrant,,,F,62.0,UNKNOWN
+12872328,4697196,01/23/2024,12:15,f329b696-96eb-4698-bfca-9d5eb0e7fbd5,OCCUPANT,Unspecified,20590570.0,15.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,15.0,UNKNOWN
+5963411,3442993,05/16/2016,9:00,677731,OCCUPANT,Unspecified,17047329.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+11048359,4284782,02/03/2020,16:40,bd5b33e8-9e1b-4d54-ab73-c706e5ff2b44,OCCUPANT,Unspecified,19552698.0,54.0,,,,,,,,,Registrant,,,M,54.0,UNKNOWN
+5953655,3431988,05/01/2016,10:30,531238,OCCUPANT,Unspecified,17042745.0,48.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,48.0,UNKNOWN
+7519823,3893088,05/03/2018,7:30,89c8e748-6fc4-4328-a873-df3e5a1d0673,OCCUPANT,Unspecified,17793749.0,9.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Lap Belt,,,Does Not Apply,Passenger,,,M,9.0,UNKNOWN
+11962989,4460789,09/24/2021,8:12,9e10adfc-da2f-4d60-9e1c-63d14f7760a5,OCCUPANT,Unspecified,20070724.0,45.0,Not Ejected,Does Not Apply,Does Not Apply,"Middle front seat, or passenger lying across a seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,45.0,UNKNOWN
+7692137,3770914,10/17/2017,8:15,03cba5d6-9037-4bd6-9e52-43dd96cd23f7,OCCUPANT,Unspecified,17878333.0,45.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,45.0,UNKNOWN
+9117199,3909454,05/26/2018,21:27,2fbe6e8c-53f6-4535-aec3-3bf1896bf7b3,OCCUPANT,Unspecified,18580638.0,28.0,,,,,,,,,Registrant,,,M,28.0,UNKNOWN
+9567524,4012913,11/02/2018,19:30,1115bc6d-6dca-4d16-bc3c-e2c60bf3017b,OCCUPANT,Unspecified,18802122.0,54.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,54.0,UNKNOWN
+11748876,4404829,04/03/2021,19:56,6616e168-fdb5-4030-b1c3-4574edc7d46f,OCCUPANT,Unspecified,19945319.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+13036087,4739441,07/04/2024,15:35,110995f9-5f6b-43fa-94cc-1026fa3f5c4d,OCCUPANT,Unspecified,20683152.0,44.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,44.0,UNKNOWN
+6264801,3463467,06/17/2016,0:20,976297,OCCUPANT,Unspecified,17190499.0,40.0,,,,,,,,,Registrant,,,M,40.0,UNKNOWN
+12567243,4618733,03/31/2023,1:20,742232dc-de02-4435-b037-da548a97d91a,OCCUPANT,Unspecified,20417467.0,23.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,23.0,UNKNOWN
+11345291,4329722,07/14/2020,15:00,dfb398d1-9bea-441a-85b8-46a90c20366d,OCCUPANT,Unspecified,19710096.0,42.0,,,,,,,,,Registrant,,,F,42.0,UNKNOWN
+13031649,4738388,07/04/2024,13:30,cce385fb-df7a-4ed7-a5a7-caf3ed2efe57,OCCUPANT,Injured,20680643.0,77.0,Not Ejected,Conscious,Neck,Driver,Air Bag Deployed/Lap Belt/Harness,,,Complaint of Pain or Nausea,Driver,,,F,77.0,INJURED
+11405258,4345489,09/05/2020,19:15,fdbcb756-b630-4b86-bbbb-d876fbba82aa,OCCUPANT,Unspecified,19744955.0,52.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,52.0,UNKNOWN
+6230181,3455057,06/01/2016,11:19,1963779,OCCUPANT,Unspecified,17174303.0,55.0,Not Ejected,Does Not Apply,Does Not Apply,"Any person in the rear of a station wagon, pick-up truck, all passengers on a bus, etc",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,55.0,UNKNOWN
+7311156,3827971,01/11/2018,13:40,82605e0e-3851-4759-b23a-f1b50155709e,OCCUPANT,Unspecified,17691254.0,11.0,Not Ejected,Does Not Apply,Does Not Apply,"Any person in the rear of a station wagon, pick-up truck, all passengers on a bus, etc",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,11.0,UNKNOWN
+13290005,4792495,02/13/2025,16:20,95b11b88-2648-4b04-8942-b01e802ef974,OCCUPANT,Unspecified,20829526.0,61.0,,,,,,,,,Registrant,,,M,61.0,UNKNOWN
+9851486,4138056,05/23/2019,16:10,0d730a51-94ed-42ba-af65-8ca95761a6b0,OCCUPANT,Unspecified,18942603.0,,,,,,,,,,Registrant,,,F,39.0,UNKNOWN
+12777484,4672972,10/22/2023,4:34,f7c6d273-97ea-41fc-8754-fa63c2ec10e2,OCCUPANT,Injured,20536758.0,44.0,Not Ejected,Conscious,Neck,"Any person in the rear of a station wagon, pick-up truck, all passengers on a bus, etc",,,,Complaint of Pain or Nausea,Passenger,,,M,44.0,INJURED
+12071257,4489265,12/23/2021,10:00,cdaa22b4-944a-447e-911a-d6feb110b969,OCCUPANT,Unspecified,20132836.0,61.0,,,,,,,,,Registrant,,,M,61.0,UNKNOWN
+1386998,62717,03/09/2013,15:00,3,OCCUPANT,Injured,9538555.0,38.0,,,,,,,,,,,,,38.0,INJURED
+7850968,3757891,09/26/2017,5:10,798f093d-7b89-46ee-9676-e65690fd8937,OCCUPANT,Unspecified,17955537.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+13458086,4837418,08/18/2025,2:00,359eafcc-e89c-4f61-b037-951a31bb9716,OCCUPANT,Unspecified,20926093.0,16.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt,,,Does Not Apply,Passenger,,,F,16.0,UNKNOWN
+6287273,3493368,08/02/2016,16:00,1425868,OCCUPANT,Unspecified,17200952.0,5.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Child Restraint Only,,,Does Not Apply,Passenger,,,F,5.0,UNKNOWN
+13321225,4801085,03/24/2025,18:00,9d6cba21-8d0f-4c0a-b03f-13adef428fb0,OCCUPANT,Unspecified,20847343.0,35.0,Not Ejected,Does Not Apply,Does Not Apply,Unknown,Unknown,,,Does Not Apply,Driver,,,M,35.0,UNKNOWN
+6261391,3470396,06/28/2016,9:00,1087447,OCCUPANT,Injured,17188867.0,46.0,Not Ejected,Conscious,Elbow-Lower-Arm-Hand,"Middle front seat, or passenger lying across a seat",,,,Minor Bleeding,Passenger,,,M,46.0,INJURED
+7710726,3754578,09/07/2017,16:36,9affae08-44d3-472e-b97b-ac43a18d89fe,OCCUPANT,Unspecified,17887416.0,45.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,45.0,UNKNOWN
+6350061,3566054,11/22/2016,10:30,2785745,OCCUPANT,Unspecified,17230434.0,35.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,35.0,UNKNOWN
+7565726,3906638,05/22/2017,19:19,1eb4ca8c-ce62-40bd-8887-2af30c6a15cb,OCCUPANT,Unspecified,17816367.0,27.0,,,,,,,,,Registrant,,,M,27.0,UNKNOWN
+13073633,4749434,07/26/2024,1:58,06c22516-28b3-4766-8842-614658b885e5,OCCUPANT,Injured,20704736.0,20.0,Not Ejected,Conscious,Entire Body,"Middle rear seat, or passenger lying across a seat",Unknown,,,Complaint of Pain or Nausea,Passenger,,,M,20.0,INJURED
+7905263,3766981,10/10/2017,13:00,56595187-5f50-42c2-8848-a85909dca730,OCCUPANT,Unspecified,17982302.0,41.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,41.0,UNKNOWN
+13374974,4815151,05/21/2025,22:05,495ff100-1c66-410f-81a6-9cddc76c00bc,OCCUPANT,Injured,20877945.0,60.0,Not Ejected,Conscious,Elbow-Lower-Arm-Hand,Driver,Helmet (Motorcycle Only),,,Whiplash,Driver,,,M,60.0,INJURED
+6751399,3550627,10/30/2016,15:00,2510507,OCCUPANT,Unspecified,17422000.0,44.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,44.0,UNKNOWN
+9370295,3960772,08/13/2018,20:00,a7d1aa0c-117f-42e3-9669-14607eca8f12,OCCUPANT,Unspecified,18705061.0,49.0,,,,,,,,,Registrant,,,M,49.0,UNKNOWN
+13251689,4783101,12/31/2024,14:30,74c72d8b-b057-4fc9-93cb-460bc9c31194,PEDESTRIAN,Injured,,42.0,,Conscious,Back,,,Pedestrian/Bicyclist/Other Pedestrian at Intersection,Other Actions in Roadway,Complaint of Pain or Nausea,Pedestrian,Unspecified,Unspecified,M,42.0,INJURED
+7751006,3773804,10/21/2017,9:20,04964002-c954-49cb-825d-f38bca5d07c2,OCCUPANT,Unspecified,17906841.0,31.0,,,,,,,,,Registrant,,,M,31.0,UNKNOWN
+12499486,4601244,01/18/2023,7:52,3beab456-9aca-4683-a231-a3d6dbf98d31,OCCUPANT,Unspecified,20379032.0,,Not Ejected,Does Not Apply,Does Not Apply,Unknown,Lap Belt,,,Does Not Apply,Passenger,,,M,39.0,UNKNOWN
+9437593,3963055,08/14/2018,16:00,e857801d-beb6-4779-be66-87ad2bbd5010,OCCUPANT,Unspecified,18737988.0,31.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,31.0,UNKNOWN
+12020125,4475890,08/27/2021,21:15,57f13a46-8af5-4162-be21-7e1087bfb531,OTHER MOTORIZED,Unspecified,20103431.0,55.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Helmet (Motorcycle Only),,,Does Not Apply,Driver,,,M,55.0,UNKNOWN
+13316741,4800072,03/17/2025,4:20,f2ea8fa8-0f72-4510-9151-7740d77eff54,OCCUPANT,Injured,20844736.0,46.0,Not Ejected,Conscious,Chest,Driver,Lap Belt,,,Complaint of Pain or Nausea,Driver,,,M,46.0,INJURED
+6707936,3589784,12/30/2016,12:37,3232305,OCCUPANT,Unspecified,17401010.0,36.0,,,,,,,,,Registrant,,,M,36.0,UNKNOWN
+13439705,4832490,07/31/2025,14:30,4776118b-81af-4265-a704-e1ee0699acfe,PEDESTRIAN,Injured,,,,Conscious,Knee-Lower Leg Foot,,,Pedestrian/Bicyclist/Other Pedestrian Not at Intersection,Working in Roadway,Complaint of Pain or Nausea,Pedestrian,Unspecified,Unspecified,M,38.0,INJURED
+6957032,3673049,05/18/2017,6:30,458f097b-eedb-48f4-8391-d9541ab1a863,OCCUPANT,Unspecified,17520622.0,23.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Harness,,,Does Not Apply,Driver,,,M,23.0,UNKNOWN
+9598174,3959123,08/11/2018,18:00,55a38d92-58c2-43c9-ac80-345a14adc1c6,OCCUPANT,Unspecified,18817337.0,28.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,28.0,UNKNOWN
+12673594,4645353,07/15/2023,6:44,f5e7baac-da13-4789-89a9-5599c53f1c07,OCCUPANT,Injured,20477217.0,35.0,Not Ejected,Conscious,Back,Driver,Unknown,,,Whiplash,Driver,,,M,35.0,INJURED
+10046870,4182854,08/04/2019,23:00,e78fcd80-3780-426e-bbc1-727c6887d69f,OCCUPANT,Unspecified,19039570.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+11424311,4350684,09/22/2020,17:39,0ca7e946-e472-4aad-8934-34e8df1d62aa,OCCUPANT,Unspecified,19756089.0,35.0,,,,,,,,,Registrant,,,F,35.0,UNKNOWN
+12231217,4531161,05/25/2022,19:30,a93b4d93-9f29-41f0-8e13-e17f20f2abc2,OCCUPANT,Unspecified,20225106.0,35.0,,,,,,,,,Registrant,,,M,35.0,UNKNOWN
+6640732,3536136,10/08/2016,21:24,2252821,OCCUPANT,Unspecified,17368715.0,45.0,,,,,,,,,Registrant,,,F,45.0,UNKNOWN
+11013817,4279362,01/24/2020,16:05,81d47270-c60c-404b-8d70-3c1a5b8056e8,OCCUPANT,Unspecified,19534911.0,38.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Lap Belt,,,Does Not Apply,Passenger,,,F,38.0,UNKNOWN
+11186526,3875973,04/06/2018,8:20,4f258db3-5f47-4eae-94a2-91ccd7c8e284,OCCUPANT,Unspecified,19625889.0,61.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,61.0,UNKNOWN
+12694185,4651110,02/25/2023,23:15,cc0edf3c-3147-43af-bdaa-4c70daaee8ee,OCCUPANT,Unspecified,20489013.0,17.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,17.0,UNKNOWN
+12441922,4586155,11/30/2022,14:26,813089bd-4d81-47c5-b6d5-b5aeaf5a78aa,OCCUPANT,Unspecified,20346117.0,48.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,48.0,UNKNOWN
+13530598,4856510,11/11/2025,8:32,9d0d709e-ce6a-47ce-b47d-b40f69966061,OCCUPANT,Unspecified,20967481.0,71.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,71.0,UNKNOWN
+12553193,4615014,03/21/2023,12:33,8f79d669-c491-4815-8003-91e209b3dd7a,OTHER MOTORIZED,Injured,20409470.0,15.0,Ejected,Conscious,Head,Driver,Unknown,,,Severe Lacerations,Driver,,,M,15.0,INJURED
+6647081,3554525,11/02/2016,17:30,2586589,OCCUPANT,Unspecified,17371774.0,64.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,64.0,UNKNOWN
+12742635,4663917,09/20/2023,15:30,5e526c17-3659-406e-8cb8-da20103b5509,OCCUPANT,Unspecified,20517011.0,55.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,55.0,UNKNOWN
+13185073,4765728,10/21/2024,0:40,33cca5ff-b41f-465d-821a-948ce6edf137,OCCUPANT,Unspecified,20769949.0,26.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,26.0,UNKNOWN
+7261963,3715705,07/21/2017,10:20,90db3121-d06c-4fdb-8cbd-2f25fc13c6a3,OCCUPANT,Unspecified,17667101.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+7917558,3796321,11/23/2017,13:00,7df53f28-d584-4db2-8bc9-07ed3a6aca52,OCCUPANT,Unspecified,17988264.0,27.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,27.0,UNKNOWN
+11226897,4251073,12/02/2019,19:00,63675eb9-87ea-4193-8155-369e4a98589c,OCCUPANT,Unspecified,19646165.0,47.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,47.0,UNKNOWN
+12452939,4588734,12/09/2022,13:45,52c8998e-02d2-42b7-8a7c-b600cc178992,OCCUPANT,Unspecified,20352337.0,25.0,,,,,,,,,Registrant,,,M,25.0,UNKNOWN
+7507531,3864352,03/17/2018,18:30,7fbe093d-28f3-4c0b-9575-64474214edd0,OCCUPANT,Unspecified,17787751.0,25.0,,,,,,,,,Registrant,,,M,25.0,UNKNOWN
+11271123,4255180,12/09/2019,6:30,cf8a69dd-aa44-4781-ba89-1c3eb3e307ec,OCCUPANT,Unspecified,19668750.0,27.0,,,,,,,,,Registrant,,,F,27.0,UNKNOWN
+9592701,3993276,10/03/2018,15:12,c2f41d94-77ac-4b91-b605-90ae07f54a14,OCCUPANT,Unspecified,18814643.0,41.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,41.0,UNKNOWN
+9105219,3931382,06/26/2018,17:00,88bf05ee-75e1-4f94-b09e-8aae8ee0a1db,OCCUPANT,Unspecified,18574646.0,,,,,,,,,,Owner,,,,39.0,UNKNOWN
+9469966,4050577,12/22/2018,19:45,718be3c4-07f2-441f-950d-2d3a5538dcaf,OCCUPANT,Unspecified,18753900.0,59.0,,,,,,,,,Registrant,,,F,59.0,UNKNOWN
+5807625,3406737,04/15/2016,15:05,411815,OCCUPANT,Unspecified,16973803.0,33.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,33.0,UNKNOWN
+13531832,4856899,11/10/2025,22:30,e99bd6c3-9bf5-4ffb-88d4-3a668e0e7fdb,OCCUPANT,Unspecified,20968198.0,12.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,12.0,UNKNOWN
+8939590,4062690,01/03/2019,11:10,4e2524c1-2fd9-497c-a642-634db15845cb,OCCUPANT,Unspecified,,,,,,,,,,,Witness,,,,39.0,UNKNOWN
+12785905,4674906,10/28/2023,12:40,ba7f21d3-b6bb-46d7-96a3-4d6f4fb840d6,OCCUPANT,Unspecified,20541470.0,,,,,,,,,,Registrant,,,F,39.0,UNKNOWN
+11383214,4339947,08/19/2020,11:00,086e75af-b570-4593-9a43-4083883941df,OCCUPANT,Injured,19732218.0,32.0,Not Ejected,Conscious,Neck,Driver,Lap Belt & Harness,,,Whiplash,Driver,,,F,32.0,INJURED
+12533277,4609923,03/01/2023,13:10,d9eb0dce-576a-4564-a724-d2927a9b698a,OCCUPANT,Unspecified,20398228.0,46.0,,,,,,,,,Registrant,,,M,46.0,UNKNOWN
+10183863,4214430,09/29/2019,12:30,78535e8d-3cd2-4e49-b314-3618b6a7c23d,OCCUPANT,Injured,19108567.0,33.0,Not Ejected,Conscious,Back,Driver,Lap Belt & Harness,,,None Visible,Driver,,,M,33.0,INJURED
+9875101,4143498,05/31/2019,11:30,1d78ba88-59cc-4053-8455-ada729ebc2cc,OCCUPANT,Unspecified,18954313.0,45.0,,,,,,,,,Registrant,,,F,45.0,UNKNOWN
+6021021,3591499,01/03/2017,7:25,3268263,OCCUPANT,Unspecified,17074304.0,53.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,53.0,UNKNOWN
+6466673,3543649,10/15/2016,15:00,2497068,OCCUPANT,Unspecified,17285604.0,35.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,35.0,UNKNOWN
+9547391,3911277,05/30/2018,23:40,fef0b6a5-a162-4ed7-adc4-128b011bdf03,OCCUPANT,Unspecified,18792037.0,29.0,,,,,,,,,Registrant,,,M,29.0,UNKNOWN
+7628213,3882607,04/18/2018,0:10,d94b273b-8a42-4aac-b8a0-f8f11389e076,OCCUPANT,Unspecified,17846923.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+13349462,4808592,04/27/2025,3:56,124d10a3-349d-40d6-a17b-b7e50381721e,OCCUPANT,Unspecified,20863444.0,28.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,28.0,UNKNOWN
+10034488,4179977,07/29/2019,9:25,d879aff1-9c70-4008-b6c0-e94f79535176,OCCUPANT,Unspecified,19033407.0,,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+10033778,4179612,07/24/2019,15:47,f16e248f-bddf-414f-b080-bdacd166682f,OCCUPANT,Unspecified,19033064.0,25.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,25.0,UNKNOWN
+7587297,3894145,05/04/2018,16:10,3b09c407-55d6-40b9-8f6b-dea100a05d05,OCCUPANT,Unspecified,17826936.0,58.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,58.0,UNKNOWN
+11346642,4330196,07/16/2020,15:00,962c542e-1624-4822-a5b4-a50868dbbb21,OCCUPANT,Unspecified,19710881.0,46.0,,,,,,,,,Registrant,,,M,46.0,UNKNOWN
+12934143,4713279,03/29/2024,4:25,80793f7d-a33f-497a-ad09-cd78e7b22947,OCCUPANT,Unspecified,20625574.0,24.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,24.0,UNKNOWN
+7151062,3721682,07/27/2017,12:15,0fc5cbce-159d-4112-a9bc-910e66cf79c5,OCCUPANT,Injured,17613537.0,20.0,Not Ejected,Conscious,Entire Body,Driver,Lap Belt & Harness,,,Complaint of Pain,Driver,,,F,20.0,INJURED
+7927356,3804863,12/08/2017,5:30,df18ebd2-d1c8-48f8-b8f8-57f904d611b6,OCCUPANT,Unspecified,17993095.0,40.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,40.0,UNKNOWN
+8976804,4088421,02/25/2019,15:06,b75285bb-b1f9-484b-a8b8-f7de9c76fa31,OCCUPANT,Unspecified,18511190.0,45.0,,,,,,,,,Registrant,,,M,45.0,UNKNOWN
+11971049,4463067,10/02/2021,0:57,557d6122-0c76-497e-a37e-f22ea5aefdee,OCCUPANT,Unspecified,20075344.0,23.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,23.0,UNKNOWN
+10100126,4194117,08/21/2019,9:15,7de6105b-3e31-4a21-9bc4-531cf2c97fdb,OCCUPANT,Unspecified,19066358.0,,,,,,,,,,Owner,,,,39.0,UNKNOWN
+12364937,4565924,09/20/2022,4:00,e049a3e9-8bf3-4ffa-b75b-174fb3719d65,OCCUPANT,Unspecified,20302200.0,63.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,63.0,UNKNOWN
+13528277,4855854,10/16/2025,15:22,17c4ddc4-b81e-4826-bc7a-cc7557910219,OCCUPANT,Injured,20966137.0,33.0,Not Ejected,Conscious,Elbow-Lower-Arm-Hand,Driver,Unknown,,,Unknown,Driver,,,M,33.0,INJURED
+12888178,4701493,02/10/2024,15:30,cce69a2a-8ba0-4f8e-b9e2-98b1aba3a2d3,OCCUPANT,Unspecified,20599477.0,5.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,5.0,UNKNOWN
+7197706,3710115,07/11/2017,9:00,ec880230-9656-489e-8bb2-3dd7ddf722c2,OCCUPANT,Unspecified,17636030.0,46.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,,46.0,UNKNOWN
+11438390,4354771,10/03/2020,7:50,952f28e5-7e84-47cb-b061-eb81cd4d6381,OCCUPANT,Unspecified,19764318.0,37.0,,,,,,,,,Registrant,,,F,37.0,UNKNOWN
+13536638,4858091,11/16/2025,12:29,0ad4e043-3982-4e67-bd97-3400f6b9dd33,OCCUPANT,Unspecified,20971025.0,71.0,,,,,,,,,Registrant,,,M,71.0,UNKNOWN
+6471699,3507148,08/24/2016,13:10,1703261,OCCUPANT,Unspecified,17288025.0,52.0,,,,,,,,,Registrant,,,M,52.0,UNKNOWN
+13208588,4771968,11/16/2024,11:42,761c9fdc-0502-4378-bd50-188458175a29,OCCUPANT,Unspecified,20783338.0,60.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,60.0,UNKNOWN
+11222223,4250896,12/02/2019,8:00,7e5d0dac-8fb5-42a3-a2e4-618b6f4db96e,OCCUPANT,Injured,19643818.0,22.0,Not Ejected,Shock,Head,Driver,Lap Belt & Harness,,,Whiplash,Driver,,,F,22.0,INJURED
+9700412,4012664,10/30/2018,7:24,3390fba4-657a-4a3e-ad8b-844554d2697a,OCCUPANT,Unspecified,18867893.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+6009445,3447146,05/29/2016,13:00,800634,OCCUPANT,Unspecified,17068879.0,21.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,F,21.0,UNKNOWN
+12980191,4725297,05/16/2024,18:08,bad3e573-5eca-4409-bb0c-d1285b96807b,OCCUPANT,Unspecified,,,,,,,,,,,Notified Person,,,,39.0,UNKNOWN
+9293769,3971293,08/29/2018,15:26,11336ba3-b080-44ff-b9c2-4bece7a11b44,OCCUPANT,Unspecified,18667367.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+7204546,3732893,08/15/2017,22:45,27f6e975-0d06-45a0-a84b-a4daa8370690,OCCUPANT,Unspecified,17639361.0,29.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Unknown,,,Does Not Apply,Passenger,,,F,29.0,UNKNOWN
+9073443,3950924,07/28/2018,16:30,646d3ba6-c22c-4942-8428-3573840b2798,OCCUPANT,Unspecified,18558876.0,59.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,59.0,UNKNOWN
+6828513,3695442,06/18/2017,5:25,bc32065a-90d7-4dd7-9b06-6b7bda14a833,OCCUPANT,Unspecified,17458971.0,51.0,,,,,,,,,Registrant,,,F,51.0,UNKNOWN
+7653290,3904330,05/17/2018,17:30,a1bdfd00-8846-4be5-a0ad-14778e2a15be,OCCUPANT,Unspecified,17859206.0,55.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,55.0,UNKNOWN
+9782952,4121595,04/23/2019,7:50,9e879639-1f6f-46aa-993f-cb52daa87201,OCCUPANT,Unspecified,18908854.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+11387966,4340805,08/23/2020,15:15,e8a8ed65-ac01-41de-bfd2-55965a87d893,OCCUPANT,Injured,19734874.0,25.0,Not Ejected,Conscious,Head,Driver,Lap Belt & Harness,,,Complaint of Pain or Nausea,Driver,,,M,25.0,INJURED
+6451897,3489799,07/28/2016,10:30,1355546,OCCUPANT,Unspecified,17278631.0,57.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,57.0,UNKNOWN
+9812376,4128848,05/09/2018,8:14,6c4e64e6-2580-4051-a66f-a60333407daf,OCCUPANT,Unspecified,18923301.0,57.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,F,57.0,UNKNOWN
+7590483,3897472,05/09/2018,8:00,b0f85b30-3c79-4793-ab7f-544826bc238f,OCCUPANT,Unspecified,17828513.0,70.0,,,,,,,,,Registrant,,,M,70.0,UNKNOWN
+11175617,3899933,05/11/2018,15:00,b2ba9c2b-fa37-4f0e-b1c2-494339e01d17,OCCUPANT,Unspecified,19620109.0,,,,,,,,,,Owner,,,,39.0,UNKNOWN
+9140651,4096127,03/13/2019,12:55,18b30650-27fd-4250-bdf5-cd6b6b9eb675,OCCUPANT,Unspecified,18592157.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+10223123,4224280,10/16/2019,18:15,03f72048-6e8b-4a3c-b4b2-5adebff99ac7,OCCUPANT,Unspecified,19128286.0,49.0,,,,,,,,,Registrant,,,M,49.0,UNKNOWN
+6776185,3635768,03/20/2017,15:40,912bb3f1-803d-47e9-8234-508ce4e89398,OCCUPANT,Unspecified,17433918.0,42.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,42.0,UNKNOWN
+6854718,3635759,03/20/2017,13:00,80ea0d53-9ee5-4338-b179-0c208195e3d4,OCCUPANT,Unspecified,17471602.0,70.0,,,,,,,,,Registrant,,,M,70.0,UNKNOWN
+10120715,4199510,09/04/2019,12:00,b17d96c3-b568-4bb9-af08-1cb89bfd9e92,OCCUPANT,Unspecified,19076800.0,27.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,27.0,UNKNOWN
+12060993,4486575,12/14/2021,17:10,c5d40f59-395e-44c1-946a-a44287969ea9,OCCUPANT,Unspecified,20127039.0,73.0,,,,,,,,,Registrant,,,M,73.0,UNKNOWN
+7465056,3859282,03/08/2018,15:50,49b9aacb-c5d6-4624-8546-cff4e5e6e441,OCCUPANT,Unspecified,17766773.0,55.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Lap Belt,,,Does Not Apply,Passenger,,,F,55.0,UNKNOWN
+9939214,4157787,06/23/2019,22:20,c61d7ad3-f2ed-4966-86c1-a6b185668a3a,OCCUPANT,Unspecified,18985933.0,31.0,,,,,,,,,Registrant,,,M,31.0,UNKNOWN
+9187811,3919376,06/12/2018,17:25,52e73a5d-6849-47f9-8c99-ee345bc8550c,OCCUPANT,Unspecified,18615505.0,26.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,26.0,UNKNOWN
+7793029,3766641,09/30/2017,0:50,f024631f-f222-46aa-998c-be58200c3bd2,OCCUPANT,Unspecified,17927273.0,24.0,,,,,,,,,Registrant,,,M,24.0,UNKNOWN
+9107163,4102946,03/25/2019,7:50,bba9a0e8-8bf1-42a2-af16-b4eefec793fb,OCCUPANT,Unspecified,18575603.0,71.0,,,,,,,,,Registrant,,,M,71.0,UNKNOWN
+12493965,4599867,01/21/2023,19:40,b553efe4-5060-4494-b089-1e2eeaaba474,OCCUPANT,Unspecified,20375818.0,45.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,45.0,UNKNOWN
+1724838,147737,08/09/2012,16:00,2,OCCUPANT,Injured,11398571.0,42.0,,,,,,,,,,,,,42.0,INJURED
+5959991,3442333,05/14/2016,5:37,667173,OCCUPANT,Unspecified,17045713.0,23.0,,,,,,,,,Registrant,,,M,23.0,UNKNOWN
+7555645,3873852,04/01/2018,19:45,cb7c1792-358a-45e7-b2be-7de755955ae8,OCCUPANT,Unspecified,17811393.0,28.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,28.0,UNKNOWN
+9506876,3964967,08/20/2018,17:16,4fff2d89-45a6-499f-8ab3-9f0bbef4b149,OCCUPANT,Unspecified,18772032.0,43.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,43.0,UNKNOWN
+6094049,3611546,01/29/2017,17:00,fb9bcd33-9b8e-46c0-bdcd-0ee04676d0cc,OCCUPANT,Unspecified,17109408.0,59.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,59.0,UNKNOWN
+11113952,4292507,02/23/2020,22:15,73cb89b4-5d9f-436f-99bb-e209e8c9305a,OCCUPANT,Unspecified,19586651.0,,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+7520768,3863512,03/15/2018,8:00,f1ccee78-dbb3-42c6-846b-03319d4ea790,OCCUPANT,Unspecified,17794227.0,53.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,53.0,UNKNOWN
+7028601,3704779,07/04/2017,1:00,1f764c2c-053b-49a4-a14d-3d5f6a5eeb5a,OCCUPANT,Unspecified,17555026.0,22.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,22.0,UNKNOWN
+12470420,4593420,12/27/2022,20:33,635bc03a-d78d-41eb-8af5-f93e67b85354,OCCUPANT,Unspecified,20362220.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+12234967,4531926,05/28/2022,13:30,8e8bf125-6f28-4289-93a4-96caf196631a,OCCUPANT,Unspecified,20227245.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+5738479,3420282,03/23/2016,16:45,198776,OCCUPANT,Unspecified,16939651.0,21.0,Not Ejected,Conscious,Unknown,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,21.0,UNKNOWN
+6941061,3647090,04/04/2017,17:30,331512f9-e847-475c-b3fb-d9e833f862dd,OCCUPANT,Unspecified,17512964.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+12023388,4476754,11/11/2021,10:41,4a548033-b36e-4208-b956-5d43685ea746,OCCUPANT,Unspecified,20105257.0,69.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,69.0,UNKNOWN
+5755140,3417107,04/04/2016,16:15,267747,OCCUPANT,Unspecified,16948118.0,56.0,Not Ejected,Conscious,Does Not Apply,"Middle rear seat, or passenger lying across a seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,56.0,UNKNOWN
+5918940,3454822,05/29/2016,13:20,818702,OCCUPANT,Unspecified,17026544.0,61.0,,,,,,,,,Registrant,,,M,61.0,UNKNOWN
+2072759,248598,01/16/2013,18:00,1,OCCUPANT,Injured,13414083.0,19.0,,,,,,,,,,,,,19.0,INJURED
+6894330,3649360,04/10/2017,17:36,ac188351-72fd-4e33-a908-f8d71074cb1b,OCCUPANT,Unspecified,17490646.0,25.0,,,,,,,,,Registrant,,,M,25.0,UNKNOWN
+6869173,3634368,03/18/2017,1:00,49374ea7-afd5-498d-ab4f-087064d94594,OCCUPANT,Unspecified,17478617.0,3.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Child Restraint Only,,,Does Not Apply,Passenger,,,M,3.0,UNKNOWN
+12650920,4639920,06/22/2023,18:30,430f9a21-30dc-410d-be7a-4a483d07cd43,OCCUPANT,Unspecified,20464383.0,43.0,,,,,,,,,Registrant,,,M,43.0,UNKNOWN
+9777837,4120353,04/23/2019,11:11,42af743e-83ad-48a5-8dde-1b390d5a1144,OCCUPANT,Unspecified,18906339.0,71.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,71.0,UNKNOWN
+6709363,3550126,10/30/2016,1:45,2504684,OCCUPANT,Unspecified,17401679.0,28.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,28.0,UNKNOWN
+11002700,4270781,01/08/2020,21:36,a6fc6a53-93a6-4f0f-b9c2-a4eb6b3bd423,OCCUPANT,Unspecified,19529289.0,22.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,22.0,UNKNOWN
+11437144,4337693,08/12/2020,2:41,caa58936-ceb2-449d-9658-9339c08d6e44,OCCUPANT,Unspecified,19763558.0,20.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,20.0,UNKNOWN
+1854937,186401,07/12/2013,14:00,1,OCCUPANT,Injured,12053229.0,16.0,,,,,,,,,,,,,16.0,INJURED
+12812103,4681947,11/21/2023,15:33,83f4f7b0-f4f2-416f-bda4-34c48f68ca22,OCCUPANT,Unspecified,20556185.0,57.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,57.0,UNKNOWN
+13340056,4806133,04/15/2025,16:30,7e23b6a9-1799-4da5-8588-ac960ebc7b96,OCCUPANT,Unspecified,20858061.0,45.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,45.0,UNKNOWN
+10104894,4196332,08/28/2019,14:09,e65487f8-8eed-4753-80d6-3af1b26330ea,OCCUPANT,Unspecified,19068794.0,70.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,70.0,UNKNOWN
+13399919,4821929,06/21/2025,0:00,a2970ce0-25b9-4fc1-b476-f73dc2420749,OCCUPANT,Unspecified,20892070.0,43.0,,,,,,,,,Registrant,,,M,43.0,UNKNOWN
+7201982,3727339,08/08/2017,17:40,ac342667-24bd-4a56-8cdf-962c9532d2e0,OCCUPANT,Unspecified,17638093.0,26.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,F,26.0,UNKNOWN
+11900881,4442471,07/31/2021,17:44,a8fc863d-da0f-48e8-aeb4-89930801799c,OCCUPANT,Unspecified,20034223.0,34.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,34.0,UNKNOWN
+13416131,4826128,06/15/2025,4:12,8dcf2124-e705-421f-ae84-53a388c3e207,OCCUPANT,Unspecified,,,,,,,,,,,Witness,,,,39.0,UNKNOWN
+6477797,3485190,07/19/2016,17:50,1271369,OCCUPANT,Unspecified,17290958.0,45.0,,,,,,,,,Registrant,,,M,45.0,UNKNOWN
+12091931,4494728,01/10/2022,15:40,c690cdd7-8a7f-48fa-ab72-458c6eaf388c,PEDESTRIAN,Injured,,77.0,,Conscious,Head,,,Pedestrian/Bicyclist/Other Pedestrian at Intersection,Crossing Against Signal,Abrasion,Pedestrian,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Unspecified,F,77.0,INJURED
+13337202,4805192,04/12/2025,21:07,42cf4e47-4694-4717-ab5c-576e7bb7fbae,OCCUPANT,Injured,20856396.0,41.0,Ejected,Conscious,Head,Driver,,,,Complaint of Pain or Nausea,Driver,,,M,41.0,INJURED
+7041303,3707661,07/09/2017,20:00,ffb5d96a-cb02-418c-92e7-b732365f65f4,OCCUPANT,Unspecified,17561162.0,33.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Unknown,,,Does Not Apply,Passenger,,,F,33.0,UNKNOWN
+10984351,4268398,01/02/2020,12:45,9c796e6a-80a0-40ee-9b70-12eb104d5790,OCCUPANT,Unspecified,19519990.0,18.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,18.0,UNKNOWN
+7815919,3819612,12/18/2017,13:28,192d90dc-83a6-4ebd-b02f-41d59f079d13,OCCUPANT,Unspecified,17938407.0,45.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,45.0,UNKNOWN
+5734244,3415509,03/20/2016,10:50,449156,OCCUPANT,Injured,16937430.0,52.0,Not Ejected,Conscious,Unknown,Driver,Lap Belt & Harness,,,Complaint of Pain,Driver,,,F,52.0,INJURED
+7516591,3875191,04/04/2018,16:45,80ea7326-fde7-4458-889b-c50040c034d0,OCCUPANT,Unspecified,17792181.0,21.0,,,,,,,,,Registrant,,,M,21.0,UNKNOWN
+6245487,3462851,06/16/2016,19:00,975595,OCCUPANT,Unspecified,17181413.0,29.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,29.0,UNKNOWN
+7836414,3760405,09/30/2017,23:49,1898d3eb-81cc-4bb0-9ee4-430b13363e01,OCCUPANT,Unspecified,17948449.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+12740028,4662877,09/14/2023,13:50,0599288c-486d-42f1-a4f3-33a0addd7224,OCCUPANT,Injured,20515567.0,24.0,Not Ejected,Conscious,Back,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Whiplash,Passenger,,,F,24.0,INJURED
+6204211,3462261,06/15/2016,15:30,963596,OCCUPANT,Unspecified,17162237.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+7256307,3741700,09/01/2017,0:00,201dc7b0-7fec-4502-b872-95957bd97cde,OCCUPANT,Unspecified,17664253.0,57.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,57.0,UNKNOWN
+7852328,3793306,11/17/2017,17:00,f591470b-dc88-4f60-8ecc-c68a37aaf1f0,OCCUPANT,Unspecified,17956200.0,56.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,56.0,UNKNOWN
+6370471,3516458,09/07/2016,18:20,1872189,OCCUPANT,Injured,17240142.0,30.0,Not Ejected,Conscious,Shoulder - Upper Arm,Driver,Lap Belt & Harness,,,Complaint of Pain,Driver,,,M,30.0,INJURED
+13221589,4775197,11/27/2024,12:08,c1080570-9e21-498c-9f8d-1c0b6653e36e,OCCUPANT,Unspecified,20790619.0,27.0,,,,,,,,,Registrant,,,M,27.0,UNKNOWN
+12782555,4674169,10/26/2023,15:45,bb2cd5e8-44e9-46f0-8d4e-17179d964981,OCCUPANT,Unspecified,20539575.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+9500211,3951135,07/27/2018,9:00,80ca75b5-60cc-49ca-8d94-1c16487564be,OCCUPANT,Unspecified,18768693.0,10.0,Not Ejected,Does Not Apply,Does Not Apply,"Middle rear seat, or passenger lying across a seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,10.0,UNKNOWN
+12968605,4722376,05/05/2024,16:35,8c5b4adc-fdb6-427d-b57a-aae8061d1d27,OCCUPANT,Unspecified,20645199.0,34.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,,,,Does Not Apply,Driver,,,M,34.0,UNKNOWN
+13343366,4807061,04/18/2025,5:30,c226c0d7-8a00-4426-b614-db31fd34b8ae,OCCUPANT,Unspecified,20859943.0,,,,,,,,,,Registrant,,,F,39.0,UNKNOWN
+13367677,4813144,05/15/2025,7:37,bb93e965-d63f-4f32-8f8b-00bb35fc21b3,OCCUPANT,Unspecified,20873793.0,25.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,25.0,UNKNOWN
+11998501,4470244,10/23/2021,11:15,7fc93412-f8e1-4b4d-b0ef-d83aff7c6708,OCCUPANT,Unspecified,20091132.0,41.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,41.0,UNKNOWN
+12493345,4599592,01/21/2023,20:16,49f0cce8-6fda-4922-8c41-02cbddf9f7ec,OCCUPANT,Unspecified,20375439.0,73.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,73.0,UNKNOWN
+7376955,3868363,03/24/2018,1:00,b7f4e8f6-ede8-44ae-9b25-a96d6f2097c4,OCCUPANT,Unspecified,17723718.0,26.0,,,,,,,,,Registrant,,,M,26.0,UNKNOWN
+7468710,3859214,03/06/2018,14:20,1d2ec7e9-ec94-4044-a22c-96d0ce4db1ff,OCCUPANT,Unspecified,17768622.0,37.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Unknown,,,Does Not Apply,Passenger,,,M,37.0,UNKNOWN
+9622820,3986175,09/22/2018,23:09,39c9b63e-4415-4355-a11c-4a3104a84a5e,OCCUPANT,Unspecified,18829316.0,42.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,42.0,UNKNOWN
+12041447,4481780,11/28/2021,2:43,35b64305-94d4-4fb9-b4b8-ba3d18f5652e,OCCUPANT,Injured,20115672.0,47.0,Not Ejected,Conscious,Unknown,Driver,Lap Belt & Harness,,,Unknown,Driver,,,M,47.0,INJURED
+9469835,3971943,09/01/2018,22:20,e0685c1e-61e5-43ee-af0b-d036c5c83090,OCCUPANT,Unspecified,18753833.0,45.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,45.0,UNKNOWN
+11609822,4399600,01/27/2021,20:50,72cd43d0-c7f0-4487-bde0-3c6a1aaaa136,OCCUPANT,Unspecified,19864744.0,12.0,Not Ejected,Does Not Apply,Does Not Apply,"Middle rear seat, or passenger lying across a seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,12.0,UNKNOWN
+7041093,3706984,06/28/2017,19:00,5a575858-7172-4d07-b9f9-e6ba9d0bf067,OCCUPANT,Unspecified,17561064.0,55.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,55.0,UNKNOWN
+10082690,4191177,08/18/2019,19:45,dc9e6348-8b7c-4e1c-9056-0e80ee385532,OCCUPANT,Unspecified,19057548.0,26.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,26.0,UNKNOWN
+12642449,4637683,06/13/2023,17:36,906318ef-6df3-4a7f-bf3f-af40a41c1a51,OCCUPANT,Unspecified,20459691.0,66.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Lap Belt,,,Does Not Apply,Passenger,,,F,66.0,UNKNOWN
+9630554,4033236,11/26/2018,18:30,39c67de6-9d5f-4ed3-9d1d-57e80ed5dafa,OCCUPANT,Unspecified,18833178.0,63.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Other,,,Does Not Apply,Driver,,,M,63.0,UNKNOWN
+13085318,4752401,08/17/2024,16:30,09df7c4a-e171-4c04-8372-56152c0e8666,OCCUPANT,Unspecified,20711431.0,29.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,29.0,UNKNOWN
+6134590,3613855,02/12/2017,5:00,15c6c37b-6577-4002-95a6-677718193876,OCCUPANT,Unspecified,17129021.0,29.0,,,,,,,,,Registrant,,,M,29.0,UNKNOWN
+7146931,3739669,08/28/2017,20:50,b89c4717-e317-4217-8877-5d60a44bf3fd,OCCUPANT,Unspecified,,,,,,,,,,,Witness,,,,39.0,UNKNOWN
+12193759,4521480,04/24/2022,3:25,7f64c680-bd4e-4403-8693-344f77fdbd41,PEDESTRIAN,Injured,,25.0,,Conscious,Head,,,Pedestrian/Bicyclist/Other Pedestrian Not at Intersection,Other Actions in Roadway,Contusion - Bruise,Pedestrian,Unspecified,Unspecified,F,25.0,INJURED
+12339723,4559473,08/28/2022,17:15,638b4235-e06a-4f16-8fd0-647f0429e107,OCCUPANT,Unspecified,20287597.0,25.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,25.0,UNKNOWN
+7424035,3844015,02/11/2018,21:15,3873ff33-0c79-4c24-bf5c-7128ddc50373,OCCUPANT,Unspecified,17746650.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+6597500,3572647,12/03/2016,19:30,2919496,OCCUPANT,Unspecified,17348053.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+10315429,4245206,11/20/2019,12:00,3bf82c81-8575-43e6-98ac-14fbe217cf12,OCCUPANT,Unspecified,19174349.0,30.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,F,30.0,UNKNOWN
+6323188,3470535,06/23/2016,12:45,1040888,OCCUPANT,Unspecified,17217775.0,27.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt,,,Does Not Apply,Passenger,,,M,27.0,UNKNOWN
+11341079,4328771,07/15/2020,12:57,da56c1c1-cb7e-4887-ba18-90835d05477f,OCCUPANT,Unspecified,19707610.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+13459223,4837519,08/25/2025,13:07,6ccb1e56-787b-45a2-9f29-e79a930e62b6,OCCUPANT,Unspecified,20926768.0,46.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,46.0,UNKNOWN
+12232721,4531497,05/27/2022,3:30,ace5d24d-6602-4e83-b4f9-286ecc41e718,OCCUPANT,Unspecified,20225954.0,21.0,,,,,,,,,Registrant,,,F,21.0,UNKNOWN
+12764803,4669739,10/11/2023,19:55,42d3bf5f-03e9-4282-aeb4-508ca7db2629,BICYCLIST,Injured,20529514.0,21.0,Partially Ejected,Shock,Head,Driver,,,,Whiplash,Driver,,,M,21.0,INJURED
+9309295,3913838,06/01/2018,15:47,335f6555-4d59-4ef3-832e-a250854965de,OCCUPANT,Unspecified,18675063.0,33.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,33.0,UNKNOWN
+13397144,4820828,06/14/2025,3:48,a8ff9824-03f1-4e46-8426-b6544db1f8df,OCCUPANT,Unspecified,20890522.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+12593106,4625332,04/16/2023,20:50,855998c7-655f-4b3c-a38c-87d30d7e1d73,OCCUPANT,Unspecified,20431939.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+12927042,4711680,03/22/2024,14:15,e43bb987-5c09-496d-a616-56328c51b41a,OCCUPANT,Unspecified,20621587.0,4.0,Not Ejected,Does Not Apply,Does Not Apply,"Middle rear seat, or passenger lying across a seat",Child Restraint Only,,,Does Not Apply,Passenger,,,F,4.0,UNKNOWN
+6054308,3606661,01/27/2017,15:35,e706e71a-0b18-4e47-b59f-8d65126f9120,OCCUPANT,Unspecified,17090217.0,53.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,F,53.0,UNKNOWN
+11960525,4460162,09/23/2021,6:55,92d21bff-fdc3-4690-8f6b-77b18b2caf33,OCCUPANT,Unspecified,20069246.0,69.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,69.0,UNKNOWN
+6773489,3630521,03/04/2017,20:50,411623ac-046a-4170-b73e-f6822bedc15e,OCCUPANT,Unspecified,17432615.0,30.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,30.0,UNKNOWN
+9901395,4148976,06/10/2019,17:00,194ddbed-a438-4215-a187-65f6324e6683,OCCUPANT,Unspecified,18967320.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+7607965,3800321,11/27/2017,14:42,e8c2c023-5940-46e2-a7a4-7345fe0eea5e,OCCUPANT,Injured,17837139.0,58.0,Not Ejected,Conscious,Shoulder - Upper Arm,Driver,Lap Belt & Harness,,,Complaint of Pain,Driver,,,M,58.0,INJURED
+6458338,3586334,12/23/2016,23:00,3158247,OCCUPANT,Unspecified,17281698.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+10187637,4215576,09/30/2019,23:10,2b4314c0-740a-454a-81fc-f5d13d210393,BICYCLIST,Injured,19110475.0,16.0,Ejected,Conscious,Head,Driver,,,,Abrasion,Driver,,,M,16.0,INJURED
+9519733,3979676,09/12/2018,17:38,887125ec-13fd-4f38-a9ee-8d2881b807e3,OCCUPANT,Unspecified,18778394.0,32.0,,,,,,,,,Registrant,,,M,32.0,UNKNOWN
+12495583,4600141,01/22/2023,13:02,90f32ead-c37f-4e5b-b295-e5594c9d0643,OCCUPANT,Unspecified,20376751.0,71.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,71.0,UNKNOWN
+9931631,4155859,06/20/2019,17:57,25063d5e-ea4a-4897-96bd-bbcd3b9de7d3,OCCUPANT,Unspecified,18982180.0,21.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,21.0,UNKNOWN
+6502549,3553844,11/03/2016,22:04,2568414,OCCUPANT,Unspecified,17302777.0,26.0,,,,,,,,,Registrant,,,M,26.0,UNKNOWN
+6002914,3447358,05/30/2016,14:45,811335,OCCUPANT,Unspecified,17065832.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+9560316,4016209,11/07/2018,14:00,2bc2cb5c-e46e-4027-9df0-a21ed3447d52,OCCUPANT,Unspecified,18798534.0,67.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Unknown,,,Does Not Apply,Passenger,,,M,67.0,UNKNOWN
+9681472,4015468,11/06/2018,9:10,16e5fea8-312f-402b-8d8a-f8960714d021,OCCUPANT,Unspecified,18858468.0,43.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,43.0,UNKNOWN
+12160839,4512758,03/14/2022,8:50,35920134-fae4-41b8-b5c9-ccf5fb22416b,OCCUPANT,Unspecified,20184935.0,,,,,,,,,,Registrant,,,F,39.0,UNKNOWN
+6576831,3555962,10/21/2016,13:34,2577065,OCCUPANT,Unspecified,17338157.0,58.0,,,,,,,,,Registrant,,,F,58.0,UNKNOWN
+12264962,4539905,06/21/2022,14:40,35a186b6-9ba1-4452-9aa5-a4e5a2bb999c,OCCUPANT,Unspecified,20244474.0,6.0,Not Ejected,Does Not Apply,Does Not Apply,"Any person in the rear of a station wagon, pick-up truck, all passengers on a bus, etc",Lap Belt,,,Does Not Apply,Passenger,,,F,6.0,UNKNOWN
+11066275,4284455,02/06/2020,11:15,148bc0b5-f7f7-4c64-9017-ad80026c80c9,OCCUPANT,Unspecified,19561889.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+12997843,4729779,06/03/2024,13:44,be37cd1e-83c5-4852-b764-85107a348bd2,OCCUPANT,Unspecified,20661451.0,47.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,47.0,UNKNOWN
+7670883,3812566,12/18/2017,12:30,63d6ff64-2cbb-43c7-83e3-d117eec0fcfa,PEDESTRIAN,Injured,,43.0,,Conscious,Knee-Lower Leg Foot,,,Pedestrian/Bicyclist/Other Pedestrian Not at Intersection,Does Not Apply,Complaint of Pain,Pedestrian,Unspecified,Unspecified,M,43.0,INJURED
+12083845,4492538,12/17/2021,15:00,cf5ee109-d43f-47e3-bce6-dfd86857a171,OCCUPANT,Unspecified,20140265.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+6192010,3464346,05/26/2016,7:45,1009315,OCCUPANT,Unspecified,17156505.0,49.0,,,,,,,,,Registrant,,,F,49.0,UNKNOWN
+2301869,3386042,02/09/2016,16:59,2,OCCUPANT,Injured,15043508.0,39.0,,,,,,,,,,,,,39.0,INJURED
+11819649,4418444,05/17/2021,0:50,ea152086-425b-42cc-a8e6-b7b31ad87d08,OCCUPANT,Unspecified,19986513.0,32.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",,,,Does Not Apply,Passenger,,,F,32.0,UNKNOWN
+11377148,4338207,08/13/2020,18:30,a7770218-0e6b-4bdb-b81b-7eda0677b73f,OCCUPANT,Unspecified,19728716.0,40.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,,,,Does Not Apply,Passenger,,,M,40.0,UNKNOWN
+2289176,3339106,11/20/2015,17:30,1,OCCUPANT,Injured,14950292.0,53.0,,,,,,,,,,,,,53.0,INJURED
+7789495,3773687,10/19/2017,16:50,efcb5ae4-a753-487b-a503-95addfa148ee,OCCUPANT,Unspecified,17925529.0,47.0,,,,,,,,,Registrant,,,M,47.0,UNKNOWN
+12696702,4651980,08/01/2023,10:03,886a098a-9fef-4be7-9b8b-f0e70f98add0,OCCUPANT,Unspecified,20490445.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+6358889,3504333,08/13/2016,20:25,1675437,OCCUPANT,Unspecified,17234620.0,56.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,56.0,UNKNOWN
+7527955,3891353,04/27/2018,15:50,b0fc0235-4740-4594-a571-f1cd0a47f2a8,OCCUPANT,Unspecified,17797743.0,51.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,51.0,UNKNOWN
+11044820,4296005,02/28/2020,0:00,fd0b382c-a01e-41bd-b04c-a09b62ba6691,OCCUPANT,Unspecified,19550891.0,50.0,,,,,,,,,Registrant,,,M,50.0,UNKNOWN
+7771519,3787369,11/10/2017,14:30,57e1bf7f-84ad-404c-8e91-0ed61443199c,OCCUPANT,Unspecified,17916744.0,3.0,Not Ejected,Does Not Apply,Does Not Apply,"Any person in the rear of a station wagon, pick-up truck, all passengers on a bus, etc",Child Restraint Only,,,Does Not Apply,Passenger,,,F,3.0,UNKNOWN
+6555598,3510872,08/31/2016,1:15,1783378,OCCUPANT,Unspecified,17328065.0,58.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,58.0,UNKNOWN
+11147960,4307993,04/07/2020,8:16,fd140cd0-2aa1-44ba-9ba1-00af1c9551e2,OCCUPANT,Unspecified,19605085.0,44.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,44.0,UNKNOWN
+11161714,3886206,04/23/2018,6:44,0608b875-d42f-4978-87fb-b081323d3278,OCCUPANT,Unspecified,19612745.0,30.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,30.0,UNKNOWN
+2173525,283183,09/19/2013,16:00,1,BICYCLIST,Injured,14091823.0,,,,,,,,,,,,,,31.0,INJURED
+6843569,3647752,04/08/2017,2:30,0afd2b3d-4ec3-4a59-82a1-cc933392af9e,OCCUPANT,Unspecified,17466194.0,46.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,46.0,UNKNOWN
+9244860,4095821,03/12/2019,17:00,2ca49c60-0222-467c-b6d7-a8023fbafd62,OCCUPANT,Unspecified,18643385.0,56.0,,,,,,,,,Registrant,,,M,56.0,UNKNOWN
+6437051,3555451,11/02/2016,20:45,2609048,OCCUPANT,Unspecified,17271541.0,23.0,,,,,,,,,Registrant,,,M,23.0,UNKNOWN
+7660662,3874138,04/02/2018,13:13,707cc032-ba73-4bcc-8179-aceb389e4e10,OCCUPANT,Unspecified,17862836.0,24.0,,,,,,,,,Registrant,,,M,24.0,UNKNOWN
+11765105,4405906,04/09/2021,18:37,960f86a3-c855-4b76-94bc-7f232849cd7a,OCCUPANT,Unspecified,19954684.0,32.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,32.0,UNKNOWN
+11529310,4378214,12/22/2020,13:05,cb07092f-06c5-4b25-bd35-08f3d28a49ac,OCCUPANT,Unspecified,19817298.0,31.0,,,,,,,,,Registrant,,,F,31.0,UNKNOWN
+5932827,3431528,04/28/2016,21:00,512116,OCCUPANT,Unspecified,17032994.0,86.0,,,,,,,,,Registrant,,,M,86.0,UNKNOWN
+10151925,4207680,09/17/2019,15:25,61c69604-259a-4191-b624-d77d0fc21cf7,OCCUPANT,Unspecified,19092585.0,73.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,73.0,UNKNOWN
+11539001,4380720,12/31/2020,0:00,ec75700b-508c-4204-97a3-5fdaf46ff98b,OCCUPANT,Unspecified,19822994.0,21.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,21.0,UNKNOWN
+12259177,4538247,06/16/2022,23:59,f32c36a5-9b50-499e-a7e1-09f7adefa653,OCCUPANT,Unspecified,20241173.0,22.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,,,,Does Not Apply,Driver,,,F,22.0,UNKNOWN
+12720236,4657261,08/26/2023,11:15,77590889-9075-43ea-a786-c99654506d6b,OCCUPANT,Unspecified,20503883.0,37.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,37.0,UNKNOWN
+11189018,3694343,06/15/2017,19:30,1f5925f8-5e1e-4b41-be21-dca21cf67ba6,OCCUPANT,Unspecified,19627154.0,51.0,,,,,,,,,Registrant,,,M,51.0,UNKNOWN
+13446571,4833874,08/08/2025,19:00,30f20fa2-ef8b-4b5f-919a-449b4c5ed5f2,OCCUPANT,Unspecified,20919378.0,61.0,,,,,,,,,Registrant,,,M,61.0,UNKNOWN
+7136128,3720235,07/27/2017,14:40,4d3f16c0-027f-4245-b28d-cc106912f759,OCCUPANT,Unspecified,17606377.0,14.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt,,,Does Not Apply,Passenger,,,M,14.0,UNKNOWN
+11093702,4284113,02/05/2020,16:48,2647c76f-ff45-4b60-ad71-a46363811486,OCCUPANT,Unspecified,19576195.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+13175756,4759327,09/28/2024,22:30,866e3e30-2956-46e5-ac0f-2c6a194a00d7,OCCUPANT,Unspecified,20764664.0,39.0,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+13237208,4779197,12/16/2024,12:05,ac343ed1-8fd3-48b9-9b5a-242e5cfbe016,BICYCLIST,Unspecified,20799431.0,34.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,,,,Does Not Apply,Driver,,,M,34.0,UNKNOWN
+12513950,4604842,02/03/2023,16:04,4ff72dc2-5a86-4f68-a958-b56da9291976,OCCUPANT,Unspecified,20387116.0,51.0,,,,,,,,,Registrant,,,M,51.0,UNKNOWN
+11383068,4339928,08/19/2020,21:20,dc5f2863-8d6e-4711-aa4b-2a38e08d514e,OCCUPANT,Unspecified,19732136.0,24.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,24.0,UNKNOWN
+11477985,4364870,10/30/2020,15:30,3480537f-5376-4079-b07f-93becb6804fa,OCCUPANT,Unspecified,19787292.0,38.0,,,,,,,,,Registrant,,,F,38.0,UNKNOWN
+6466515,3521040,09/15/2016,10:15,1972635,OCCUPANT,Unspecified,17285532.0,42.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,42.0,UNKNOWN
+13197093,4768880,11/01/2024,14:50,962cbaeb-ab88-4fd7-8c5a-b025249acd2b,OCCUPANT,Unspecified,20776858.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+5930407,3440463,05/05/2016,20:35,652432,OCCUPANT,Unspecified,17031888.0,21.0,,,,,,,,,Registrant,,,F,21.0,UNKNOWN
+11399851,4344274,09/02/2020,17:57,d048e95f-956c-40c9-a808-118964e82c2a,OCCUPANT,Unspecified,19741884.0,24.0,,,,,,,,,Registrant,,,M,24.0,UNKNOWN
+13151626,4754795,09/10/2024,16:00,95dbf6bb-c8d7-4553-b727-27750a953ef9,OCCUPANT,Injured,20749934.0,45.0,Not Ejected,Unknown,Neck,"Middle rear seat, or passenger lying across a seat",Lap Belt & Harness,,,Whiplash,Passenger,,,M,45.0,INJURED
+12704658,4653810,08/03/2023,17:38,55a991a4-6e60-4560-906a-25413f2248c0,OCCUPANT,Unspecified,20494979.0,22.0,,,,,,,,,Registrant,,,F,22.0,UNKNOWN
+10320498,4246139,11/23/2019,18:00,573915d7-4e42-49ef-acde-29111190410e,OCCUPANT,Unspecified,19176830.0,26.0,,,,,,,,,Registrant,,,M,26.0,UNKNOWN
+11967184,4462005,09/24/2021,14:50,2c0116be-fa31-4273-b720-74a6935a76fe,OCCUPANT,Unspecified,20073155.0,40.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,40.0,UNKNOWN
+11577002,4390886,02/10/2021,7:00,a9bf904f-7ebe-4792-a9cd-8a8052abfb74,OCCUPANT,Unspecified,19845560.0,30.0,,,,,,,,,Registrant,,,M,30.0,UNKNOWN
+9995945,4170706,07/12/2019,16:11,80d528ce-8783-44d0-969e-579da02ad09b,OCCUPANT,Unspecified,19014034.0,21.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,21.0,UNKNOWN
+9266804,4045141,12/15/2018,1:53,4e5abd48-730e-4697-9c87-4b8cac1912e2,OCCUPANT,Unspecified,18654101.0,21.0,,,,,,,,,Registrant,,,M,21.0,UNKNOWN
+7846031,3765000,10/07/2017,18:45,102cb3a3-132e-421f-acb4-a9844b1b8456,OCCUPANT,Unspecified,17953106.0,58.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,58.0,UNKNOWN
+12098224,4496336,01/20/2022,19:15,9563dcc3-561d-41cf-a790-fcdb7501788c,OCCUPANT,Unspecified,20148768.0,49.0,,,,,,,,,Registrant,,,M,49.0,UNKNOWN
+7846614,3758224,09/22/2017,5:10,8bf9f52c-8508-4d3f-aec3-bdb992968889,OCCUPANT,Unspecified,17953381.0,62.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,62.0,UNKNOWN
+12576654,4621188,04/11/2023,15:32,d53671b8-53b5-493f-a1f9-68c93e9dd6c3,OCCUPANT,Injured,20422806.0,17.0,Not Ejected,Shock,Knee-Lower Leg Foot,"Middle rear seat, or passenger lying across a seat",Unknown,,,Complaint of Pain or Nausea,Passenger,,,M,17.0,INJURED
+13428628,4829524,07/17/2025,14:50,c4183f51-449b-48ae-9d6d-c25fc89ad831,OCCUPANT,Unspecified,20908981.0,50.0,,,,,,,,,Registrant,,,F,50.0,UNKNOWN
+6254269,3480837,07/15/2016,11:30,1233783,OCCUPANT,Unspecified,17185517.0,36.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,36.0,UNKNOWN
+9036637,4110619,04/06/2019,20:39,d2af1339-d60d-4b94-8845-016da2172e3c,OCCUPANT,Unspecified,18540580.0,40.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,40.0,UNKNOWN
+10242366,4228507,10/23/2019,11:00,c13f8669-5117-449d-b84f-2a812089a947,OCCUPANT,Unspecified,19137864.0,82.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,82.0,UNKNOWN
+12979851,4725129,05/16/2024,14:00,061ec9f2-ac1e-4efe-ad03-5a9fdd146b90,OCCUPANT,Unspecified,20651459.0,5.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Child Restraint Only,,,Does Not Apply,Passenger,,,M,5.0,UNKNOWN
+12425760,4581876,10/28/2022,22:00,4f403a1d-2094-44f2-9301-50ef3849dafc,PEDESTRIAN,Unspecified,,58.0,Not Ejected,Does Not Apply,Does Not Apply,Unknown,Unknown,Pedestrian/Bicyclist/Other Pedestrian Not at Intersection,Not in Roadway,Does Not Apply,Pedestrian,Unspecified,Unspecified,M,58.0,UNKNOWN
+12196537,4505383,02/23/2022,15:30,99071a0a-8455-4791-ba55-40a6070b2df4,OCCUPANT,Unspecified,20205510.0,55.0,,,,,,,,,Registrant,,,F,55.0,UNKNOWN
+12054318,4484641,12/08/2021,6:45,53ee07f3-edf9-407b-a40d-d9617fd28d26,BICYCLIST,Injured,20123065.0,27.0,Not Ejected,Conscious,Head,Riding/Hanging on Outside,,,,Minor Bleeding,Driver,,,M,27.0,INJURED
+13410283,4824552,07/01/2025,18:19,3866a75c-5aab-4015-9eed-558d0271c289,OCCUPANT,Injured,20898162.0,30.0,Not Ejected,Conscious,Shoulder - Upper Arm,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Abrasion,Passenger,,,F,30.0,INJURED
+11302230,4318568,06/05/2020,17:49,56d3fdb5-a7a2-4167-b9d0-41e877f98dc9,OCCUPANT,Unspecified,19685388.0,60.0,,,,,,,,,Registrant,,,M,60.0,UNKNOWN
+13151885,4752109,08/03/2024,21:30,85f7e075-b597-425a-aba5-abdee48712ea,OCCUPANT,Unspecified,20750069.0,53.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,53.0,UNKNOWN
+7334051,3840126,02/04/2018,16:30,a45e5cbb-f85f-42f7-8bb4-e45c33900f4a,OCCUPANT,Unspecified,17702490.0,29.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,29.0,UNKNOWN
+13485485,4844623,09/01/2025,13:54,754eaf63-949f-425f-aaf0-dafce9273d33,OCCUPANT,Unspecified,20941757.0,61.0,,,,,,,,,Registrant,,,M,61.0,UNKNOWN
+11977648,4464805,10/06/2021,20:38,43d761cb-93a4-45cb-b313-74ffc70f05db,OCCUPANT,Injured,20079164.0,68.0,Not Ejected,Conscious,Face,"Middle front seat, or passenger lying across a seat",Lap Belt & Harness,,,Complaint of Pain or Nausea,Passenger,,,F,68.0,INJURED
+6977812,3629249,03/09/2017,13:20,12f65e8b-67c1-4aad-9b3b-0d1bdd429283,OCCUPANT,Unspecified,17530705.0,19.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,19.0,UNKNOWN
+6020374,3591652,01/03/2017,16:40,3275061,OCCUPANT,Unspecified,17073992.0,47.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,47.0,UNKNOWN
+11503459,4371638,11/29/2020,23:30,504002c3-9721-454d-b05f-b08e483f0f3e,OCCUPANT,Unspecified,19802043.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+7379829,3875304,04/04/2018,16:45,8a14d61e-db20-4e84-a8c4-fa6a8d2f93b1,OCCUPANT,Unspecified,17725118.0,32.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,32.0,UNKNOWN
+9968244,4161135,06/28/2019,13:00,6cdda191-0440-456c-a1db-ab17aaca57fd,OCCUPANT,Unspecified,19000295.0,27.0,Not Ejected,Does Not Apply,Does Not Apply,"Middle front seat, or passenger lying across a seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,27.0,UNKNOWN
+11753712,4429857,06/14/2021,3:35,ef37111b-43b7-4fdc-b171-fe57fa9dd53a,OCCUPANT,Injured,19948099.0,23.0,Not Ejected,Conscious,Shoulder - Upper Arm,Driver,Lap Belt & Harness,,,Contusion - Bruise,Driver,,,F,23.0,INJURED
+6024410,3593836,01/04/2017,13:00,39de40ac-ceaf-41fa-b261-4dee565080d6,OCCUPANT,Unspecified,17075900.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+2252233,3216125,05/07/2015,19:30,2,OCCUPANT,Injured,14686947.0,46.0,,,,,,,,,,,,,46.0,INJURED
+11790755,4418474,05/17/2021,16:55,b4c2bfdd-f55c-41ba-978a-05e6c2303078,OCCUPANT,Injured,19969506.0,40.0,Not Ejected,Conscious,Neck,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Complaint of Pain or Nausea,Passenger,,,F,40.0,INJURED
+9799826,4126215,05/03/2019,10:30,5a69b5e3-7d0f-40be-860c-db5fba4c7641,OCCUPANT,Unspecified,18917139.0,49.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,49.0,UNKNOWN
+6619652,3581305,12/16/2016,16:15,3071155,OCCUPANT,Unspecified,17358649.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+6377494,3588513,12/28/2016,12:40,3209408,OCCUPANT,Unspecified,17243448.0,23.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,23.0,UNKNOWN
+12385212,4571414,10/08/2022,2:00,55a11f25-94d3-4c03-8dc4-d21e4de6d5c6,OCCUPANT,Unspecified,20313881.0,41.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Unknown,,,Does Not Apply,Passenger,,,M,41.0,UNKNOWN
+7643169,3879733,04/12/2018,7:25,5d4aa775-acd6-43d7-a556-93ff2f45616a,OCCUPANT,Unspecified,17854190.0,28.0,,,,,,,,,Registrant,,,F,28.0,UNKNOWN
+7358408,3834528,01/23/2018,17:30,fbff6584-ca6b-4d24-b1e2-add5877788a7,OCCUPANT,Unspecified,17714531.0,30.0,Not Ejected,Does Not Apply,Does Not Apply,"Middle front seat, or passenger lying across a seat",Lap Belt,,,Does Not Apply,Passenger,,,M,30.0,UNKNOWN
+11481795,4365295,11/08/2020,1:30,2156237b-f946-47c1-8153-8a5d0fc2a188,OCCUPANT,Unspecified,19789446.0,34.0,,,,,,,,,Registrant,,,F,34.0,UNKNOWN
+12827656,4686197,11/19/2023,19:45,9e0d6bf9-d550-4b3d-8e76-24706fd05338,OCCUPANT,Unspecified,20565166.0,10.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,10.0,UNKNOWN
+11101592,4278270,01/24/2020,10:01,31ca33b7-3fac-4edb-85bd-0d2d2aedd4bd,OCCUPANT,Unspecified,19580297.0,58.0,,,,,,,,,Registrant,,,M,58.0,UNKNOWN
+11751150,4408640,04/11/2021,22:50,de59b0d6-811b-42d3-b693-6b7dffd998f7,OCCUPANT,Unspecified,19946629.0,22.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,22.0,UNKNOWN
+13440387,4832606,08/01/2025,17:08,6a9f6f99-7dd5-435d-890a-fb40ebdac640,OCCUPANT,Unspecified,20915859.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+12598886,4626689,05/06/2023,21:39,f0763732-c108-4da9-a2c9-80488dd2e0ed,OCCUPANT,Unspecified,20435167.0,27.0,,,,,,,,,Registrant,,,F,27.0,UNKNOWN
+10016564,4175431,07/23/2019,8:20,457a3495-e288-41c5-9b53-64e7750a8282,OCCUPANT,Unspecified,19024426.0,42.0,,,,,,,,,Registrant,,,M,42.0,UNKNOWN
+13072160,4742171,06/20/2024,22:40,469daf0d-42e7-4f6a-b234-df9bbae6cec8,OCCUPANT,Injured,20703877.0,42.0,Ejected,Conscious,Entire Body,Driver,Helmet/Other (In-Line Skater/Bicyclist),,,Complaint of Pain or Nausea,Driver,,,,42.0,INJURED
+6111842,3624030,02/28/2017,7:50,9e59a8f3-4004-4556-a1ef-ce25e3859cbb,OCCUPANT,Unspecified,17117942.0,35.0,,,,,,,,,Registrant,,,M,35.0,UNKNOWN
+6912044,3703132,06/30/2017,22:10,755e3699-45f4-4450-bdbf-2eb6a4a5c78c,OCCUPANT,Unspecified,17499142.0,50.0,,,,,,,,,Registrant,,,M,50.0,UNKNOWN
+1682263,137255,03/05/2013,17:50,1,PEDESTRIAN,Injured,,62.0,,,,,,,,,,,,,62.0,INJURED
+12107103,4499400,01/30/2022,13:17,f9c5e7c7-ad29-4216-84b2-a08dd36e8b41,OCCUPANT,Unspecified,20153962.0,51.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,51.0,UNKNOWN
+7711503,3791064,11/16/2017,6:45,1092470a-b993-470f-a877-35141041f71c,OCCUPANT,Unspecified,17887783.0,31.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,F,31.0,UNKNOWN
+10153943,4207508,09/12/2019,22:35,cd48d0a5-0756-40df-ac43-8af930daed4a,OCCUPANT,Unspecified,19093589.0,30.0,,,,,,,,,Registrant,,,M,30.0,UNKNOWN
+13282320,4788044,01/24/2025,14:42,0ec662da-fb26-4277-adb0-e32c8acb4448,OCCUPANT,Unspecified,20825091.0,53.0,,,,,,,,,Registrant,,,F,53.0,UNKNOWN
+12276345,4542730,06/29/2022,11:00,8c61727c-0147-4ae4-a5b7-41d77eb1b66f,OCCUPANT,Unspecified,20251048.0,,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+9151204,4106458,03/31/2019,15:45,611c873c-e072-42e7-a086-b8eed188c579,OCCUPANT,Unspecified,18597360.0,55.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,55.0,UNKNOWN
+7731787,3808700,12/13/2017,8:25,f7926181-6ec9-4e76-aee7-2d9157dd2b4b,OCCUPANT,Unspecified,17897526.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+6590587,3515190,09/06/2016,9:40,1859353,OCCUPANT,Unspecified,17344764.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+6342328,3562899,11/18/2016,17:35,2744550,OCCUPANT,Unspecified,17226789.0,58.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,58.0,UNKNOWN
+7786409,3750489,09/14/2017,8:30,ca417131-fe3d-4322-83eb-340b2a5bfaf0,OCCUPANT,Unspecified,17923994.0,27.0,,,,,,,,,Registrant,,,F,27.0,UNKNOWN
+9185850,4111694,04/08/2019,21:30,57af4df5-4645-4026-a501-724608b6a5de,OCCUPANT,Unspecified,18614528.0,64.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,64.0,UNKNOWN
+9268159,3942817,07/16/2018,16:38,c2b90435-11c7-41df-b2ab-272ccbddc790,OCCUPANT,Unspecified,18654788.0,,,,,,,,,,Registrant,,,F,39.0,UNKNOWN
+11479956,4365285,11/07/2020,20:05,99f694e1-b2f5-4617-96a1-2aed45dec769,PEDESTRIAN,Unspecified,,31.0,,Does Not Apply,Does Not Apply,,,Pedestrian/Bicyclist/Other Pedestrian at Intersection,Crossing With Signal,Does Not Apply,Pedestrian,Unspecified,Unspecified,F,31.0,UNKNOWN
+9065403,4097569,03/14/2019,14:35,8215ca38-47c1-453b-ab4f-c9d7500e83b7,OCCUPANT,Unspecified,18554940.0,22.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,22.0,UNKNOWN
+7529271,3867166,03/21/2018,9:25,df758a29-2bea-4e1d-8ec9-66f85291141b,OCCUPANT,Unspecified,17798393.0,38.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,,38.0,UNKNOWN
+12156745,4511856,03/19/2022,12:10,0048f835-f904-45e6-a867-9eebcaaf9bdd,OCCUPANT,Unspecified,20182589.0,21.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,21.0,UNKNOWN
+13355423,4810043,05/01/2025,11:45,5702a7b2-40b2-448c-9773-4cb9d4fcfc59,OCCUPANT,Unspecified,20866826.0,50.0,,,,,,,,,Registrant,,,M,50.0,UNKNOWN
+9268572,3910869,05/30/2018,8:00,79eab139-402d-4e99-9daa-c691c2c6d0c5,OCCUPANT,Unspecified,18655001.0,29.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,F,29.0,UNKNOWN
+10117049,4198828,08/30/2019,19:40,e47b9d6d-5bde-42a5-b9b9-7a936452bcd6,OCCUPANT,Unspecified,19074934.0,9.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,9.0,UNKNOWN
+7005435,3672322,05/17/2017,17:50,e916213c-b3d7-49d1-b031-062976f8b230,OCCUPANT,Unspecified,17543862.0,72.0,,,,,,,,,Registrant,,,F,72.0,UNKNOWN
+11934170,4453424,09/03/2021,12:21,a06bd08e-6bd8-4242-9daf-fe4e7f6d840f,OCCUPANT,Unspecified,20053839.0,27.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,27.0,UNKNOWN
+5738070,3410055,03/31/2016,16:50,233328,OCCUPANT,Unspecified,16939430.0,34.0,Not Ejected,Conscious,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,34.0,UNKNOWN
+7396251,3855996,03/03/2018,14:15,2779c9a1-8196-494a-b7c6-2e62264ee1c5,OCCUPANT,Unspecified,17733154.0,35.0,,,,,,,,,Registrant,,,M,35.0,UNKNOWN
+10263902,4233035,10/31/2019,20:00,88062d5a-e8df-44db-b5bc-cba18fdb9c5b,OCCUPANT,Unspecified,19148440.0,49.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,49.0,UNKNOWN
+12386508,4571520,10/07/2022,21:28,2ce77010-2596-479f-a1bb-e2b05226baae,OCCUPANT,Unspecified,20314644.0,22.0,,,,,,,,,Registrant,,,F,22.0,UNKNOWN
+7858800,3798375,11/27/2017,1:00,1ff76d6b-5470-4404-bca2-3633d7f50f5e,OCCUPANT,Unspecified,17959398.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+11745038,4398873,03/14/2021,19:38,33471903-9cc4-4569-9a50-43751245ae44,OCCUPANT,Unspecified,19943134.0,63.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,63.0,UNKNOWN
+11311564,4320974,06/16/2020,12:48,83c159cd-4e2d-4ce3-bf92-ac2ba982b7f4,OCCUPANT,Unspecified,19690670.0,32.0,,,,,,,,,Registrant,,,M,32.0,UNKNOWN
+12510718,4603936,02/07/2023,21:29,fc4f80fb-7956-4ff8-8d18-1fa587b8b2cd,OCCUPANT,Unspecified,20385323.0,58.0,,,,,,,,,Registrant,,,M,58.0,UNKNOWN
+6808630,3701702,06/27/2017,13:40,3e0029af-f7e9-4334-a6a4-2766445cb846,OCCUPANT,Unspecified,17449433.0,,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+9615725,4004697,10/20/2018,16:12,33154495-724f-4de3-8e90-13a6fa5bbf47,OCCUPANT,Unspecified,18825863.0,49.0,,,,,,,,,Registrant,,,F,49.0,UNKNOWN
+6377495,3588513,12/28/2016,12:40,3209411,OCCUPANT,Unspecified,17243449.0,18.0,Not Ejected,Does Not Apply,Does Not Apply,Unknown,,,,Does Not Apply,Driver,,,F,18.0,UNKNOWN
+11107899,4302951,03/16/2020,4:00,db9ed7a6-df08-47ab-b048-5f39c532b041,OCCUPANT,Unspecified,19583548.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+12959561,4535500,06/08/2022,14:05,c8a9e446-f462-4634-adab-9edfb5fef776,OCCUPANT,Unspecified,20640054.0,25.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,25.0,UNKNOWN
+11835446,4431821,06/27/2021,9:10,e7b61ff8-5bc2-4d30-8f19-ce797deab913,OCCUPANT,Unspecified,19995795.0,,,,,,,,,,Registrant,,,F,39.0,UNKNOWN
+11507251,4372221,11/27/2020,0:00,630b218f-9b4a-430a-a00b-46b08450566c,OCCUPANT,Unspecified,19804291.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+9751874,4114826,04/14/2019,5:30,9903a992-b642-46cd-abd9-b5c2ddd260e6,OCCUPANT,Unspecified,18893476.0,21.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,21.0,UNKNOWN
+6235951,3562642,11/17/2016,7:55,2727461,OCCUPANT,Unspecified,17176981.0,50.0,,,,,,,,,Registrant,,,M,50.0,UNKNOWN
+12347039,4561315,09/02/2022,20:07,0acf1f66-0fe2-44a0-9978-e7ae62595234,OCCUPANT,Unspecified,20291929.0,40.0,,,,,,,,,Registrant,,,M,40.0,UNKNOWN
+9564230,4017567,11/09/2018,10:30,cf15ef8c-4e83-460d-8f5c-828882240eca,OCCUPANT,Unspecified,18800525.0,60.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,F,60.0,UNKNOWN
+6128504,3613113,02/09/2017,7:45,95363ab5-c62a-40db-a198-839dbafc066e,OCCUPANT,Unspecified,17126052.0,54.0,,,,,,,,,Registrant,,,F,54.0,UNKNOWN
+2295541,3362231,12/27/2015,19:05,1,PEDESTRIAN,Injured,,55.0,,,,,,,,,,,,,55.0,INJURED
+9556222,3947251,07/23/2018,1:13,9a406fe6-ab4d-49fd-a83f-40cfa1baaca7,OCCUPANT,Injured,18796474.0,26.0,Not Ejected,Conscious,Knee-Lower Leg Foot,"Middle rear seat, or passenger lying across a seat",Lap Belt & Harness,,,Complaint of Pain or Nausea,Passenger,,,M,26.0,INJURED
+13323389,4801802,03/24/2025,14:00,b1d2357a-772d-4960-b3c3-0cd76f0c55c1,OCCUPANT,Unspecified,20848574.0,45.0,,,,,,,,,Registrant,,,M,45.0,UNKNOWN
+5751287,3411603,04/03/2016,20:29,257678,PEDESTRIAN,Injured,,27.0,Does Not Apply,Conscious,Shoulder - Upper Arm,Riding/Hanging on Outside,-,Pedestrian/Bicyclist/Other Pedestrian Not at Intersection,"Crossing, No Signal, or Crosswalk",None Visible,Pedestrian,,,M,27.0,INJURED
+6261135,3459140,06/10/2016,7:00,911993,OCCUPANT,Unspecified,17188752.0,32.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,32.0,UNKNOWN
+9817602,4129592,05/11/2019,12:37,63b0733d-88e2-4a5c-96ed-5d43eefcac91,OCCUPANT,Unspecified,18925884.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+12185576,4519330,04/15/2022,15:05,538d7ad0-48f6-4d3e-a1ba-8c1e83e6d7f9,OCCUPANT,Injured,20199194.0,39.0,Not Ejected,Conscious,Back,Driver,Lap Belt & Harness,,,Complaint of Pain or Nausea,Driver,,,F,39.0,INJURED
+12334252,4557801,08/23/2022,18:25,8fc2cd1b-88d6-4aee-bda3-19373c77628b,OCCUPANT,Unspecified,20284401.0,54.0,,,,,,,,,Registrant,,,F,54.0,UNKNOWN
+5946239,3452772,05/21/2016,18:30,732972,OCCUPANT,Unspecified,17039316.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+9800545,4125668,05/02/2019,16:50,b70f093d-c0a1-45df-9c40-7713e42a4533,OCCUPANT,Unspecified,18917494.0,,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+6651784,3551419,10/31/2016,19:43,2525176,OCCUPANT,Unspecified,17374048.0,35.0,,,,,,,,,Registrant,,,M,35.0,UNKNOWN
+9918896,4152866,06/17/2019,3:55,03ac8a29-97f8-4cd9-bf9f-0b7fcc3b69fb,OCCUPANT,Injured,18975913.0,20.0,Not Ejected,Conscious,Neck,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Complaint of Pain or Nausea,Passenger,,,F,20.0,INJURED
+2294824,3360243,12/25/2015,0:14,1,OCCUPANT,Injured,14992339.0,21.0,,,,,,,,,,,,,21.0,INJURED
+6184879,3488113,07/25/2016,15:50,1327162,OCCUPANT,Unspecified,17153153.0,66.0,,,,,,,,,Registrant,,,M,66.0,UNKNOWN
+6276780,3451739,05/31/2016,8:00,3138165,OCCUPANT,Unspecified,17196050.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+7214588,3719442,07/26/2017,14:45,d5a6da60-72c8-4f1e-9da1-be00133af74d,OCCUPANT,Unspecified,17644207.0,48.0,,,,,,,,,Registrant,,,M,48.0,UNKNOWN
+7878795,3805571,12/08/2017,1:25,fcea46cf-6b3b-4284-9d3c-25f31154137f,OCCUPANT,Unspecified,17969180.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+2263493,3252842,07/05/2015,3:55,2,OCCUPANT,Injured,14775141.0,33.0,,,,,,,,,,,,,33.0,INJURED
+7107651,3707086,07/08/2017,21:15,36723e8b-e838-46ea-8338-c3b04aadb241,OCCUPANT,Unspecified,17592683.0,,,,,,,,,,Owner,,,,39.0,UNKNOWN
+6810164,3701741,06/28/2017,17:25,4a684470-aa26-477c-9483-7755a53b3d9b,OCCUPANT,Unspecified,17450149.0,57.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,57.0,UNKNOWN
+7070237,3679881,05/27/2017,23:40,69b9503b-68fa-409e-a7a9-24156902fe08,OCCUPANT,Injured,17574888.0,26.0,Not Ejected,Conscious,Head,Driver,Air Bag Deployed/Lap Belt/Harness,,,Complaint of Pain,Driver,,,F,26.0,INJURED
+6839251,3669381,05/11/2017,16:00,e5cc5315-0c4b-4dcb-891f-5224823345ce,OCCUPANT,Unspecified,17464096.0,22.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,F,22.0,UNKNOWN
+7667490,3808244,12/13/2017,14:45,3380e61c-3855-4e3a-bcce-cf98ced7bb3b,OCCUPANT,Unspecified,17866188.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+7583187,3887605,04/24/2018,22:26,66ea9e7d-341a-4064-8644-4c5e358cecf2,OCCUPANT,Unspecified,17824910.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+11753395,4427140,06/13/2021,2:00,9318e156-92e9-4b36-9015-012b376df3b5,OCCUPANT,Unspecified,19947912.0,3.0,,,,,,,,,Registrant,,,M,3.0,UNKNOWN
+7656190,3872850,03/30/2018,15:40,b95b1683-602c-410d-bb15-81df0714129b,OCCUPANT,Unspecified,17860653.0,,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Child Restraint Only,,,Does Not Apply,Passenger,,,F,39.0,UNKNOWN
+12565272,4618105,04/04/2023,16:10,f8e134f4-f08d-4694-b19b-ed1a23118845,BICYCLIST,Injured,20416354.0,64.0,Not Ejected,Conscious,Shoulder - Upper Arm,Driver,Unknown,,,Complaint of Pain or Nausea,Driver,,,M,64.0,INJURED
+12516395,4605421,02/13/2023,21:06,d09b99e9-0c3b-4b73-ab40-bd7e7c5107f9,OCCUPANT,Unspecified,20388516.0,25.0,,,,,,,,,Registrant,,,F,25.0,UNKNOWN
+12649476,4639576,06/15/2023,16:13,fccd1e72-b47e-4a9e-8f25-0574323a650b,OCCUPANT,Unspecified,20463611.0,37.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,F,37.0,UNKNOWN
+11251702,4263154,12/22/2019,16:00,6e6b3679-71fb-4dfc-affc-9b15ba3aaa39,OCCUPANT,Unspecified,,,,,,,,,,,Witness,,,,39.0,UNKNOWN
+11101360,4306885,03/09/2020,14:26,b18cf901-bedb-4431-9e13-6d5125198cb5,OCCUPANT,Unspecified,19580183.0,56.0,,,,,,,,,Registrant,,,M,56.0,UNKNOWN
+9916539,4152375,06/14/2019,20:19,d80bda28-6143-434e-b6c4-9442e41f4a18,OCCUPANT,Unspecified,18974778.0,38.0,,,,,,,,,Registrant,,,M,38.0,UNKNOWN
+11577923,4391122,02/11/2021,12:39,05b62936-323c-445e-91b5-97d7b0cf158e,PEDESTRIAN,Injured,,62.0,,Shock,Knee-Lower Leg Foot,,,Pedestrian/Bicyclist/Other Pedestrian at Intersection,Crossing With Signal,Fracture - Distorted - Dislocation,Pedestrian,View Obstructed/Limited,Unspecified,F,62.0,INJURED
+7718980,3775841,10/21/2017,23:50,130aa48c-893a-4ee3-891e-ca867692ac45,OCCUPANT,Unspecified,17891412.0,34.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,34.0,UNKNOWN
+11033037,4284715,02/06/2020,17:35,a1b6f17d-a563-4cc8-a55d-cfd2c7768d3c,OCCUPANT,Unspecified,19544804.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+12308515,4551010,07/24/2022,8:08,10f54dd2-8b1a-4c77-a1cd-bc3e19a77b24,OCCUPANT,Unspecified,20269572.0,,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+11022265,4276133,01/18/2020,15:46,0b3b2864-fef0-40af-a728-696c602214da,OCCUPANT,Unspecified,19539222.0,23.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,23.0,UNKNOWN
+12535442,4610442,03/03/2023,0:00,4f0d3e6a-075f-48f7-8b65-9b393cb90ca8,OCCUPANT,Unspecified,20399470.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+6972631,3673000,05/17/2017,15:10,dcc394db-818f-4674-868a-d795ff27ebdc,OCCUPANT,Unspecified,17528166.0,36.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,36.0,UNKNOWN
+9522730,3964340,08/18/2018,23:19,ec83bb09-0e6c-47f4-bef1-baf3c1107469,OCCUPANT,Unspecified,18779823.0,62.0,,,,,,,,,Registrant,,,F,62.0,UNKNOWN
+6708133,3589447,12/23/2016,16:35,3231183,OCCUPANT,Unspecified,17401107.0,35.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,35.0,UNKNOWN
+6131907,3610491,02/03/2017,23:15,7ea6519e-bbb3-46a7-abec-696e7cab6501,OCCUPANT,Unspecified,17127704.0,55.0,,,,,,,,,Registrant,,,M,55.0,UNKNOWN
+7755854,3790047,11/11/2017,6:36,536aa044-be1f-4b96-870f-1b75fe5af042,OCCUPANT,Unspecified,17909200.0,29.0,,,,,,,,,Registrant,,,M,29.0,UNKNOWN
+6495286,3499013,08/11/2016,8:00,1535183,OCCUPANT,Unspecified,17299307.0,26.0,Not Ejected,Does Not Apply,Does Not Apply,Unknown,Lap Belt,,,Does Not Apply,Driver,,,F,26.0,UNKNOWN
+6892702,3645371,04/04/2017,13:45,c08aa7f7-0fe4-4254-a23c-e9c2d6c0bd7f,OCCUPANT,Unspecified,17489861.0,,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+7762665,3772091,10/18/2017,16:27,470e9710-3bc2-427d-a3a8-5f47920af3fd,OCCUPANT,Unspecified,17912534.0,62.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,62.0,UNKNOWN
+11598375,4396660,03/05/2021,12:35,9a1637be-d41c-4f65-86d0-fcc603bdbfdd,OCCUPANT,Unspecified,19858133.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+10199520,4218701,10/03/2019,23:05,a4e03b55-a21e-413f-9705-e0cf60674038,OCCUPANT,Unspecified,19116380.0,50.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,50.0,UNKNOWN
+8969515,4067677,01/15/2019,16:20,125d7eb0-f746-4ea5-b172-65fce563b037,OCCUPANT,Unspecified,18507555.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+11914453,4448250,08/17/2021,16:10,92e03de4-a3a2-4f2f-9f52-a2c1ccc80e44,OCCUPANT,Unspecified,,,,,,,,,,,Witness,,,,39.0,UNKNOWN
+2280068,3277419,08/13/2015,21:40,1,PEDESTRIAN,Injured,,60.0,,,,,,,,,,,,,60.0,INJURED
+9296028,3949165,07/25/2018,15:00,60bb4368-0dc6-47ff-9c64-4158232e63ca,OCCUPANT,Unspecified,18668469.0,58.0,Not Ejected,Does Not Apply,Does Not Apply,"Middle front seat, or passenger lying across a seat",Unknown,,,Does Not Apply,Driver,,,M,58.0,UNKNOWN
+12338343,4559065,08/25/2022,11:27,b6b05f04-85bf-4a51-8f3d-0e66d16b7edf,OCCUPANT,Unspecified,20286785.0,37.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,37.0,UNKNOWN
+7648678,3882112,04/14/2018,13:58,fdb00e51-bdc1-47f3-9cf5-094165c9c401,OCCUPANT,Unspecified,17856919.0,36.0,,,,,,,,,Registrant,,,M,36.0,UNKNOWN
+7642111,3758116,09/25/2017,15:00,da3e771d-48e1-46b9-bddf-7303840430cf,OCCUPANT,Unspecified,17853654.0,31.0,,,,,,,,,Registrant,,,M,31.0,UNKNOWN
+9971740,4164901,07/04/2019,13:45,57559ba7-bfbf-4f5d-a0a5-d0153ebb2082,OCCUPANT,Unspecified,19002057.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+6740596,3589600,12/30/2016,14:45,3231736,OCCUPANT,Unspecified,17416826.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+7612361,3893066,05/03/2018,20:10,b96faa04-4313-4055-a50a-ca37fd035a97,OCCUPANT,Unspecified,17839264.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+12912023,4707806,03/04/2024,19:00,26fbeae6-c208-447b-a618-c5123a87481d,OCCUPANT,Unspecified,20613088.0,26.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,26.0,UNKNOWN
+12433604,4584080,11/17/2022,17:30,84b4427c-720c-4570-b5b5-45601be73923,OCCUPANT,Injured,20341361.0,35.0,Not Ejected,Conscious,Neck,Driver,Lap Belt & Harness,,,Complaint of Pain or Nausea,Driver,,,F,35.0,INJURED
+11512550,4374088,12/05/2020,18:45,c9fc0aa4-de90-4141-baf3-afe3f7d2542a,OCCUPANT,Unspecified,19807438.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+11503828,4371361,11/27/2020,13:10,8e2f5815-1642-41e0-a0e1-5a29b40d77f0,OCCUPANT,Unspecified,19802264.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+9606052,3992756,10/01/2018,17:09,c7160f9e-08dd-40b3-b905-f02da6a95521,OCCUPANT,Unspecified,18821194.0,,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+9442860,3954843,08/05/2018,13:45,6803126f-932c-4696-8fd6-7b0558d78775,OCCUPANT,Unspecified,18740514.0,42.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,42.0,UNKNOWN
+12015858,4474763,11/05/2021,14:50,aa31d7f5-febc-44f2-a764-7368751db7a4,BICYCLIST,Injured,20100993.0,36.0,Not Ejected,Conscious,Knee-Lower Leg Foot,Driver,,,,Abrasion,Driver,,,M,36.0,INJURED
+11470397,4362080,10/17/2020,15:15,32440b44-2173-45d0-8666-2be63d331279,OCCUPANT,Injured,19782858.0,32.0,Not Ejected,Conscious,Elbow-Lower-Arm-Hand,Driver,Lap Belt & Harness,,,Contusion - Bruise,Driver,,,F,32.0,INJURED
+12805513,4680210,11/18/2023,13:03,2cb26fa6-1504-461c-80b3-be0bba0c438e,OCCUPANT,Unspecified,20552478.0,64.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,,,,Does Not Apply,Driver,,,M,64.0,UNKNOWN
+11087358,4295208,02/29/2020,19:42,1fc98d36-3e80-48a1-90aa-368275ea4033,OCCUPANT,Unspecified,19572869.0,,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+7571068,3854014,02/28/2018,19:27,96bc38ad-c54d-4213-b3d4-e79dcf5ab4cf,OCCUPANT,Unspecified,17818989.0,56.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,F,56.0,UNKNOWN
+12463663,4591716,12/21/2022,12:09,882efca6-9f08-4618-bcb6-c164f2f33e2f,OCCUPANT,Unspecified,20358374.0,58.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Harness,,,Does Not Apply,Driver,,,M,58.0,UNKNOWN
+7395875,4025568,02/14/2018,10:35,fe8721de-c156-413f-9396-e5a51da3bd6d,OCCUPANT,Unspecified,17732981.0,32.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,32.0,UNKNOWN
+7528176,3876721,04/08/2018,0:00,5a24c619-7b54-4f31-87d2-c8a478a131f5,OCCUPANT,Unspecified,17797845.0,61.0,,,,,,,,,Registrant,,,M,61.0,UNKNOWN
+11223067,4261274,12/19/2019,11:15,91d1582a-8cda-4d2c-bdf5-7d87291351e9,OCCUPANT,Unspecified,19644257.0,,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Child Restraint Only,,,Does Not Apply,Passenger,,,M,39.0,UNKNOWN
+12153633,4511156,03/15/2022,8:21,d79a6383-a2ba-4ee9-ae6c-37761e710698,OCCUPANT,Injured,20180820.0,45.0,Not Ejected,Unknown,Back,Driver,Lap Belt,,,Complaint of Pain or Nausea,Driver,,,F,45.0,INJURED
+12445159,4587144,12/04/2022,20:05,44bad1b3-97d2-4ec6-954e-ce401d7a7e95,OCCUPANT,Unspecified,20347910.0,58.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,58.0,UNKNOWN
+7676512,3761376,09/28/2017,8:17,4735401b-1cf0-4cca-8c7e-c6e21ed33710,OCCUPANT,Unspecified,17870619.0,5.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Lap Belt,,,Does Not Apply,Passenger,,,F,5.0,UNKNOWN
+7688557,3812459,12/15/2017,17:00,b8a4af63-0652-4d22-9278-e85741a2141c,OCCUPANT,Unspecified,17876565.0,44.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,44.0,UNKNOWN
+7468288,3881059,04/14/2018,16:30,bc81addc-c9ea-4aaa-9f63-4d8104180a6f,OCCUPANT,Unspecified,17768409.0,53.0,Not Ejected,Does Not Apply,Does Not Apply,"Middle rear seat, or passenger lying across a seat",Lap Belt,,,Does Not Apply,Passenger,,,M,53.0,UNKNOWN
+9258996,3923296,06/17/2018,11:30,61639578-261f-4493-b945-1bf21ff4ffc4,OCCUPANT,Unspecified,18650297.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+9282066,3920563,06/13/2018,14:21,8b1271a4-965e-46f7-aa6c-ac39a315b5af,OCCUPANT,Unspecified,18661594.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+6917753,3671610,05/16/2017,18:07,fb162bd5-20e9-4292-83bc-82bddad5adb6,OCCUPANT,Unspecified,17501895.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+9064606,4076674,02/07/2019,15:00,3ef7e41b-99e1-4e1d-95e4-4990ee1b9dcf,OCCUPANT,Unspecified,18554550.0,39.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,39.0,UNKNOWN
+12493253,4599534,01/21/2023,12:53,88e797b3-6f80-4f9d-9b31-8881cd9b3239,OCCUPANT,Unspecified,20375388.0,3.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,3.0,UNKNOWN
+13241306,4780397,12/12/2024,15:17,f91b69d8-d184-481e-a5c0-b46ed2cfe195,OCCUPANT,Unspecified,20801638.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+9610294,4015475,11/06/2018,15:40,4e628320-1f7f-4604-ba98-f7f463d61cb2,OCCUPANT,Unspecified,18823244.0,39.0,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+9753088,4115325,04/15/2019,16:30,cf95050a-ea55-4af3-96ef-b798c55eda00,OCCUPANT,Unspecified,18894074.0,35.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,35.0,UNKNOWN
+13263777,4786147,01/16/2025,6:40,128f17f6-094a-486c-8c1d-5b46c065665d,OCCUPANT,Unspecified,20814476.0,,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,39.0,UNKNOWN
+5778079,3426993,03/31/2016,9:15,225368,OCCUPANT,Unspecified,16959341.0,31.0,,,,,,,,,Registrant,,,M,31.0,UNKNOWN
+12743773,4663768,09/18/2023,8:25,20cc2e18-683d-43fe-bec0-3ac9e4d4f9f2,OCCUPANT,Unspecified,20517663.0,36.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,36.0,UNKNOWN
+7662074,3781756,11/01/2017,18:53,cb136d72-0714-4c5a-a485-6cf95e421dc0,OCCUPANT,Unspecified,17863557.0,41.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,41.0,UNKNOWN
+11107763,4297355,02/26/2020,20:25,e2877819-df2d-4928-8587-ec821b5e4d1e,OCCUPANT,Unspecified,19583477.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+11832038,4415038,05/10/2021,8:00,9a4a79c0-17d1-4415-b4f3-fe66d1fb0d13,OCCUPANT,Unspecified,19993805.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+12946974,4716654,04/09/2024,15:15,056443a3-f7a6-462a-9443-804ae6405213,OCCUPANT,Unspecified,20632915.0,26.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,26.0,UNKNOWN
+1768073,162325,08/21/2013,13:00,1,PEDESTRIAN,Injured,,52.0,,,,,,,,,,,,,52.0,INJURED
+1350305,45932,09/29/2012,12:13,1,BICYCLIST,Injured,9274587.0,,,,,,,,,,,,,,31.0,INJURED
+6238252,3512439,09/02/2016,19:10,1819725,OCCUPANT,Injured,17178010.0,16.0,Not Ejected,Conscious,Back,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Unknown,,,Complaint of Pain,Passenger,,,F,16.0,INJURED
+12804168,4679800,11/16/2023,11:50,8bc390bb-cdb8-4762-9fa2-98c2366d0119,OCCUPANT,Unspecified,20551736.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+11867376,4435688,07/10/2021,0:15,46c5dbec-4ecf-4498-b78e-6cc8d860bb5d,BICYCLIST,Injured,20014706.0,64.0,Not Ejected,Conscious,Knee-Lower Leg Foot,Driver,,,,Complaint of Pain or Nausea,Driver,,,M,64.0,INJURED
+12487173,4597883,01/13/2023,20:00,fbf53f17-7c67-4f85-8b13-fc0282b7c707,OCCUPANT,Unspecified,20371907.0,60.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,60.0,UNKNOWN
+9725169,3997094,09/28/2018,18:00,de0934ce-5eda-4ddc-a90a-afe5421c1bc6,OCCUPANT,Unspecified,18880386.0,24.0,,,,,,,,,Registrant,,,M,24.0,UNKNOWN
+7689318,3813099,12/19/2017,7:35,effea0e7-10ae-4984-9697-deb1f9edbfb8,OCCUPANT,Unspecified,17876963.0,30.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,F,30.0,UNKNOWN
+10007171,4173086,07/18/2019,17:15,27b4a16b-b070-40f0-bb9a-916dcab4d306,OCCUPANT,Unspecified,19019670.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+12296961,4548024,07/12/2022,18:40,67fbb1aa-63e6-408d-ba94-9333720cdbeb,OCCUPANT,Unspecified,20262888.0,32.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,32.0,UNKNOWN
+7739422,3757643,09/26/2017,9:10,5df5afd1-4749-4c31-a540-47d4c635ba1a,OCCUPANT,Unspecified,17901229.0,29.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,29.0,UNKNOWN
+9469128,3983170,09/15/2018,3:00,dc92414b-25e0-42b6-8c13-6f7025c3f46b,OCCUPANT,Unspecified,18753484.0,,,,,,,,,,Registrant,,,F,39.0,UNKNOWN
+11847241,4432780,06/29/2021,11:40,953308c1-9f34-4b6b-9f7a-1da724ca4735,OCCUPANT,Unspecified,20002844.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+6219407,3479151,07/13/2016,9:30,1211628,OCCUPANT,Unspecified,17169311.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+6287936,3455107,06/03/2016,17:00,3137560,OCCUPANT,Unspecified,17201272.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+12171313,4515481,04/02/2022,2:00,18a20f6e-62ed-46f8-bf4c-c43d6d7e7021,OCCUPANT,Injured,20190985.0,51.0,Not Ejected,Conscious,Head,Driver,Lap Belt & Harness,,,Minor Bleeding,Driver,,,M,51.0,INJURED
+9399331,4011407,10/30/2018,6:34,0d94210e-2718-403a-a607-0382dfa797f8,OCCUPANT,Unspecified,18719194.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+6498111,3524922,09/19/2016,15:45,2055170,OCCUPANT,Unspecified,17300626.0,24.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,24.0,UNKNOWN
+6937315,3671391,05/15/2017,23:30,21bb7ccd-e03c-49b8-b391-24f1eeb0d53e,OCCUPANT,Unspecified,17511163.0,32.0,,,,,,,,,Registrant,,,F,32.0,UNKNOWN
+7110649,3725701,08/05/2017,20:20,506976b7-ce8f-40ab-a80b-b765cd16c60b,OCCUPANT,Unspecified,17594084.0,34.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Other,,,Does Not Apply,Passenger,,,F,34.0,UNKNOWN
+11791578,4401207,03/23/2021,7:12,26b84f44-7ad2-4025-a7dd-cbb4b43d4cfc,OCCUPANT,Unspecified,19969995.0,22.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,F,22.0,UNKNOWN
+7260668,3747389,09/09/2017,16:57,ef458550-82a0-42b5-844f-d5f836ed68e5,OCCUPANT,Unspecified,17666471.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+9364143,3923167,06/14/2018,14:02,cba22cd1-a7e6-4726-8f53-956ea0712e0d,OCCUPANT,Unspecified,18702064.0,60.0,,,,,,,,,Registrant,,,F,60.0,UNKNOWN
+7043761,3683442,06/03/2017,10:00,b2497ccb-5aa7-48bd-ad43-eeff47e7af17,OCCUPANT,Unspecified,17562341.0,54.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,54.0,UNKNOWN
+12148264,4509758,03/13/2022,14:56,b8b0bfe0-85f4-4c73-baf8-d833c3529ac7,OCCUPANT,Injured,20177780.0,69.0,Not Ejected,Conscious,Face,Driver,Lap Belt & Harness,,,Minor Bleeding,Driver,,,M,69.0,INJURED
+6680507,3503985,08/21/2016,0:00,1659809,OCCUPANT,Unspecified,17387908.0,47.0,Not Ejected,Does Not Apply,Does Not Apply,"Any person in the rear of a station wagon, pick-up truck, all passengers on a bus, etc",,,,Does Not Apply,Passenger,,,M,47.0,UNKNOWN
+6249283,3530140,09/28/2016,8:35,2135387,BICYCLIST,Injured,17183159.0,16.0,Not Ejected,Conscious,Knee-Lower Leg Foot,Riding/Hanging on Outside,Unknown,,,Complaint of Pain,Driver,,,M,16.0,INJURED
+12368574,4566862,09/25/2022,1:00,8810b3a6-2ee7-4f11-8638-50b84f9410bf,OCCUPANT,Unspecified,20304233.0,44.0,,,,,,,,,Registrant,,,M,44.0,UNKNOWN
+6279906,3464178,06/16/2016,19:25,976590,OCCUPANT,Unspecified,17197472.0,50.0,,,,,,,,,Registrant,,,M,50.0,UNKNOWN
+11555584,4385057,01/18/2021,22:50,c671e31c-c8cb-48e1-8409-11f757acd6ce,OCCUPANT,Unspecified,19832564.0,42.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,42.0,UNKNOWN
+6295840,3473847,07/02/2016,16:40,1126214,OCCUPANT,Unspecified,17204984.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+7659412,3797033,11/25/2017,18:20,d2f57c28-91a4-4f41-a18e-88a18a08e60f,OCCUPANT,Unspecified,17862210.0,55.0,,,,,,,,,Registrant,,,M,55.0,UNKNOWN
+11918942,4447637,08/14/2021,10:00,7debfb1c-6d44-4f88-9763-c888b92b01e3,OCCUPANT,Unspecified,20044842.0,50.0,,,,,,,,,Registrant,,,M,50.0,UNKNOWN
+12579210,4621363,04/17/2023,16:45,e301697b-e080-4041-b825-9a74a7d89703,OCCUPANT,Unspecified,20424206.0,57.0,,,,,,,,,Registrant,,,M,57.0,UNKNOWN
+11142536,3901229,05/14/2018,16:05,b1704121-ac68-4ff7-95df-029ba5ca5df8,OCCUPANT,Unspecified,19602179.0,,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+10165848,4210373,09/21/2019,18:00,ddbe9087-1593-4845-ab23-a2b6f31e1f75,OCCUPANT,Unspecified,19099612.0,26.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,26.0,UNKNOWN
+6614406,3550086,10/27/2016,20:10,2483223,OCCUPANT,Unspecified,17356138.0,,,,,,,,,,Registrant,,,F,39.0,UNKNOWN
+6664475,3562542,11/17/2016,17:40,2732690,OCCUPANT,Unspecified,17380190.0,53.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,53.0,UNKNOWN
+12011297,4473621,10/27/2021,18:34,698e2c25-8055-4651-806e-04dea5a39985,OCCUPANT,Unspecified,20098485.0,37.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,37.0,UNKNOWN
+7493783,3860198,03/10/2018,12:44,7be8febb-7a20-47e5-9876-10c4e7f469dc,OCCUPANT,Unspecified,17781022.0,29.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,29.0,UNKNOWN
+6191483,3472635,06/30/2016,15:45,1108441,OCCUPANT,Unspecified,17156259.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+8945569,4059825,01/23/2019,22:29,8c973e18-91dc-4785-ac1f-97ce7c5f8da9,OCCUPANT,Unspecified,18495553.0,58.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,58.0,UNKNOWN
+7258243,3734905,08/21/2017,18:00,f22b46f5-9d57-4fc6-886c-d97df3b623fb,OCCUPANT,Unspecified,17665220.0,38.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,F,38.0,UNKNOWN
+9745715,4055127,12/31/2018,8:10,4268e824-6607-41c3-af03-a646b4607f43,OCCUPANT,Unspecified,18890527.0,28.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,28.0,UNKNOWN
+9085615,3981014,09/15/2018,16:45,25e371a5-b6ac-4da2-a9aa-15742e3ead6c,OCCUPANT,Unspecified,18564928.0,83.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,83.0,UNKNOWN
+7000425,3652403,04/17/2017,7:30,caf2c56a-2cee-471d-a2dc-c529d84a1ba2,OCCUPANT,Unspecified,17541440.0,23.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,23.0,UNKNOWN
+7144607,3717058,07/15/2017,20:55,cda3ed0e-d59b-4de8-a293-1e57a462f13a,OCCUPANT,Unspecified,17610425.0,61.0,,,,,,,,,Registrant,,,F,61.0,UNKNOWN
+11129856,4293640,02/25/2020,8:15,c8b7fc67-1d66-45cb-ac73-a10271c3e37f,OCCUPANT,Unspecified,19595306.0,6.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Unknown,,,Does Not Apply,Passenger,,,F,6.0,UNKNOWN
+9951405,4166094,04/30/2019,9:30,ffac6f2e-ee2c-44d4-8ff8-63689bb74901,OCCUPANT,Unspecified,18992036.0,32.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,F,32.0,UNKNOWN
+12805785,4680049,11/18/2023,20:50,e5ecef35-53cb-49ca-9c5c-54a143a267be,BICYCLIST,Injured,20552642.0,40.0,Not Ejected,Conscious,Back,Driver,,,,Complaint of Pain or Nausea,Driver,,,M,40.0,INJURED
+12957081,4719440,04/22/2024,9:58,4f6f71cc-6f2e-4134-924a-6c45a3ad65d4,OCCUPANT,Unspecified,20638617.0,26.0,,,,,,,,,Registrant,,,F,26.0,UNKNOWN
+7521691,3890380,04/27/2018,15:45,e51818c0-ed6f-4b0e-ac21-18e465355172,OCCUPANT,Unspecified,17794700.0,63.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,63.0,UNKNOWN
+9208929,3937033,07/07/2018,11:55,de5a71a2-ea74-40fe-87e8-acfbbb627209,OCCUPANT,Unspecified,18625891.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+13164336,4756887,09/14/2024,23:13,d4b65446-4254-4849-a52d-82011d6c15f7,OCCUPANT,Injured,20757676.0,20.0,Not Ejected,Conscious,Neck,Driver,Lap Belt & Harness,,,Complaint of Pain or Nausea,Driver,,,M,20.0,INJURED
+12677929,4646887,07/18/2023,9:29,1ab1985b-58d1-46f7-bb20-f32383f52b42,OCCUPANT,Unspecified,20479709.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+6743892,3554735,11/05/2016,12:59,2585934,OCCUPANT,Unspecified,17418413.0,42.0,,,,,,,,,Registrant,,,M,42.0,UNKNOWN
+12590936,4624645,04/14/2023,22:30,01404b6a-7db5-4015-be21-02074e394da3,OCCUPANT,Injured,20430678.0,42.0,Ejected,Conscious,Face,Driver,Unknown,,,Minor Bleeding,Driver,,,M,42.0,INJURED
+9329747,4048228,12/19/2018,14:19,e9a73589-be4e-4722-8bbc-bc3042fb4bff,OCCUPANT,Unspecified,18685119.0,59.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,F,59.0,UNKNOWN
+9574660,3973047,09/03/2018,16:00,8edffd0b-27dc-4984-ad7c-f8df8272f24c,OCCUPANT,Unspecified,18805670.0,56.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,56.0,UNKNOWN
+9301452,3926513,06/21/2018,19:24,5f8a6120-8741-4373-9ea8-ef92a13ba894,OCCUPANT,Unspecified,18671154.0,49.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,49.0,UNKNOWN
+11073672,4298363,03/06/2020,0:32,850bf83f-56ec-4054-ac30-e18cee74fbee,OCCUPANT,Unspecified,19565806.0,32.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,32.0,UNKNOWN
+7745016,3756133,09/22/2017,2:47,4549a5c7-9f6d-4279-872f-2049c094e5ad,OCCUPANT,Unspecified,17903928.0,66.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,66.0,UNKNOWN
+9809774,4127936,05/07/2019,8:50,f29c14f8-9e81-4402-ab22-fae15495bee4,OCCUPANT,Unspecified,18922008.0,63.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,63.0,UNKNOWN
+11873107,4437275,07/15/2021,20:00,15b98740-be8d-4688-9887-b43147e69f3b,OCCUPANT,Injured,20018082.0,34.0,Ejected,Conscious,Entire Body,Driver,Helmet (Motorcycle Only),,,Unknown,Driver,,,M,34.0,INJURED
+6998207,3641741,03/29/2017,15:00,b5ac670d-e2ec-4442-b094-15388cb8581b,OCCUPANT,Unspecified,17540403.0,55.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Unknown,,,Does Not Apply,Passenger,,,F,55.0,UNKNOWN
+7226085,3742271,09/01/2017,16:30,ae53c076-3b65-4c8b-8e44-a045bac494c4,OCCUPANT,Unspecified,17649732.0,50.0,,,,,,,,,Registrant,,,F,50.0,UNKNOWN
+11279401,4312731,05/08/2020,7:36,bcfd2880-e26b-45eb-8861-13e07dad0084,OCCUPANT,Unspecified,19672191.0,24.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,24.0,UNKNOWN
+7577685,3756593,09/20/2017,21:00,c2913d94-ff81-4b30-9270-49924de79853,OCCUPANT,Unspecified,17822218.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+10314674,4244395,11/20/2019,10:30,6fa1852a-893b-4957-8d17-53e8208d48e4,OCCUPANT,Unspecified,19173956.0,,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+7073922,3702715,07/01/2017,5:35,8ebfefa8-48e8-4657-8bf1-e306b84169ab,OCCUPANT,Unspecified,17576688.0,,,,,,,,,,Registrant,,,F,39.0,UNKNOWN
+9229816,3976860,09/08/2018,13:00,e2cb137c-0645-4567-858f-fceadbb52809,OCCUPANT,Unspecified,18636110.0,36.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,36.0,UNKNOWN
+6318684,3522579,09/17/2016,10:00,1992619,OCCUPANT,Unspecified,17215661.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+11447036,4356546,10/10/2020,19:50,a997348a-d044-4a3b-8ac6-95d034347d96,OCCUPANT,Unspecified,19769318.0,36.0,,,,,,,,,Registrant,,,M,36.0,UNKNOWN
+7234714,3721487,07/30/2017,20:30,f91b0d63-5fe9-4623-9a10-4db3ebfe45d4,OCCUPANT,Unspecified,17653817.0,46.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,46.0,UNKNOWN
+11467727,4361150,10/25/2020,13:33,f35e592e-422d-496c-bc3a-045754cd1f9a,OCCUPANT,Unspecified,19781361.0,69.0,Not Ejected,Does Not Apply,Does Not Apply,"Middle front seat, or passenger lying across a seat",Lap Belt,,,Does Not Apply,Passenger,,,F,69.0,UNKNOWN
+7145217,3712015,07/16/2017,16:00,44e79cf0-dc56-4ce6-a455-bda1ea0c61db,OCCUPANT,Unspecified,17610724.0,64.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,64.0,UNKNOWN
+9376385,3981069,09/15/2018,21:28,f7f3eb84-9cb7-49f2-890b-d509d2f64a6c,PEDESTRIAN,Injured,,16.0,,Conscious,Entire Body,,,Pedestrian/Bicyclist/Other Pedestrian Not at Intersection,"Crossing, No Signal, or Crosswalk",Contusion - Bruise,Pedestrian,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Unspecified,M,16.0,INJURED
+12947865,4717175,04/13/2024,21:48,35b3078d-6cf8-4772-8731-9d67f9ee0500,OCCUPANT,Unspecified,20633435.0,47.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Lap Belt,,,Does Not Apply,Passenger,,,M,47.0,UNKNOWN
+13274748,4788991,01/26/2025,3:03,b377cd63-7074-42f1-8061-788a1d796350,OCCUPANT,Unspecified,20820817.0,36.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,36.0,UNKNOWN
+7031038,3700064,06/26/2017,15:10,d9be72ec-edc3-400d-a319-ad42a8b2197c,OCCUPANT,Unspecified,17556205.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+5958275,3431272,04/26/2016,21:58,503839,OCCUPANT,Unspecified,17044918.0,43.0,,,,,,,,,Registrant,,,F,43.0,UNKNOWN
+8948365,4062558,01/07/2019,0:15,1f448c39-d31a-42bb-9baa-a21c7c5cc975,OCCUPANT,Unspecified,18496955.0,20.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,20.0,UNKNOWN
+7931761,3805598,12/08/2017,20:45,cf18d4a4-d744-420c-8ee7-fe5a8d4c0b6c,OCCUPANT,Unspecified,17995270.0,55.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,55.0,UNKNOWN
+12923252,4710529,03/15/2024,14:25,02effe0e-ee53-4722-818d-e86df1f6ff10,OCCUPANT,Unspecified,20619461.0,56.0,Not Ejected,Does Not Apply,Does Not Apply,"Any person in the rear of a station wagon, pick-up truck, all passengers on a bus, etc",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,56.0,UNKNOWN
+13482206,4843695,09/17/2025,20:00,ab6bd2d9-137c-415a-a63b-0d0209a5111d,OCCUPANT,Unspecified,20939898.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+6943626,3666220,05/09/2017,10:00,405dbaec-0a72-4afc-9f80-f1b45f6ecf81,OCCUPANT,Unspecified,17514193.0,27.0,,,,,,,,,Registrant,,,M,27.0,UNKNOWN
+11058350,4297208,03/02/2020,17:45,888ec462-a092-4e50-885c-b355df306d10,OCCUPANT,Unspecified,19557823.0,68.0,,,,,,,,,Registrant,,,M,68.0,UNKNOWN
+8930964,4112743,04/11/2019,7:22,7dd29343-2813-4aef-a2b0-7e60caf37e25,OCCUPANT,Unspecified,18488263.0,67.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,67.0,UNKNOWN
+5877780,3453716,05/11/2016,6:25,825052,OCCUPANT,Unspecified,17007188.0,32.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,32.0,UNKNOWN
+6102357,3618585,02/19/2017,17:00,4a19747a-cfd7-4847-b576-0b5fe8f84455,OCCUPANT,Unspecified,17113441.0,38.0,,,,,,,,,Registrant,,,M,38.0,UNKNOWN
+7148408,3721578,07/30/2017,13:32,397e90a0-9b7c-4a91-bde6-fc484e242588,OCCUPANT,Unspecified,,,,,,,,,,,Witness,,,,39.0,UNKNOWN
+6480989,3485203,07/20/2016,14:15,1282001,OCCUPANT,Unspecified,17292498.0,54.0,,,,,,,,,Registrant,,,M,54.0,UNKNOWN
+9783409,4122265,04/26/2019,18:22,44eb5d65-fbfe-4fd8-b6ca-6dabf9e8bb9e,OCCUPANT,Unspecified,18909088.0,37.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,37.0,UNKNOWN
+7595960,3787393,11/08/2017,9:40,cf70cd49-d7fd-4fc9-b722-8cec55ccb00a,OCCUPANT,Unspecified,17831184.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+11551191,4383769,01/14/2021,3:20,89ac1acf-4429-4270-b83d-5f34885ba7fa,OCCUPANT,Unspecified,19829965.0,69.0,,,,,,,,,Registrant,,,M,69.0,UNKNOWN
+10025323,4177642,07/26/2019,4:30,03780638-b6b1-4f37-b8e9-22b370d60e64,OCCUPANT,Unspecified,19028879.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+9987778,4168749,07/11/2019,18:20,d00a8727-db28-42c1-b35c-b3277637802f,OCCUPANT,Unspecified,19010018.0,55.0,,,,,,,,,Registrant,,,M,55.0,UNKNOWN
+7159809,3710736,07/13/2017,18:25,ee01fc4d-419b-48ee-a08f-a3524c8e52f2,OCCUPANT,Unspecified,17617786.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+13046621,4742401,07/18/2024,3:20,72dc23dd-843b-408f-8451-4f08f68df991,OCCUPANT,Unspecified,20689211.0,29.0,,,,,,,,,Registrant,,,M,29.0,UNKNOWN
+6196722,3553609,11/03/2016,14:45,2570689,OCCUPANT,Unspecified,17158709.0,73.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,F,73.0,UNKNOWN
+9321489,4107002,04/01/2019,16:00,080b8b32-6867-4647-a3bb-afeec1493144,OCCUPANT,Unspecified,18681007.0,76.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt,,,Does Not Apply,Passenger,,,F,76.0,UNKNOWN
+7679550,3779611,10/29/2017,23:50,288d56e5-4182-4251-8bdf-c5e7208bd988,OCCUPANT,Unspecified,17872115.0,37.0,,,,,,,,,Registrant,,,F,37.0,UNKNOWN
+13525465,4855136,10/29/2025,20:00,eefcb069-8158-4248-a130-aa65e27b3729,OCCUPANT,Unspecified,20964547.0,30.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,30.0,UNKNOWN
+11073873,4283253,02/03/2020,6:47,26796a1a-d95d-44c7-b44c-d331b31c8e87,OCCUPANT,Unspecified,19565900.0,57.0,,,,,,,,,Registrant,,,M,57.0,UNKNOWN
+7566497,3890554,03/13/2018,21:00,a698636b-0398-46e2-bb4d-d94fbdba69fc,OCCUPANT,Unspecified,17816724.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+6755639,3561263,11/15/2016,17:15,2719010,OCCUPANT,Unspecified,,,,,,,,,,,Witness,,,,39.0,UNKNOWN
+6526064,3571259,11/30/2016,20:20,2900637,OCCUPANT,Unspecified,17313977.0,45.0,,,,,,,,,Registrant,,,M,45.0,UNKNOWN
+1920347,349953,06/11/2014,15:15,1,PEDESTRIAN,Injured,,10.0,,,,,,,,,,,,,10.0,INJURED
+12357545,4563962,09/12/2022,18:30,99444d79-9b89-4b56-9ff9-3bf740d695f7,OCCUPANT,Unspecified,20297882.0,42.0,,,,,,,,,Registrant,,,M,42.0,UNKNOWN
+12835236,4687847,12/15/2023,10:39,1996bbd6-6d9c-49dc-8171-17361a563211,OCCUPANT,Injured,20569395.0,51.0,Trapped,Conscious,Shoulder - Upper Arm,Right rear passenger or motorcycle sidecar passenger,Lap Belt,,,Internal,Passenger,,,F,51.0,INJURED
+6729422,3569227,11/28/2016,22:35,2855172,OCCUPANT,Unspecified,17411424.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+9238012,3926674,06/21/2018,10:49,9f037e1e-9061-4081-bf9f-388cfcc54fec,OCCUPANT,Unspecified,18640091.0,30.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,F,30.0,UNKNOWN
+11178659,3687363,06/10/2017,8:05,57e6a50f-6c22-40a5-9ee0-40a0dd3d2d23,OCCUPANT,Injured,19621696.0,53.0,Not Ejected,Conscious,Back,Driver,Lap Belt,,,Complaint of Pain or Nausea,Driver,,,M,53.0,INJURED
+7559934,3880520,04/14/2018,21:00,f8432b96-06f0-4605-8e0d-e6e542509b71,OCCUPANT,Unspecified,17813515.0,75.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,F,75.0,UNKNOWN
+9665123,3985590,09/22/2018,10:56,cdde79c7-124c-4e4c-bbae-c0510176b7af,OCCUPANT,Unspecified,18850369.0,5.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,5.0,UNKNOWN
+11884916,4440216,07/23/2021,8:54,9eb9a648-73cb-45ee-8a44-bc542789d99f,OCCUPANT,Unspecified,20024862.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+9436251,3940047,07/12/2018,9:22,0234a2cf-e813-4f03-bba8-478fb134807f,OCCUPANT,Unspecified,18737334.0,71.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,71.0,UNKNOWN
+11806789,4406954,04/12/2021,15:20,b098fb90-2e6a-49c5-8775-37656e2c0360,OCCUPANT,Injured,19978944.0,24.0,Not Ejected,Conscious,Head,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Lap Belt & Harness,,,Complaint of Pain or Nausea,Passenger,,,M,24.0,INJURED
+10012220,4173980,07/17/2019,0:40,257f2276-aa44-491b-bb62-5b5b93a67e3a,OCCUPANT,Unspecified,19022215.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+12005632,4472197,10/29/2021,23:31,99de133c-1c0d-4e02-84df-bc4458c04557,OCCUPANT,Unspecified,20095157.0,66.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,66.0,UNKNOWN
+8995824,4076057,02/06/2019,12:35,068f48db-c655-4694-999f-e4fcd52cb5e2,OCCUPANT,Unspecified,18520558.0,23.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,23.0,UNKNOWN
+6560987,3517111,09/09/2016,22:23,2136598,OCCUPANT,Unspecified,17330632.0,25.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,25.0,UNKNOWN
+6549099,3547581,10/26/2016,10:30,2465133,OCCUPANT,Unspecified,17324934.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+7544776,3883944,04/19/2018,14:52,18807224-994b-4f8a-ad15-45148e648188,OCCUPANT,Unspecified,17806067.0,40.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,40.0,UNKNOWN
+11870341,4435971,07/12/2021,2:00,52297f29-47f0-44ee-b330-9f10ef1e2ef3,OCCUPANT,Unspecified,20016443.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+7564758,3891239,04/30/2018,16:00,19a3bea4-27be-460d-95c4-c648d50ba5e2,OCCUPANT,Unspecified,17815906.0,41.0,,,,,,,,,Registrant,,,F,41.0,UNKNOWN
+12644709,4638314,05/29/2023,19:52,0c1946e5-141a-4c49-bfe6-28711111e692,OCCUPANT,Unspecified,20460931.0,62.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,62.0,UNKNOWN
+6051220,3604800,01/21/2017,18:00,06a2d587-7bd6-40ee-9af0-d42e573eac56,OCCUPANT,Unspecified,17088736.0,29.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,29.0,UNKNOWN
+11104887,4290886,02/18/2020,13:00,0f731364-6c6f-48b1-80df-0ac92068d14f,OCCUPANT,Unspecified,19581992.0,28.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,28.0,UNKNOWN
+7553543,3887170,04/22/2018,11:20,af0ef300-2bb5-4ad7-aa08-aca03db79b3b,OCCUPANT,Unspecified,17810348.0,38.0,,,,,,,,,Registrant,,,M,38.0,UNKNOWN
+7295346,3829539,01/16/2018,15:00,f90fa968-e599-4993-94a0-530ebfcbb941,OCCUPANT,Unspecified,17683555.0,27.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,,,,Does Not Apply,Driver,,,M,27.0,UNKNOWN
+11278360,4312435,05/08/2020,13:30,d8197973-f9b3-4cbd-bf31-210f2b9bef93,OCCUPANT,Unspecified,19671574.0,44.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,,,,Does Not Apply,Driver,,,M,44.0,UNKNOWN
+9811607,4128565,05/08/2019,17:00,3a9d4c61-c46c-4380-a511-e68b7d33ae09,OCCUPANT,Unspecified,18922913.0,17.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,17.0,UNKNOWN
+6434121,3573180,12/02/2016,23:43,2908197,OCCUPANT,Unspecified,17270155.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+9847640,4136717,05/21/2019,11:45,ad46ddda-9d46-41cc-ba23-5d49afa2ea24,OCCUPANT,Unspecified,18940730.0,,,,,,,,,,Registrant,,,F,39.0,UNKNOWN
+12695203,4651425,07/22/2023,22:59,d918799e-cbb6-4de8-928a-a947cb7b194d,OCCUPANT,Unspecified,20489586.0,56.0,,,,,,,,,Registrant,,,M,56.0,UNKNOWN
+6646031,3546038,10/21/2016,18:51,2408590,OCCUPANT,Unspecified,17371277.0,34.0,,,,,,,,,Registrant,,,F,34.0,UNKNOWN
+12599632,4626914,04/30/2023,0:00,ca3dd798-35d7-4815-bab2-616d2067ba24,OCCUPANT,Unspecified,20435608.0,21.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt,,,Does Not Apply,Passenger,,,M,21.0,UNKNOWN
+7913942,3754284,09/20/2017,14:45,4b35611e-ff3e-45fa-aaed-b063ae48c4cd,OCCUPANT,Unspecified,17986498.0,22.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,22.0,UNKNOWN
+6243634,3498587,08/11/2016,18:45,1550561,OCCUPANT,Unspecified,17180560.0,44.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,44.0,UNKNOWN
+10059267,4184996,08/07/2019,20:15,e9704a07-d12e-4215-8336-bf9ba9ddda51,OCCUPANT,Unspecified,19045759.0,50.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,50.0,UNKNOWN
+9712465,3967639,08/25/2018,16:20,5856612e-8651-43e7-b8de-5f47c665e4cb,OCCUPANT,Unspecified,18873973.0,23.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,23.0,UNKNOWN
+11767495,4404292,04/04/2021,11:29,e58665b2-1e00-48d9-bf0a-db7b5b74a1d5,OCCUPANT,Unspecified,19956099.0,72.0,,,,,,,,,Registrant,,,M,72.0,UNKNOWN
+9404971,3922873,06/13/2018,16:30,c835316f-80d4-45bf-a563-752fb492fc39,OCCUPANT,Unspecified,18721944.0,31.0,,,,,,,,,Registrant,,,M,31.0,UNKNOWN
+11370592,4336679,08/08/2020,19:30,81b11a5d-3094-470d-9017-a168089350d8,OCCUPANT,Unspecified,19724914.0,,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+7810761,3801829,12/01/2017,6:50,371052f9-5318-4424-939e-b9905a897692,OCCUPANT,Unspecified,17935858.0,31.0,,,,,,,,,Registrant,,,M,31.0,UNKNOWN
+1582083,110643,01/10/2013,17:00,4,OCCUPANT,Injured,10604941.0,31.0,,,,,,,,,,,,,31.0,INJURED
+13327166,4802725,03/27/2025,8:10,993a3ade-1e9c-4015-b2e3-c3b76c487377,OCCUPANT,Unspecified,20850747.0,65.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,,,,Does Not Apply,Driver,,,F,65.0,UNKNOWN
+6555398,3519473,09/14/2016,0:00,1954421,OCCUPANT,Unspecified,17327965.0,25.0,Not Ejected,Does Not Apply,Does Not Apply,Unknown,Other,,,Does Not Apply,Driver,,,F,25.0,UNKNOWN
+11042863,4278367,01/24/2020,14:40,8bac35ca-5aeb-44f1-a180-49ce4e5bd696,OCCUPANT,Unspecified,19549879.0,59.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,59.0,UNKNOWN
+7527610,3885894,04/21/2018,18:50,9d7d8bf0-369f-407c-9276-5e87af398336,OCCUPANT,Injured,17797577.0,26.0,Not Ejected,Conscious,Neck,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt,,,None Visible,Passenger,,,F,26.0,INJURED
+12391696,4572891,10/14/2022,0:00,ee02c750-e41a-42e2-8688-2ab282c1a8e9,OCCUPANT,Unspecified,20317565.0,31.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,31.0,UNKNOWN
+6528068,3521574,09/17/2016,12:00,1992378,OCCUPANT,Unspecified,17314926.0,11.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,11.0,UNKNOWN
+10072352,4187989,08/11/2019,12:20,24a6d778-994d-4663-9b45-cccef1e67f53,OCCUPANT,Unspecified,19052350.0,50.0,,,,,,,,,Registrant,,,M,50.0,UNKNOWN
+12768361,4670761,10/13/2023,10:57,d59beeb3-5db4-4265-970a-38d57424fe99,OCCUPANT,Unspecified,20531521.0,41.0,,,,,,,,,Registrant,,,M,41.0,UNKNOWN
+9412347,3961265,08/14/2018,20:13,29ac3016-f244-42fc-b0ee-cd2be4fd69d4,OCCUPANT,Unspecified,18725615.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+6675915,3534222,10/03/2016,14:37,2188557,OCCUPANT,Unspecified,17385700.0,18.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,18.0,UNKNOWN
+13503915,4849464,10/12/2025,17:58,7a0760dc-a72d-4250-9ecf-3eb426f599fe,OCCUPANT,Unspecified,20952335.0,26.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,26.0,UNKNOWN
+1530307,99108,12/10/2013,9:00,1,OCCUPANT,Injured,10323634.0,17.0,,,,,,,,,,,,,17.0,INJURED
+6353661,3531800,09/30/2016,18:20,2156443,OCCUPANT,Unspecified,17232156.0,39.0,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+12835479,4687765,12/16/2023,8:00,60d261a3-c5b0-45b7-82bf-768ec317baff,OCCUPANT,Unspecified,20569533.0,41.0,,,,,,,,,Registrant,,,F,41.0,UNKNOWN
+12254604,4537416,06/13/2022,17:05,54bf6ae4-034b-46d4-8623-d9b268e2e26e,PEDESTRIAN,Injured,,16.0,,Conscious,Head,,,Pedestrian/Bicyclist/Other Pedestrian Not at Intersection,"Crossing, No Signal, or Crosswalk",Severe Bleeding,Pedestrian,Traffic Control Disregarded,Traffic Control Disregarded,F,16.0,INJURED
+9006775,4072386,01/30/2019,17:41,ac35a221-d9ca-4a9f-919e-f396480445c2,OCCUPANT,Unspecified,18525907.0,38.0,,,,,,,,,Registrant,,,F,38.0,UNKNOWN
+11924688,4451170,08/27/2021,17:42,a715ea77-3fb8-496f-adbb-c3c01fa6693a,OCCUPANT,Unspecified,20048267.0,44.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,F,44.0,UNKNOWN
+11020882,4274149,01/15/2020,18:56,5a9cdd6e-cc24-46c9-9a78-2168586c31e7,OCCUPANT,Injured,19538495.0,23.0,Not Ejected,Conscious,Back,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Lap Belt & Harness,,,Whiplash,Passenger,,,F,23.0,INJURED
+12544552,4612792,03/13/2023,7:55,5b6f7ea5-49a6-41a7-bd12-28c7ff422e13,OCCUPANT,Unspecified,20404575.0,55.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,55.0,UNKNOWN
+12222681,4528976,05/18/2022,8:00,d4ad87f9-e8f2-453c-9086-9770a6bf718c,OCCUPANT,Unspecified,20220299.0,58.0,,,,,,,,,Registrant,,,F,58.0,UNKNOWN
+11060833,4284908,02/07/2020,8:00,012ede14-e60a-4996-b0f5-b9fce4f65040,OCCUPANT,Unspecified,19559106.0,39.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,39.0,UNKNOWN
+1272739,389090,06/29/2014,21:35,1,BICYCLIST,Injured,8536625.0,38.0,,,,,,,,,,,,,38.0,INJURED
+7491314,3861296,03/12/2018,16:30,3e62f01a-9414-4163-bd1b-4270cc7c1cfd,OCCUPANT,Unspecified,17779802.0,64.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,64.0,UNKNOWN
+10223843,4224421,10/16/2019,23:33,56b33c02-1aaa-4c5d-87c9-43f971152177,OCCUPANT,Unspecified,19128650.0,70.0,,,,,,,,,Registrant,,,M,70.0,UNKNOWN
+12151306,4510286,03/10/2022,15:35,11cbbcbc-5373-4106-8dee-37f595f25a5c,OCCUPANT,Unspecified,20179517.0,,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,39.0,UNKNOWN
+11134043,4301213,03/16/2020,15:35,600de557-f4ff-4336-a5dd-9662bfe70e17,OCCUPANT,Injured,19597586.0,61.0,Not Ejected,Conscious,Neck,Driver,Lap Belt & Harness,,,Complaint of Pain or Nausea,Driver,,,F,61.0,INJURED
+10065275,4186708,08/06/2019,17:30,317a3af0-12e1-40bb-b91d-54d8d54ebfba,OCCUPANT,Unspecified,19048780.0,49.0,,,,,,,,,Registrant,,,M,49.0,UNKNOWN
+6955708,3683374,06/02/2017,1:35,e33214ce-c865-4898-9248-4f4c94cd0db2,OCCUPANT,Unspecified,17519991.0,56.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,56.0,UNKNOWN
+7560732,3889161,04/24/2018,13:27,61cc9a27-f0e3-4c2c-b877-fa74ad37ee0f,OCCUPANT,Unspecified,17813890.0,19.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,19.0,UNKNOWN
+13483956,4843886,09/19/2025,4:00,0cbf2a06-f7d1-4e91-bcd3-aaf5827604d4,OCCUPANT,Unspecified,20940890.0,55.0,,,,,,,,,Registrant,,,M,55.0,UNKNOWN
+12311823,4552059,08/03/2022,12:35,a0698598-8475-4d0e-b484-fd4e3672fb58,OCCUPANT,Unspecified,20271530.0,,,,,,,,,,Registrant,,,F,39.0,UNKNOWN
+9474402,3925800,06/20/2018,17:30,d666222b-ccba-4174-991a-c027bb30cd7f,OCCUPANT,Unspecified,18756037.0,37.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,37.0,UNKNOWN
+9417696,3922981,06/18/2018,1:20,2667989a-deb6-4a0d-b468-c52d5f6792a2,OCCUPANT,Unspecified,18728228.0,8.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,8.0,UNKNOWN
+9846535,4135989,05/21/2019,8:25,3c81a1ec-9b75-4295-b3f5-ca1e1025b75d,OCCUPANT,Unspecified,18940196.0,62.0,,,,,,,,,Registrant,,,M,62.0,UNKNOWN
+12480356,4596158,01/05/2023,19:00,ab0b5ef9-0a71-4b76-b5fc-1feb15faa9cc,PEDESTRIAN,Injured,,62.0,,Conscious,Neck,,,Pedestrian/Bicyclist/Other Pedestrian at Intersection,Unknown,Whiplash,Pedestrian,Unspecified,Unspecified,F,62.0,INJURED
+12458780,4590231,12/15/2022,20:10,9ff47d36-beb9-42a1-a480-018dc2f2305f,OCCUPANT,Unspecified,20355635.0,29.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,29.0,UNKNOWN
+7178504,3737823,08/24/2017,10:00,27277e7e-0d6d-4386-8c8b-e6acea117e0a,OCCUPANT,Unspecified,17626737.0,38.0,,,,,,,,,Registrant,,,M,38.0,UNKNOWN
+11557816,4385643,01/20/2020,23:40,2251188b-99b4-4a83-b385-cae45f4e1323,OCCUPANT,Unspecified,19833900.0,41.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,41.0,UNKNOWN
+10040482,4180757,07/31/2019,23:22,de6753af-553d-4cdd-9123-175c8c5cacc5,OCCUPANT,Unspecified,19036343.0,50.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,50.0,UNKNOWN
+13260855,4785571,01/12/2025,21:00,2c30eb6a-001e-4bdc-a7cb-5f29e59e4a26,BICYCLIST,Injured,20812865.0,19.0,Not Ejected,Unknown,Abdomen - Pelvis,Driver,,,,None Visible,Driver,,,M,19.0,INJURED
+2296524,3365245,01/04/2016,12:09,1,OCCUPANT,Injured,15002304.0,33.0,,,,,,,,,,,,,33.0,INJURED
+12868648,4696795,01/14/2024,17:45,0d6f4864-d452-4c3f-b723-990b8565a94c,OCCUPANT,Unspecified,20588439.0,35.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,35.0,UNKNOWN
+13330508,4803554,04/03/2025,7:46,d2d022a5-b133-4581-b8c2-1c9124b8d47c,OCCUPANT,Unspecified,20852573.0,10.0,Not Ejected,Does Not Apply,Does Not Apply,"Middle rear seat, or passenger lying across a seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,10.0,UNKNOWN
+8945626,4061949,01/04/2019,22:00,9f6c1a9a-30d5-4276-86d4-a1070607ed33,OCCUPANT,Unspecified,18495585.0,20.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,20.0,UNKNOWN
+9997600,4171090,07/15/2019,16:55,e5587a1f-beb6-4b3b-b02d-9e29ed69a5b6,OCCUPANT,Unspecified,19014866.0,65.0,,,,,,,,,Registrant,,,M,65.0,UNKNOWN
+7881789,3809137,12/14/2017,22:45,08c77150-91d9-44bb-a903-93f35158188f,OCCUPANT,Unspecified,17970644.0,42.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,42.0,UNKNOWN
+7797575,3787955,11/11/2017,18:20,d73e446c-4466-4158-ba7a-93424ef3192b,OCCUPANT,Unspecified,17929479.0,31.0,,,,,,,,,Registrant,,,F,31.0,UNKNOWN
+9135920,3962558,08/16/2018,15:20,fd3f17ed-8d5b-44b3-bf0b-b6b3de9f0f61,OCCUPANT,Unspecified,18589832.0,52.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,52.0,UNKNOWN
+9022711,4103523,03/26/2019,8:50,43ce34db-7995-4020-8712-9b119bce27ef,OCCUPANT,Unspecified,18533713.0,81.0,,,,,,,,,Registrant,,,M,81.0,UNKNOWN
+7459341,3860295,03/10/2018,14:56,fe9de440-8efc-407b-8ea9-3dd88ba794b8,OCCUPANT,Unspecified,17763948.0,17.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,17.0,UNKNOWN
+12184722,4519049,04/14/2022,2:50,d7d6eae7-d85d-4c06-bbd1-5c3d635f7462,OCCUPANT,Injured,20198701.0,39.0,Not Ejected,Conscious,Head,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt,,,Complaint of Pain or Nausea,Passenger,,,M,39.0,INJURED
+12347926,4561610,09/06/2022,16:30,33faf7f4-2fe0-42a9-9cb9-b056710a85a5,OCCUPANT,Unspecified,20292411.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+9739137,4031343,11/23/2018,12:00,7ee44314-7f8e-4625-be15-eb13e830b008,OCCUPANT,Injured,18887318.0,50.0,Not Ejected,Conscious,Head,Driver,Unknown,,,Complaint of Pain or Nausea,Driver,,,M,50.0,INJURED
+11092632,4082019,02/17/2019,3:40,2329c688-50d0-4513-bfcd-aa7ae60cd639,OCCUPANT,Unspecified,,,,,,,,,,,Witness,,,,39.0,UNKNOWN
+10240660,4227742,10/19/2019,0:00,fc0f6cdc-4e00-484c-ba7c-e44376790592,OCCUPANT,Unspecified,19136994.0,56.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,56.0,UNKNOWN
+10076368,4189579,08/16/2019,10:45,e0838a91-af04-4406-ad82-f2046b959ef4,OCCUPANT,Unspecified,19054398.0,34.0,,,,,,,,,Registrant,,,M,34.0,UNKNOWN
+12916074,4708851,03/11/2024,12:24,e8f220a1-828d-41a3-9fe3-bf41cb12ad1d,OCCUPANT,Unspecified,20615420.0,51.0,,,,,,,,,Registrant,,,M,51.0,UNKNOWN
+11980775,4465530,10/03/2021,3:14,817084f1-7ade-4e8f-839f-4c0674e19056,OCCUPANT,Unspecified,20080932.0,32.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,32.0,UNKNOWN
+7082765,3669018,05/13/2017,9:15,ab3c3a28-dffa-4754-8cd5-6587bd630640,OCCUPANT,Unspecified,17580891.0,59.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,59.0,UNKNOWN
+11369104,4336302,08/06/2020,9:20,17aa4932-a088-4d8a-8dcf-0d16cdcf49d1,OCCUPANT,Unspecified,19724028.0,57.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt,,,Does Not Apply,Passenger,,,M,57.0,UNKNOWN
+10270950,4234354,11/02/2019,5:40,ec6b78a2-4e1c-499a-9e94-1506b7db4647,OCCUPANT,Unspecified,19151958.0,31.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,31.0,UNKNOWN
+6252760,3531223,09/30/2016,17:55,2175417,BICYCLIST,Injured,17184798.0,23.0,Not Ejected,Conscious,Knee-Lower Leg Foot,Riding/Hanging on Outside,,,,Complaint of Pain,Driver,,,M,23.0,INJURED
+13149328,4758230,09/22/2024,15:31,50d8222c-1928-4235-9e1e-37f952886a6f,OCCUPANT,Unspecified,20748565.0,32.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,32.0,UNKNOWN
+12235818,4532185,05/29/2022,10:24,13159ba7-bd6b-46d9-9790-7a8813a91789,OCCUPANT,Unspecified,20227704.0,,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+12801363,4679048,11/14/2023,11:13,11d37f2b-692f-4a59-bf5b-e620245e1d25,OCCUPANT,Unspecified,20550195.0,39.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,39.0,UNKNOWN
+5969966,3437230,04/20/2016,16:55,630120,OCCUPANT,Unspecified,17050338.0,61.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,,,,Does Not Apply,Driver,,,M,61.0,UNKNOWN
+7542361,3906391,05/22/2018,12:45,f1b596bf-c231-42ed-b67d-545f517a62b3,OCCUPANT,Unspecified,17804848.0,39.0,,,,,,,,,Registrant,,,F,39.0,UNKNOWN
+9081211,4101980,03/24/2019,5:30,e48e6408-5258-4e06-9e04-b8bfe6b40c4f,OCCUPANT,Unspecified,18562738.0,,Not Ejected,Does Not Apply,Does Not Apply,Unknown,Unknown,,,Does Not Apply,Passenger,,,,39.0,UNKNOWN
+6482066,3492437,08/01/2016,14:00,1409869,OCCUPANT,Unspecified,17293007.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+8967606,4066535,01/13/2019,19:00,cbf527f9-bbb4-4dc8-961d-0f8a92984261,OCCUPANT,Unspecified,18506534.0,60.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,60.0,UNKNOWN
+6536804,3510970,08/30/2016,15:00,1776986,OCCUPANT,Unspecified,17319101.0,74.0,,,,,,,,,Registrant,,,M,74.0,UNKNOWN
+6113003,3610944,02/06/2017,19:05,fe7c7e56-3176-463f-ae97-c3516157fa7c,OCCUPANT,Unspecified,17118485.0,37.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,37.0,UNKNOWN
+6260155,3459015,06/08/2016,17:15,901166,OCCUPANT,Unspecified,17188255.0,32.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,32.0,UNKNOWN
+6594214,3566797,11/23/2016,18:10,2814009,OCCUPANT,Unspecified,17346513.0,38.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,38.0,UNKNOWN
+6681140,3596708,12/20/2016,11:30,67106868-ce2f-494d-b95f-770a42e6b351,OCCUPANT,Unspecified,17388192.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+13182189,4765065,10/19/2024,10:00,40d1c61c-d865-45a1-a566-bbb9dd890a7f,OCCUPANT,Unspecified,20768328.0,71.0,,,,,,,,,Registrant,,,,71.0,UNKNOWN
+6774229,3625745,03/04/2017,18:10,1f6f5f65-5f3f-4476-9d01-a7ad7a88746b,OCCUPANT,Injured,17432958.0,54.0,Not Ejected,Shock,Knee-Lower Leg Foot,Driver,Lap Belt & Harness,,,Complaint of Pain,Driver,,,M,54.0,INJURED
+7710365,3905485,05/22/2018,9:05,7c1bd487-55df-4bed-900e-10f6f7120ecd,OCCUPANT,Unspecified,17887244.0,30.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,30.0,UNKNOWN
+6492331,3558569,11/11/2016,19:55,2661233,OCCUPANT,Unspecified,17297900.0,54.0,,,,,,,,,Registrant,,,M,54.0,UNKNOWN
+12888705,4701622,01/29/2024,14:30,1d322798-38e8-4908-b52f-f745fb91bd9d,OCCUPANT,Unspecified,20599791.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+6662754,3584571,12/19/2016,20:21,3135282,OCCUPANT,Unspecified,17379369.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+7355519,3838410,01/31/2018,10:15,8f94b399-2235-4fe0-973c-8d78c433a869,OCCUPANT,Unspecified,17713127.0,27.0,Partially Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,27.0,UNKNOWN
+2235515,3151776,01/11/2015,17:05,3,OCCUPANT,Injured,14531352.0,95.0,,,,,,,,,,,,,95.0,INJURED
+5800971,3416891,04/15/2016,17:25,383635,OCCUPANT,Unspecified,16970599.0,,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+8773845,4088083,02/27/2019,10:04,f75edc06-1ff6-48ab-b4c8-883418708f42,OCCUPANT,Unspecified,18410520.0,22.0,Not Ejected,Does Not Apply,Does Not Apply,"Middle rear seat, or passenger lying across a seat",Lap Belt,,,Does Not Apply,Passenger,,,F,22.0,UNKNOWN
+8963309,4076857,02/06/2019,13:15,c6049094-cded-4142-9373-72fb0ad26faa,OCCUPANT,Unspecified,18504398.0,66.0,,,,,,,,,Registrant,,,M,66.0,UNKNOWN
+11955478,4458769,09/13/2021,17:18,27b80d74-dcd3-4f90-9a88-f7045c2319c5,OCCUPANT,Unspecified,20066301.0,23.0,,,,,,,,,Registrant,,,M,23.0,UNKNOWN
+6826423,3653382,04/17/2017,21:00,a6af59ac-0067-4c0e-bdbe-336c80be1104,OCCUPANT,Unspecified,17457971.0,28.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,28.0,UNKNOWN
+12603577,4627886,05/10/2023,20:56,d870f1b8-042c-4eaa-a3c4-565c87efa0bc,OCCUPANT,Injured,20437829.0,25.0,Not Ejected,Conscious,Neck,"Front passenger, if two or more persons, including the driver, are in the front seat",Unknown,,,Complaint of Pain or Nausea,Passenger,,,M,25.0,INJURED
+9862213,4137752,05/22/2019,21:05,1b5153b3-2968-4367-ad2c-809c54c2a16b,OCCUPANT,Unspecified,18947869.0,42.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,42.0,UNKNOWN
+9060984,3933978,07/02/2018,21:45,71c4c4f5-9ced-408c-af30-4302395ec5b5,OCCUPANT,Unspecified,,,,,,,,,,,Witness,,,,39.0,UNKNOWN
+13073078,4749083,08/19/2024,11:45,c09300f7-f812-4938-99e1-22bf5b5a7c44,OCCUPANT,Injured,20704420.0,33.0,Not Ejected,Conscious,Entire Body,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",,,,Complaint of Pain or Nausea,Passenger,,,F,33.0,INJURED
+6897951,3653333,04/17/2017,20:36,dce75f06-8e37-4867-8075-465cece3bcd5,OCCUPANT,Unspecified,17492382.0,34.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,34.0,UNKNOWN
+9720615,3974681,09/05/2018,15:55,64c41d37-f020-4d5e-8371-ee65edba3f3d,OCCUPANT,Unspecified,18878134.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+12477368,4595433,01/04/2023,14:30,7b2e8b04-d074-49b2-8e60-d6b845f0ed9d,OCCUPANT,Unspecified,,,,,,,,,,,Notified Person,,,,39.0,UNKNOWN
+6366436,3487848,07/23/2016,6:50,1301779,OCCUPANT,Unspecified,17238224.0,31.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,31.0,UNKNOWN
+10245725,4228936,10/24/2019,20:07,849656e5-2295-41d9-9238-a84dac8143cd,OCCUPANT,Unspecified,19139493.0,52.0,,,,,,,,,Registrant,,,F,52.0,UNKNOWN
+7397517,3857279,03/05/2018,16:30,07e2a19d-50e4-4f47-bfbf-ad574b3acfe2,OCCUPANT,Unspecified,17733766.0,37.0,,,,,,,,,Registrant,,,M,37.0,UNKNOWN
+10035121,4178440,07/26/2019,23:01,807963d3-7164-49ee-88ae-f77eff4286c2,OCCUPANT,Unspecified,19033722.0,25.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,25.0,UNKNOWN
+12364293,4565790,09/18/2022,17:29,81bef568-9338-40d0-9692-326ecf2803b4,OCCUPANT,Unspecified,20301829.0,89.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,89.0,UNKNOWN
+11273427,4262967,12/22/2019,14:50,32c14e38-1f9f-4e9a-9e5c-d7d43f7ce42d,OCCUPANT,Unspecified,19669902.0,55.0,,,,,,,,,Registrant,,,M,55.0,UNKNOWN
+9447372,3939792,06/30/2018,18:12,5c560954-d1d1-4680-8005-5ca43fa05153,OCCUPANT,Unspecified,18742721.0,38.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,38.0,UNKNOWN
+10089754,4192340,08/21/2019,9:18,0d85c01d-ba42-4203-8f49-169013d7b64a,OCCUPANT,Unspecified,19061151.0,65.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,F,65.0,UNKNOWN
+7841337,3752938,09/18/2017,19:30,0267b31c-2e0f-4158-82a7-cd6c8437eb80,OCCUPANT,Unspecified,17950835.0,46.0,,,,,,,,,Registrant,,,F,46.0,UNKNOWN
+7920636,3770631,10/16/2017,20:45,f58e2cd0-2f58-4d53-a730-b380a3d801d0,OCCUPANT,Unspecified,17989800.0,48.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,48.0,UNKNOWN
+11058873,4283730,02/03/2020,12:20,2e38f2ea-7952-4b0e-9d36-4dc74bcc56c1,OCCUPANT,Unspecified,19558093.0,32.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,,,,Does Not Apply,Driver,,,M,32.0,UNKNOWN
+6860145,3643723,04/02/2017,14:17,8854a7d2-dc24-4029-b408-43e67fec0788,OCCUPANT,Unspecified,17474260.0,1.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Child Restraint Only,,,Does Not Apply,Passenger,,,M,1.0,UNKNOWN
+9733265,4047466,12/18/2018,14:12,c95a80f9-c0df-4e8a-97b8-7d803bd1921f,OCCUPANT,Unspecified,18884461.0,23.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,23.0,UNKNOWN
+7204602,3722303,07/31/2017,19:45,53132bb8-fd4d-4eb1-82f9-c07e1aa04949,OCCUPANT,Unspecified,17639384.0,59.0,,,,,,,,,Registrant,,,F,59.0,UNKNOWN
+8995649,4071690,01/20/2019,8:42,388af958-5726-46cd-833c-748dbcedb855,OCCUPANT,Unspecified,18520481.0,28.0,,,,,,,,,Registrant,,,F,28.0,UNKNOWN
+12517436,4605888,02/14/2023,12:00,17bde628-c9a3-4b34-9389-2548acb13021,OCCUPANT,Unspecified,20389085.0,59.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,59.0,UNKNOWN
+9075825,4090489,03/03/2019,12:59,b73b793a-fb53-4da2-b7e4-bbca14f307da,OCCUPANT,Unspecified,18560079.0,57.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,57.0,UNKNOWN
+11382066,4339473,08/17/2020,21:20,46d66963-d142-4762-8b55-d26bde3f737d,OCCUPANT,Injured,19731548.0,28.0,Not Ejected,Conscious,Knee-Lower Leg Foot,Driver,Lap Belt & Harness,,,Complaint of Pain or Nausea,Driver,,,M,28.0,INJURED
+9160255,4096341,03/13/2019,15:00,1e6df931-c8e0-494f-9c96-1d9773e909b1,OCCUPANT,Unspecified,18601825.0,22.0,,,,,,,,,Registrant,,,M,22.0,UNKNOWN
+7131992,3728389,08/08/2017,14:44,c12e6444-7761-43be-9c3e-eebb2a411cf8,OCCUPANT,Unspecified,17604374.0,73.0,,,,,,,,,Registrant,,,M,73.0,UNKNOWN
+7482214,3863115,03/15/2018,14:40,d580f33e-d9b8-4eed-85c6-4f050d3bb0fd,PEDESTRIAN,Injured,,8.0,,Conscious,Knee-Lower Leg Foot,,,Pedestrian/Bicyclist/Other Pedestrian at Intersection,Crossing With Signal,Internal,Pedestrian,Unspecified,Unspecified,M,8.0,INJURED
+11957572,4459652,09/22/2021,6:20,4276e120-a738-41ca-bb1e-d2e56ccb2e2d,OCCUPANT,Unspecified,20067506.0,45.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,45.0,UNKNOWN
+11579518,4391865,02/12/2021,12:00,cfdf5d3d-f9c3-4906-9835-252df94a9a5a,OCCUPANT,Unspecified,19847076.0,25.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,25.0,UNKNOWN
+8978606,4076282,02/05/2019,15:52,100c7bbc-f8cb-4a23-8f3b-1b00bdf47edc,OCCUPANT,Unspecified,18512076.0,29.0,,,,,,,,,Registrant,,,M,29.0,UNKNOWN
+6946561,3673930,05/19/2017,17:51,c2f91a46-1de2-4469-83bb-79b8ce5a8927,OCCUPANT,Unspecified,17515605.0,60.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,60.0,UNKNOWN
+5833404,3426781,04/25/2016,17:40,482308,OCCUPANT,Unspecified,16986488.0,51.0,Does Not Apply,Conscious,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,51.0,UNKNOWN
+5961259,3438201,05/07/2016,12:40,591039,OCCUPANT,Injured,17046329.0,27.0,Not Ejected,Unknown,Back,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt,,,None Visible,Passenger,,,M,27.0,INJURED
+7730669,3800371,11/30/2017,11:40,e07bad99-1ca7-476a-a25a-5227af0cf5cb,OCCUPANT,Unspecified,17896953.0,33.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,33.0,UNKNOWN
+9733889,4010961,10/30/2018,19:30,0ab77e75-39ad-4cc2-8296-16cea8c7db36,OCCUPANT,Unspecified,18884766.0,25.0,,,,,,,,,Registrant,,,M,25.0,UNKNOWN
+10053358,4184276,08/04/2019,10:10,27f25137-6b22-4d51-bb48-d39c463bd173,BICYCLIST,Injured,19042765.0,59.0,Not Ejected,Conscious,Abdomen - Pelvis,Driver,,,,Complaint of Pain or Nausea,Driver,,,M,59.0,INJURED
+13170961,4761462,10/05/2024,0:45,2690a6ae-14c1-47ed-8e9b-cf1a8bb7a7c1,OCCUPANT,Unspecified,20761698.0,23.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,23.0,UNKNOWN
+9589561,3991778,09/30/2018,0:20,851a8954-06b5-44e1-8cc6-15816e32c8d5,OCCUPANT,Unspecified,18813047.0,59.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,59.0,UNKNOWN
+9442611,4043834,11/21/2018,16:55,e8e065c1-d2f2-4eba-9a2c-4fb7e4aa53c0,OCCUPANT,Unspecified,18740400.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+6886281,3643952,04/02/2017,9:02,2e6200fd-a91d-4ebe-89f5-95749a3e4f8d,OCCUPANT,Unspecified,17486801.0,31.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,31.0,UNKNOWN
+7022383,3672645,05/18/2017,16:30,727b24ed-a30e-437a-a2fd-b71d6d12ac17,OCCUPANT,Unspecified,17552043.0,59.0,,,,,,,,,Registrant,,,M,59.0,UNKNOWN
+10181360,4214273,09/29/2019,2:50,c30475a5-6057-4124-aa0a-bc91d33366af,OCCUPANT,Unspecified,19107343.0,39.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,39.0,UNKNOWN
+7587507,3785722,11/07/2017,18:33,59b8701d-273d-4514-a9ed-073e9dd52da8,OCCUPANT,Unspecified,17827034.0,73.0,,,,,,,,,Registrant,,,M,73.0,UNKNOWN
+11785402,4401310,03/22/2021,13:39,317aafff-c210-47b8-ab5f-87cb327d540c,OCCUPANT,Unspecified,19966454.0,46.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,46.0,UNKNOWN
+13233740,4777710,12/09/2024,14:20,817fc037-6c6a-4174-9e74-1d524110b08e,OCCUPANT,Unspecified,20797512.0,34.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,34.0,UNKNOWN
+6298868,3463480,06/18/2016,11:40,988369,OCCUPANT,Unspecified,17206422.0,45.0,,,,,,,,,Registrant,,,M,45.0,UNKNOWN
+7870616,3799575,11/29/2017,8:45,96d6fa84-c6be-4e16-a3d9-6d654c182537,OCCUPANT,Unspecified,17965095.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+13379785,4813582,05/18/2025,17:19,42a48c41-7198-4228-8102-77f8336e1f67,OCCUPANT,Unspecified,,,,,,,,,,,Notified Person,,,,39.0,UNKNOWN
+11081000,4287667,02/12/2020,14:00,97916541-8854-4fa7-8d4d-057197baec80,OCCUPANT,Unspecified,19569528.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+11829993,4430509,06/16/2021,17:00,cb1e1bc0-7e66-4c56-851d-b2469baf814b,OCCUPANT,Unspecified,19992619.0,,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+6036082,3599707,01/11/2017,12:10,5fb29889-ce1d-403a-b44e-deb05b655214,OCCUPANT,Unspecified,17081460.0,35.0,Not Ejected,Does Not Apply,Does Not Apply,"Any person in the rear of a station wagon, pick-up truck, all passengers on a bus, etc",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,35.0,UNKNOWN
+11138260,4300625,03/14/2020,3:55,1ab4f217-4ee2-4523-8aa4-1aa87ff16fb7,OCCUPANT,Unspecified,19599837.0,23.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,23.0,UNKNOWN
+7129287,3709403,07/11/2017,20:43,a7bc1942-8a17-4558-a83e-e682dde0772e,OCCUPANT,Unspecified,17603012.0,57.0,,,,,,,,,Registrant,,,F,57.0,UNKNOWN
+7466746,3905104,05/18/2018,22:20,76271ee1-9dc1-4c50-bd05-0d9f376d7f8f,OCCUPANT,Unspecified,17767627.0,40.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,40.0,UNKNOWN
+7563584,3885011,04/20/2018,17:30,9cefe3ca-9241-445c-9947-7d1dd048bcb3,OCCUPANT,Unspecified,17815308.0,42.0,,,,,,,,,Registrant,,,F,42.0,UNKNOWN
+11953971,4458433,09/18/2021,17:22,bc468c61-1788-4a26-96f5-125c975d51b4,OCCUPANT,Unspecified,20065425.0,25.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,25.0,UNKNOWN
+9194883,3935020,07/03/2018,14:45,3d6e7d46-42ca-40cd-b99e-9b061a535f05,OCCUPANT,Unspecified,18618978.0,22.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,22.0,UNKNOWN
+5992865,3441307,05/10/2016,12:20,620656,OCCUPANT,Unspecified,17060985.0,59.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,59.0,UNKNOWN
+12047044,4482872,12/01/2021,17:50,9a04c6ff-95b8-46fb-8212-09b2af1aae01,OCCUPANT,Unspecified,20118955.0,36.0,,,,,,,,,Registrant,,,F,36.0,UNKNOWN
+7318209,3828289,01/13/2018,20:39,00ee9a1d-2878-46c4-b278-95d593e5039e,OCCUPANT,Unspecified,17694725.0,26.0,,,,,,,,,Registrant,,,M,26.0,UNKNOWN
+6453661,3500735,08/15/2016,0:00,1582647,OCCUPANT,Unspecified,17279459.0,50.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,50.0,UNKNOWN
+10076122,4189576,08/08/2019,12:45,a5341831-3117-44b9-a9a1-ff09ae5bcf50,OCCUPANT,Unspecified,19054272.0,58.0,,,,,,,,,Registrant,,,M,58.0,UNKNOWN
+9734960,4051752,12/24/2018,20:00,df072cea-10b9-418b-beed-45f8e609e4b2,OCCUPANT,Unspecified,18885314.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+6585330,3511774,09/01/2016,12:00,1812214,OCCUPANT,Unspecified,17342215.0,20.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,20.0,UNKNOWN
+6889314,3642581,03/27/2017,18:05,f352bd1b-a8ea-470c-b67d-01afef1d80a3,OCCUPANT,Unspecified,17488222.0,33.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,F,33.0,UNKNOWN
+7500497,3883907,04/19/2018,13:10,93a96160-b97d-44b8-b422-e0d3dcc45832,OCCUPANT,Unspecified,17784340.0,54.0,,,,,,,,,Registrant,,,M,54.0,UNKNOWN
+5779319,3414302,04/05/2016,8:30,269772,OCCUPANT,Unspecified,16959948.0,27.0,,,,,,,,,Registrant,,,F,27.0,UNKNOWN
+11127118,4310383,04/26/2020,16:17,8c670383-86ad-46f9-b50f-6caaf5125cde,OCCUPANT,Unspecified,19593774.0,28.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,28.0,UNKNOWN
+6843486,3638462,03/25/2017,2:30,6b414a64-5aaf-43be-9f07-49bc3f34f940,OCCUPANT,Injured,17466162.0,46.0,Not Ejected,Conscious,Head,Driver,Lap Belt,,,Complaint of Pain,Driver,,,M,46.0,INJURED
+12434201,4584014,11/23/2022,3:30,93da774b-32c3-464e-a6ea-5b5a4216bc06,OCCUPANT,Unspecified,20341708.0,47.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,47.0,UNKNOWN
+11566724,4388213,01/30/2021,15:40,15e941fa-df5d-4a1f-ad51-04392ae093cc,OCCUPANT,Unspecified,19839123.0,4.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Child Restraint Only,,,Does Not Apply,Passenger,,,F,4.0,UNKNOWN
+9545971,3972367,08/30/2018,14:15,de291246-3720-4235-8c57-9568ea0350dd,OCCUPANT,Unspecified,18791335.0,47.0,,,,,,,,,Registrant,,,F,47.0,UNKNOWN
+12618827,4630580,05/19/2023,8:35,1954a5a1-df25-4a43-940c-3f32734efb8b,OCCUPANT,Injured,20446304.0,33.0,Not Ejected,Shock,Back,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Complaint of Pain or Nausea,Passenger,,,F,33.0,INJURED
+6525999,3505592,08/19/2016,0:00,1683005,OCCUPANT,Unspecified,17313951.0,8.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,8.0,UNKNOWN
+6437881,3588006,12/27/2016,14:50,3197409,OCCUPANT,Unspecified,17271942.0,41.0,,,,,,,,,Registrant,,,F,41.0,UNKNOWN
+11851956,4430392,06/23/2021,17:10,2fefa5c5-b13c-465d-86fd-01ea3d4003fa,OCCUPANT,Injured,20005653.0,24.0,Not Ejected,Conscious,Knee-Lower Leg Foot,Driver,,,,None Visible,Driver,,,M,24.0,INJURED
+10214648,4221961,10/11/2019,13:57,c973e568-0114-400a-8ef3-db32c14491cf,OCCUPANT,Unspecified,19124089.0,34.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,34.0,UNKNOWN
+11433102,4352825,09/29/2020,8:30,9d17ef59-d927-4e44-b1b4-058ca16457ac,OCCUPANT,Unspecified,19761252.0,51.0,,,,,,,,,Registrant,,,M,51.0,UNKNOWN
+7230064,3721616,07/29/2017,23:20,2d8c3358-6fbc-401b-8c72-8992a9b2e83b,OCCUPANT,Unspecified,17651580.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+8994419,4065424,01/11/2019,16:00,2c509f48-8b2c-4252-ac83-af4e71b08cea,OCCUPANT,Unspecified,18519884.0,9.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,9.0,UNKNOWN
+12825006,4685251,12/07/2023,10:15,f29d00ee-87fd-4371-863d-b64f4f2b1fc7,OCCUPANT,Unspecified,20563624.0,1.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Child Restraint Only,,,Does Not Apply,Passenger,,,F,1.0,UNKNOWN
+9049344,4089356,03/01/2019,18:45,79b3d70d-87f8-4ac5-b2a9-e9598b9a5b06,OCCUPANT,Unspecified,18546819.0,7.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,7.0,UNKNOWN
+6518767,3517033,09/09/2016,14:20,1902268,OCCUPANT,Unspecified,17310549.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+13392581,4819801,06/11/2025,18:33,142b474f-3ff7-4bbe-9e3a-243a5aea1d69,OCCUPANT,Unspecified,20887982.0,52.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,52.0,UNKNOWN
+9981101,4167832,07/10/2019,14:19,35241607-6510-4e14-bc95-12469876b830,OCCUPANT,Unspecified,19006712.0,37.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,37.0,UNKNOWN
+10128489,4201549,09/06/2019,14:48,a1805046-0063-4af3-a9ae-03a67cf4d80e,PEDESTRIAN,Injured,,56.0,,Conscious,Knee-Lower Leg Foot,,,Pedestrian/Bicyclist/Other Pedestrian Not at Intersection,Not in Roadway,None Visible,Pedestrian,Unspecified,Unspecified,M,56.0,INJURED
+12878150,4698487,01/27/2024,3:24,8c236b2d-a46e-4fac-a28c-ae0c1ffe487c,OCCUPANT,Unspecified,20593864.0,,,,,,,,,,Owner,,,,39.0,UNKNOWN
+10298993,4240922,11/13/2019,14:26,14aaa244-37ba-46c1-a154-fdbd7585d8f3,OCCUPANT,Unspecified,19166100.0,26.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,26.0,UNKNOWN
+12781375,4673863,10/20/2023,8:18,197383fe-c9c7-412a-bc04-1d459ace805f,OCCUPANT,Unspecified,20538913.0,57.0,,,,,,,,,Registrant,,,M,57.0,UNKNOWN
+11351851,4331513,07/15/2020,3:45,be8bc070-9790-4f58-9856-23ff2a05f543,OCCUPANT,Injured,19713871.0,25.0,Not Ejected,Conscious,Neck,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt,,,Complaint of Pain or Nausea,Passenger,,,F,25.0,INJURED
+7117523,3711572,07/15/2017,15:15,51ec2f55-0f3f-4087-a2f5-5715d8f3ff72,OCCUPANT,Unspecified,17597358.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+11399809,4344145,09/02/2020,12:56,47de68b1-d22c-42ca-b6f4-38e6969c9879,OCCUPANT,Unspecified,19741857.0,27.0,,,,,,,,,Registrant,,,M,27.0,UNKNOWN
+9579922,4015901,11/06/2018,7:45,ff2241ba-ce91-46af-bfd1-24179fd68251,OCCUPANT,Unspecified,18808291.0,,,,,,,,,,Owner,,,,39.0,UNKNOWN
+12096552,4493896,01/11/2022,17:00,3b7d2fa9-cb56-4d72-9cf1-35e9c6192018,OCCUPANT,Unspecified,20147817.0,74.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,74.0,UNKNOWN
+9245124,3906349,05/22/2018,8:00,ef42a34c-13b7-4cdf-8b84-1804c33e60eb,OCCUPANT,Unspecified,18643513.0,36.0,,,,,,,,,Registrant,,,M,36.0,UNKNOWN
+7569126,3867284,03/22/2018,14:45,3ea46ea2-bcbe-4088-984e-aa83d2d14f81,OCCUPANT,Unspecified,17818037.0,24.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,24.0,UNKNOWN
+11202175,4255977,12/09/2019,13:00,b9ca01df-440f-419f-bc0d-ff55b1ee456f,OCCUPANT,Unspecified,19633821.0,58.0,,,,,,,,,Registrant,,,F,58.0,UNKNOWN
+7573629,3750592,09/14/2017,17:30,8e4088b9-ebdf-409e-ab64-719fd3e2057c,BICYCLIST,Injured,17820261.0,57.0,Partially Ejected,Conscious,Hip-Upper Leg,Riding/Hanging on Outside,,,,Complaint of Pain,Driver,,,M,57.0,INJURED
+11172771,3901562,05/15/2018,18:35,3ac24171-3513-4d31-a04d-88df1ba880ea,OCCUPANT,Unspecified,19618630.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+2265664,3260483,07/18/2015,16:30,1,OCCUPANT,Injured,14792320.0,37.0,,,,,,,,,,,,,37.0,INJURED
+7739344,3788190,11/08/2017,14:05,2b9ce2ba-69c2-4290-899b-3d0ac22b941e,OCCUPANT,Unspecified,17901195.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+10078099,4190142,08/15/2019,19:25,ea654c1b-19c4-49aa-9539-0a0f93c25b8a,OCCUPANT,Unspecified,19055262.0,21.0,Not Ejected,Does Not Apply,Does Not Apply,Unknown,Unknown,,,Does Not Apply,Passenger,,,F,21.0,UNKNOWN
+7890553,3782702,11/03/2017,17:00,8d8381d9-d011-4d3b-bd32-8223b2af6242,OCCUPANT,Unspecified,17974971.0,60.0,,,,,,,,,Registrant,,,M,60.0,UNKNOWN
+12412933,4578601,11/02/2022,8:06,04af1492-ae43-4195-b702-534d6aa75678,OCCUPANT,Injured,20329715.0,37.0,Not Ejected,Conscious,Back,Driver,Unknown,,,None Visible,Driver,,,M,37.0,INJURED
+6647455,3546053,10/22/2016,0:00,2416053,OCCUPANT,Unspecified,17371949.0,37.0,,,,,,,,,Registrant,,,M,37.0,UNKNOWN
+6935732,3701837,06/29/2017,12:10,52def95d-9fba-42a7-9c9a-7cf16c5f9fff,OCCUPANT,Unspecified,17510417.0,55.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,55.0,UNKNOWN
+7534485,3870182,03/22/2018,16:50,343bee36-7a6f-4a55-a986-3482b4efbbdf,OCCUPANT,Unspecified,17800971.0,1.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Child Restraint Only,,,Does Not Apply,Passenger,,,F,1.0,UNKNOWN
+12480309,4596232,01/08/2023,12:50,0d7b9c70-c23b-4f15-b31c-92a4e008185b,OCCUPANT,Unspecified,20367987.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+11019877,4273189,01/14/2020,17:56,634163ef-089c-4910-922a-614e431c197d,OCCUPANT,Unspecified,19537981.0,23.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,23.0,UNKNOWN
+13373917,4814929,05/16/2025,9:51,273a4792-0733-4695-bb79-ca901ede0a7f,OCCUPANT,Unspecified,20877356.0,41.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,41.0,UNKNOWN
+6412288,3503379,08/18/2016,17:00,1631767,OCCUPANT,Unspecified,17259899.0,21.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,21.0,UNKNOWN
+11878505,4438349,07/14/2021,13:52,f5f2a92e-7e7d-4205-b8d6-f5c8d7256ae5,OCCUPANT,Unspecified,20021118.0,,,,,,,,,,Registrant,,,F,39.0,UNKNOWN
+12548363,4613865,03/15/2023,8:14,7efb2a22-cd55-4d41-8e66-7ee695a128b9,OCCUPANT,Unspecified,20406715.0,42.0,,,,,,,,,Registrant,,,M,42.0,UNKNOWN
+5781161,3411076,04/06/2016,21:11,288619,OCCUPANT,Unspecified,16960862.0,71.0,Not Ejected,Conscious,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,71.0,UNKNOWN
+10161889,4209461,09/20/2019,15:30,b985c9d9-77bf-4ac4-ba62-f65ea9d894a0,OCCUPANT,Unspecified,19097614.0,62.0,,,,,,,,,Registrant,,,M,62.0,UNKNOWN
+5962573,3450910,05/21/2016,6:30,782256,OCCUPANT,Unspecified,17046940.0,35.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,35.0,UNKNOWN
+13505877,4849978,10/14/2025,8:30,e68cb6be-3fde-47d5-a48c-e76780ad9bb0,OCCUPANT,Injured,20953476.0,64.0,Not Ejected,Conscious,Knee-Lower Leg Foot,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Unknown,,,Contusion - Bruise,Passenger,,,F,64.0,INJURED
+11380338,4339242,08/06/2020,17:12,e5f3302a-6c8c-431d-a45a-fa90bbc790ea,OCCUPANT,Injured,19730552.0,37.0,Not Ejected,Conscious,Back,Driver,Lap Belt & Harness,,,None Visible,Driver,,,F,37.0,INJURED
+12197387,4522352,04/26/2022,17:12,6cb76bb7-91eb-47d9-85ba-ebf9a3553453,OCCUPANT,Unspecified,20206020.0,60.0,,,,,,,,,Registrant,,,M,60.0,UNKNOWN
+13432675,4830509,07/13/2025,3:00,f39903c0-9469-4ae7-a956-fcabb6941c5a,OCCUPANT,Unspecified,20911349.0,26.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,26.0,UNKNOWN
+11100785,4287494,02/12/2020,12:55,f8827d0f-5fd1-47cd-ae50-e9ee02f37f60,OCCUPANT,Unspecified,19579885.0,37.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,37.0,UNKNOWN
+6326708,3474050,07/02/2016,1:05,1134358,OCCUPANT,Unspecified,17219454.0,23.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,,,,Does Not Apply,Driver,,,M,23.0,UNKNOWN
+6410554,3576404,12/08/2016,17:05,2983421,OCCUPANT,Injured,17259077.0,85.0,Not Ejected,Shock,Unknown,Driver,Air Bag Deployed/Lap Belt/Harness,,,None Visible,Driver,,,M,85.0,INJURED
+6039071,3595477,01/09/2017,18:30,283c0b26-b16d-46f4-8959-429a586d19ba,OCCUPANT,Unspecified,17082916.0,33.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,33.0,UNKNOWN
+12754651,4666925,09/25/2023,17:45,f323ae3b-41f5-43d6-82aa-98f0ba23d560,OCCUPANT,Unspecified,20523774.0,30.0,,,,,,,,,Registrant,,,M,30.0,UNKNOWN
+12146614,4509172,03/10/2022,14:11,22b3fee7-2b67-4572-b469-b9ac0ab65ae1,OCCUPANT,Unspecified,20176836.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+6594253,3537414,10/09/2016,15:58,2264155,OCCUPANT,Unspecified,17346531.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+11473161,4363556,10/30/2020,10:40,8fc68509-20fe-4372-8ff3-1baa7d5ef78f,OCCUPANT,Unspecified,19784448.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+9713140,3990936,09/30/2018,14:15,2288c638-7a22-4f2d-a75b-45990fbc2e3c,OCCUPANT,Unspecified,18874315.0,12.0,Not Ejected,Does Not Apply,Does Not Apply,"Left rear passenger, or rear passenger on a bicycle, motorcycle, snowmobile",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,12.0,UNKNOWN
+6893446,3680024,05/28/2017,10:30,a02fd7de-f2cd-49ca-9d5b-97db7d99016a,OCCUPANT,Unspecified,17490210.0,43.0,,,,,,,,,Registrant,,,M,43.0,UNKNOWN
+10305193,4242712,11/15/2019,13:35,25406020-c2d3-4994-ad9b-8bdd2dda35a6,OCCUPANT,Unspecified,19169197.0,64.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,F,64.0,UNKNOWN
+6720460,3589327,12/26/2016,23:45,3228496,OCCUPANT,Unspecified,17407083.0,42.0,,,,,,,,,Registrant,,,F,42.0,UNKNOWN
+1799543,999905,07/28/2014,20:40,2,OCCUPANT,Injured,11757351.0,30.0,,,,,,,,,,,,,30.0,INJURED
+7824266,3747630,09/09/2017,6:30,f87308ff-d4cd-463f-a9d2-1e74c777e0e1,OCCUPANT,Unspecified,17942462.0,,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+9853231,4137087,05/15/2019,11:04,373bbd9a-5eef-4169-a388-dbe360e24bbb,PEDESTRIAN,Injured,,44.0,Not Ejected,Conscious,Back,Unknown,,Pedestrian/Bicyclist/Other Pedestrian at Intersection,Crossing With Signal,None Visible,Pedestrian,Unspecified,Unspecified,F,44.0,INJURED
+9304434,3991645,09/28/2018,12:58,88bc6a71-3c4c-469f-aa96-97684e23a973,OCCUPANT,Unspecified,18672648.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+7221705,3717027,07/23/2017,14:40,f67917ce-9b66-4596-ae95-8638f176c985,OCCUPANT,Unspecified,17647595.0,21.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,21.0,UNKNOWN
+6072813,3605572,01/28/2017,10:00,be2e5b17-0910-4669-afe1-945a1fc21864,OCCUPANT,Unspecified,17099186.0,10.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,10.0,UNKNOWN
+6840854,3666709,05/09/2017,9:50,13a08a92-a596-4074-966d-d48570357e4b,OCCUPANT,Unspecified,17464897.0,34.0,,,,,,,,,Registrant,,,F,34.0,UNKNOWN
+7819377,3817075,12/29/2017,0:18,e5bd0cbc-877d-4fb6-95c6-f67c2e634b4e,OCCUPANT,Unspecified,17940101.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+7115897,3732466,08/08/2017,13:38,93be45a9-e5d3-4ebe-8dc1-00a800d4e0f7,OCCUPANT,Unspecified,17596619.0,28.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,28.0,UNKNOWN
+6715691,3556229,11/04/2016,11:00,2589385,OCCUPANT,Unspecified,17404770.0,35.0,,,,,,,,,Registrant,,,M,35.0,UNKNOWN
+1544660,996285,07/12/2014,2:30,1,OCCUPANT,Injured,10394119.0,26.0,,,,,,,,,,,,,26.0,INJURED
+9280782,3915026,06/05/2018,17:45,15a3c503-2c7f-4726-8b83-c0c42843bc6e,OCCUPANT,Unspecified,18660984.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+2190696,352165,06/14/2014,21:00,1,OCCUPANT,Injured,14210538.0,78.0,,,,,,,,,,,,,78.0,INJURED
+1336319,40664,03/20/2013,9:42,1,OCCUPANT,Injured,9121223.0,25.0,,,,,,,,,,,,,25.0,INJURED
+7640882,3813507,12/19/2017,18:11,0b776e8b-d961-41d3-a362-878d26cc825c,OCCUPANT,Unspecified,17853064.0,31.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,31.0,UNKNOWN
+9586468,3985884,09/22/2018,11:00,8c99bf59-125d-4643-b03f-404555afe2c9,OCCUPANT,Unspecified,18811507.0,58.0,,,,,,,,,Registrant,,,M,58.0,UNKNOWN
+11588506,4394106,02/22/2021,8:00,c13b872e-c87a-4c8c-9ae8-03e1a5ddbead,OCCUPANT,Unspecified,19852452.0,43.0,,,,,,,,,Registrant,,,F,43.0,UNKNOWN
+12406913,4576939,10/27/2022,12:22,f7ebf2a6-40d9-4153-989e-268ed4493bb4,OCCUPANT,Unspecified,20326154.0,32.0,,,,,,,,,Registrant,,,M,32.0,UNKNOWN
+6314991,3520820,09/15/2016,19:50,1974717,OCCUPANT,Unspecified,17213952.0,35.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,35.0,UNKNOWN
+9167198,3942002,07/15/2018,8:25,8233570f-990f-4fc0-8469-f329d4635a0a,OCCUPANT,Unspecified,18605242.0,,,,,,,,,,Registrant,,,F,39.0,UNKNOWN
+7868011,3817653,12/21/2017,15:41,a3817e56-97ac-41bb-9bb0-8649ab66e29e,OCCUPANT,Unspecified,17963868.0,57.0,,,,,,,,,Registrant,,,M,57.0,UNKNOWN
+9060278,3930989,06/27/2018,22:50,426cb1bf-1e3d-4f4e-b4e4-42e5e6908e89,BICYCLIST,Unspecified,18552317.0,39.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Helmet Only (In-Line Skater/Bicyclist),,,Does Not Apply,Driver,,,M,39.0,UNKNOWN
+5978354,3444213,05/18/2016,8:00,693568,OCCUPANT,Unspecified,17054235.0,3.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Child Restraint Only,,,Does Not Apply,Passenger,,,F,3.0,UNKNOWN
+9039805,4079175,02/11/2019,19:50,22999ab7-2b6b-4017-8413-f89265664429,OCCUPANT,Unspecified,18542127.0,51.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,51.0,UNKNOWN
+7165685,3746163,08/31/2017,19:17,13d3ec22-a147-493c-aac1-d800709bef4a,OCCUPANT,Unspecified,17620620.0,70.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,70.0,UNKNOWN
+6954429,3665749,05/07/2017,10:40,1316bd1b-a75c-4228-908b-c9eb9cdf5d6e,OCCUPANT,Unspecified,17519363.0,45.0,,,,,,,,,Registrant,,,F,45.0,UNKNOWN
+6603708,3541675,10/11/2016,9:00,2282268,OCCUPANT,Injured,17351043.0,44.0,Not Ejected,Conscious,Shoulder - Upper Arm,Driver,Lap Belt & Harness,,,Complaint of Pain,Driver,,,M,44.0,INJURED
+12630937,4634878,06/04/2023,23:15,291dcd95-fb9e-46c4-a07c-d5f07b718e53,BICYCLIST,Injured,20453144.0,31.0,Partially Ejected,Conscious,Chest,Driver,,,,Complaint of Pain or Nausea,Driver,,,M,31.0,INJURED
+10042053,4181611,08/01/2019,18:03,65953b0f-2e1d-43d2-9f2a-e88e74ee2071,OCCUPANT,Unspecified,19037177.0,37.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,37.0,UNKNOWN
+12029602,4478301,11/12/2021,14:00,c88e56f2-1713-47fa-b22c-860ceceb16c3,OCCUPANT,Unspecified,20108856.0,26.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,26.0,UNKNOWN
+9866665,4136023,05/20/2019,12:25,ffeb9b82-0c58-4cfb-aa57-2854d0035292,OCCUPANT,Unspecified,,,,,,,,,,,Witness,,,,39.0,UNKNOWN
+9869706,4142337,05/31/2019,6:00,a0d57013-91e1-47a7-b0a1-8c2b416fdf72,OCCUPANT,Unspecified,18951658.0,25.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,25.0,UNKNOWN
+12789608,4676006,10/28/2023,19:45,a3755cae-8805-472e-a5a3-6ec8a6ce6540,OCCUPANT,Unspecified,20543556.0,28.0,,,,,,,,,Registrant,,,F,28.0,UNKNOWN
+10087788,4187713,08/12/2019,23:40,8d9fbcb1-1499-4900-97dc-745ce1838120,PEDESTRIAN,Injured,,21.0,,Conscious,Knee-Lower Leg Foot,,,Pedestrian/Bicyclist/Other Pedestrian at Intersection,Unknown,Complaint of Pain or Nausea,Pedestrian,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,F,21.0,INJURED
+5811526,3427146,04/15/2016,7:00,382720,OCCUPANT,Unspecified,16975655.0,23.0,,,,,,,,,Registrant,,,M,23.0,UNKNOWN
+12144164,4508563,03/08/2022,8:57,ec2ddc7b-1875-4bf0-aa2f-dce14a96c1e0,OCCUPANT,Unspecified,20175449.0,57.0,,,,,,,,,Registrant,,,M,57.0,UNKNOWN
+7396265,3844467,02/09/2018,16:00,cbdecad8-0aab-4f9f-9932-d83f8dd090c4,OCCUPANT,Unspecified,17733160.0,45.0,,,,,,,,,Registrant,,,F,45.0,UNKNOWN
+11316661,4316770,05/31/2020,6:00,cc7adc67-8e52-4331-8343-0ff8a8ca9c35,OCCUPANT,Unspecified,19693661.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+9582912,4004354,01/20/2018,13:45,10975bb6-a512-4e0d-9777-db9d9b8ae471,OCCUPANT,Unspecified,18809756.0,,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+11486313,4366930,11/12/2020,6:30,c01d231c-f95c-4585-b374-de942ee0e77f,OCCUPANT,Unspecified,19792052.0,47.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,47.0,UNKNOWN
+12392703,4573190,10/10/2022,16:25,3cda67d3-8474-489f-9de7-166668bfdc42,OCCUPANT,Injured,20318139.0,11.0,Not Ejected,Conscious,Neck,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Complaint of Pain or Nausea,Passenger,,,M,11.0,INJURED
+12759590,4668061,10/04/2023,1:39,4191ba42-a2a5-41b8-81d8-8def9f591e7b,OCCUPANT,Unspecified,20526527.0,,,,,,,,,,Registrant,,,F,39.0,UNKNOWN
+11995836,4469491,10/20/2021,13:30,db100e0b-bd0a-4e77-ab85-97819c67ba8a,PEDESTRIAN,Injured,,71.0,,Conscious,Head,,,Pedestrian/Bicyclist/Other Pedestrian at Intersection,Crossing With Signal,Minor Bleeding,Pedestrian,Unspecified,Unspecified,M,71.0,INJURED
+6765971,3625957,03/02/2017,12:45,b3112434-d6d4-466f-a5ce-b32bb975e941,OCCUPANT,Unspecified,17429035.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+13241906,4780637,12/21/2024,8:30,cb317cca-94c8-47cf-8514-1a4efe2a480e,OCCUPANT,Unspecified,20801973.0,57.0,,,,,,,,,Registrant,,,F,57.0,UNKNOWN
+11562628,4386821,01/25/2021,9:30,ebaa9a41-2b5e-4161-aa26-d219cd84f4ff,OCCUPANT,Unspecified,19836731.0,26.0,,,,,,,,,Registrant,,,F,26.0,UNKNOWN
+11332500,4326341,07/03/2020,14:20,a3abb55c-8409-4c57-aa9f-7e697d2345a5,OCCUPANT,Unspecified,19702706.0,51.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt,,,Does Not Apply,Passenger,,,M,51.0,UNKNOWN
+5812950,3411227,04/20/2016,10:50,433481,OCCUPANT,Unspecified,16976372.0,,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+9202546,3917018,06/08/2018,10:45,399d3146-8960-4ed2-8ec2-77a6dbb06f3c,OCCUPANT,Unspecified,18622747.0,67.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,67.0,UNKNOWN
+6540388,3526939,09/24/2016,11:10,2074857,OCCUPANT,Unspecified,17320828.0,76.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,76.0,UNKNOWN
+12753490,4665464,09/23/2023,9:05,b8639ba7-962e-4a69-b860-09b54e3326e1,OCCUPANT,Unspecified,20523105.0,60.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,60.0,UNKNOWN
+13046580,4742468,07/07/2024,22:04,afc85b68-46a9-4e3f-a6ca-dd882840d823,OCCUPANT,Unspecified,20689189.0,13.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Unknown,,,Does Not Apply,Passenger,,,F,13.0,UNKNOWN
+11114040,4308235,04/08/2020,14:30,51043eb1-4856-4527-9004-999783f59a6c,OCCUPANT,Unspecified,19586702.0,41.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,41.0,UNKNOWN
+10010610,4174311,07/20/2019,23:30,6bacf4a1-6e2b-4641-aef7-cbb9ccb80dcf,OCCUPANT,Injured,19021379.0,38.0,Not Ejected,Conscious,Back,Driver,Lap Belt & Harness,,,Contusion - Bruise,Driver,,,M,38.0,INJURED
+9290776,3996022,10/08/2018,14:31,b9ca13db-bf9e-4e7b-b589-7e78a2c020c5,OCCUPANT,Unspecified,18665902.0,52.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,52.0,UNKNOWN
+11888988,4441300,07/27/2021,18:54,60fcd320-4b62-4e8d-af43-20a3b4cdb7fa,OCCUPANT,Injured,20027171.0,36.0,Not Ejected,Conscious,Head,Driver,Lap Belt & Harness,,,Complaint of Pain or Nausea,Driver,,,M,36.0,INJURED
+11192478,4252901,12/04/2019,15:15,c4819fc4-0eef-44e8-94b7-2ae04c9836ba,OCCUPANT,Unspecified,19628934.0,36.0,,,,,,,,,Registrant,,,F,36.0,UNKNOWN
+6571593,3531327,10/01/2016,20:20,2167274,OCCUPANT,Unspecified,17335665.0,70.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,70.0,UNKNOWN
+12627529,4631943,05/24/2023,19:04,6cf66e44-0246-4a78-89bd-4c881ae0212b,OCCUPANT,Unspecified,20451216.0,45.0,,,,,,,,,Registrant,,,M,45.0,UNKNOWN
+5785662,3418727,03/26/2016,21:50,174499,OCCUPANT,Unspecified,16963059.0,24.0,,,,,,,,,Registrant,,,M,24.0,UNKNOWN
+12532895,4609854,03/01/2023,13:39,cb23c43c-4d1d-4984-9e66-aa07fcef35fc,OCCUPANT,Unspecified,20398028.0,42.0,,,,,,,,,Registrant,,,F,42.0,UNKNOWN
+6798914,3635488,03/18/2017,8:43,0db667f4-4ad2-488b-8c4f-102eb93f372f,OCCUPANT,Unspecified,17444806.0,54.0,,,,,,,,,Registrant,,,M,54.0,UNKNOWN
+6665817,3551852,11/01/2016,14:00,2535844,OCCUPANT,Unspecified,17380867.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+9496987,3972662,09/01/2018,17:45,5707796d-ac1e-4310-94b5-c141cbfc912c,OCCUPANT,Unspecified,18767090.0,54.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,54.0,UNKNOWN
+7344182,3835040,01/25/2018,14:55,360c559b-860a-4ef0-8660-ee631e684e3b,OCCUPANT,Unspecified,17707555.0,70.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,70.0,UNKNOWN
+11881960,4439448,07/15/2021,14:25,ae6f2aad-88fe-4964-a0e2-80972578ac02,OCCUPANT,Unspecified,20023105.0,39.0,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+6457340,3521664,09/17/2016,20:15,1996698,OCCUPANT,Unspecified,17281207.0,51.0,,,,,,,,,Registrant,,,M,51.0,UNKNOWN
+13312829,4798816,03/14/2025,17:10,75f3f624-4272-4419-9dd3-cfaed123e497,OCCUPANT,Unspecified,20842432.0,67.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,67.0,UNKNOWN
+6201441,3553290,10/24/2016,7:50,2529655,OCCUPANT,Unspecified,17160946.0,28.0,Not Ejected,Does Not Apply,Does Not Apply,"Middle front seat, or passenger lying across a seat",Lap Belt,,,Does Not Apply,Passenger,,,F,28.0,UNKNOWN
+12080358,4491743,01/03/2022,17:15,70c2b407-c754-4018-adb8-1e6bc84c0a77,OCCUPANT,Unspecified,20138277.0,42.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,42.0,UNKNOWN
+6303255,3492587,07/30/2016,13:30,1400653,OCCUPANT,Unspecified,17208494.0,99.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,99.0,UNKNOWN
+9550680,4019594,11/12/2018,7:15,0d524fb4-a69d-47b9-83ad-e140fe0baf01,OCCUPANT,Unspecified,18793668.0,13.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,13.0,UNKNOWN
+6624703,3536619,10/08/2016,19:10,2251791,OCCUPANT,Unspecified,,,,,,,,,,,Witness,,,,39.0,UNKNOWN
+10110252,4197468,08/31/2019,11:40,42946d0a-fcaa-4594-bd84-487a6eb5cd2b,OCCUPANT,Unspecified,19071504.0,31.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,F,31.0,UNKNOWN
+11597137,4396232,03/04/2021,11:45,eb54f40c-06ad-4fdb-b933-e50c172f87e2,OCCUPANT,Unspecified,19857427.0,45.0,,,,,,,,,Registrant,,,M,45.0,UNKNOWN
+7880964,3776385,10/24/2017,13:52,91ed6f0b-4f46-46f2-bb3c-4e2552a01c21,OCCUPANT,Unspecified,17970237.0,52.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Unknown,,,Does Not Apply,Passenger,,,M,52.0,UNKNOWN
+9803207,4126525,05/03/2019,20:12,99390821-0033-4a45-a200-8a094a9125dd,OCCUPANT,Unspecified,18918806.0,24.0,,,,,,,,,Registrant,,,M,24.0,UNKNOWN
+8988423,4080186,02/13/2019,15:00,87717e55-171a-4d9a-97f2-9e4f77f9c9bf,OCCUPANT,Unspecified,18516898.0,,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+11976725,4464272,10/05/2021,5:35,d64e3a80-adc1-4efb-871a-c138a4b454e0,OCCUPANT,Unspecified,20078651.0,63.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Air Bag Deployed/Lap Belt/Harness,,,Does Not Apply,Driver,,,F,63.0,UNKNOWN
+6330875,3527151,09/25/2016,23:55,2091100,OCCUPANT,Unspecified,17221399.0,,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+12349780,4562051,09/08/2022,8:20,f8a524b2-a57a-4fea-9cdc-e4a27150b49f,OCCUPANT,Unspecified,20293443.0,65.0,Not Ejected,Does Not Apply,Does Not Apply,"Any person in the rear of a station wagon, pick-up truck, all passengers on a bus, etc",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,65.0,UNKNOWN
+10192735,4216886,10/03/2019,9:40,f775edff-0dc8-4765-bbc3-199c50813e1d,OCCUPANT,Unspecified,19113040.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+6398941,3477202,07/10/2016,9:43,1186044,OCCUPANT,Unspecified,17253588.0,61.0,Not Ejected,Does Not Apply,Does Not Apply,"Any person in the rear of a station wagon, pick-up truck, all passengers on a bus, etc",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,61.0,UNKNOWN
+11424987,4350994,03/23/2020,23:41,7dcabbb9-53e4-406d-9625-0655d25b2a05,OCCUPANT,Unspecified,19756487.0,34.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,34.0,UNKNOWN
+6362059,3467637,06/23/2016,17:50,1044192,OCCUPANT,Unspecified,17236125.0,,,,,,,,,,Registrant,,,M,39.0,UNKNOWN
+11855276,4434204,06/23/2021,11:42,d99ed07d-2ca1-460b-9e94-d0c138263214,OCCUPANT,Unspecified,20007626.0,57.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,57.0,UNKNOWN
+7024810,3678174,05/25/2017,20:10,75f07c95-8d77-479e-8309-b6e3a00582d3,OCCUPANT,Unspecified,17553207.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+7530515,3878920,04/10/2018,11:15,a4b7986c-8aa7-4eef-a5aa-d2fe3d7c265a,OCCUPANT,Unspecified,17799010.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+5748757,3417706,03/28/2016,15:15,189244,OCCUPANT,Unspecified,,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+9365547,4017074,11/04/2018,12:00,05be8c28-f1bc-4782-bd80-861f72a02ae0,OCCUPANT,Unspecified,18702741.0,34.0,,,,,,,,,Registrant,,,F,34.0,UNKNOWN
+13215535,4773805,11/23/2024,21:04,d66a51af-76f2-4287-afb2-85b345494895,OCCUPANT,Unspecified,,,,,,,,,,,Witness,,,,39.0,UNKNOWN
+9805692,4126902,05/07/2019,0:15,87fdef6e-d1bc-4042-b25a-ace6a2da0459,OCCUPANT,Unspecified,18920047.0,34.0,,,,,,,,,Registrant,,,M,34.0,UNKNOWN
+5950198,3439528,05/06/2016,18:10,606050,OCCUPANT,Unspecified,17041124.0,,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,39.0,UNKNOWN
+9098082,4087377,02/26/2019,6:00,4dea23a2-171c-4c58-b29d-34070b55ebaa,OCCUPANT,Unspecified,18571049.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+9439622,3940609,07/14/2018,1:50,74f4e38b-4a0c-4798-bf30-e5f356ae2997,OCCUPANT,Injured,18738982.0,62.0,Not Ejected,Conscious,Chest,Right rear passenger or motorcycle sidecar passenger,Lap Belt & Harness,,,Complaint of Pain or Nausea,Passenger,,,M,62.0,INJURED
+9115600,4100126,03/20/2019,13:55,09c93f48-6579-450d-8dc9-aec0d547fd0b,OCCUPANT,Unspecified,18579805.0,25.0,Not Ejected,Does Not Apply,Does Not Apply,Right rear passenger or motorcycle sidecar passenger,Lap Belt,,,Does Not Apply,Passenger,,,,25.0,UNKNOWN
+6373858,3486417,07/23/2016,9:47,1310621,OCCUPANT,Unspecified,17241738.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+7526431,3866479,03/19/2018,19:00,c645cc9c-db03-40ec-9452-f27729d6e5bb,OCCUPANT,Unspecified,17797016.0,47.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,47.0,UNKNOWN
+9683496,3948044,07/24/2018,18:38,1f21e90d-b2c7-4ddf-91c7-918468d6d7b3,OCCUPANT,Unspecified,18859434.0,49.0,,,,,,,,,Registrant,,,M,49.0,UNKNOWN
+12858517,4694039,01/09/2024,17:00,8e21def1-9b91-4634-a879-e476bf9fc325,OCCUPANT,Unspecified,20582742.0,59.0,,,,,,,,,Registrant,,,M,59.0,UNKNOWN
+13476418,4841092,09/09/2025,7:05,3277c022-098c-413b-a440-223113cffcee,OCCUPANT,Unspecified,20936599.0,20.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,20.0,UNKNOWN
+6495221,3523289,09/19/2016,15:45,2020932,OCCUPANT,Unspecified,17299280.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+7395006,3847037,02/15/2018,11:30,878e2e41-2816-40a8-b1f2-21a1250072bc,OCCUPANT,Unspecified,17732553.0,56.0,,,,,,,,,Registrant,,,M,56.0,UNKNOWN
+6711293,3572394,12/03/2016,22:15,2920586,OCCUPANT,Unspecified,17402623.0,73.0,,,,,,,,,Registrant,,,M,73.0,UNKNOWN
+10093744,4190422,08/17/2019,11:55,c829b70b-ad36-4f3b-9d90-f5541d84d031,OCCUPANT,Unspecified,19063198.0,60.0,,,,,,,,,Registrant,,,M,60.0,UNKNOWN
+9414866,4046288,12/04/2018,22:20,b07a1dd9-36b7-408e-bf04-d136066da022,OCCUPANT,Unspecified,18726818.0,20.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,20.0,UNKNOWN
+11531211,4378848,12/24/2020,21:30,51d76f64-3a3a-41fa-8bc0-02b765c24924,OCCUPANT,Unspecified,19818389.0,57.0,,,,,,,,,Registrant,,,M,57.0,UNKNOWN
+11458887,4359607,10/20/2020,15:30,8c7cbaa2-1449-4503-b08c-df1bcfcca5ad,OCCUPANT,Unspecified,19776187.0,54.0,,,,,,,,,Registrant,,,F,54.0,UNKNOWN
+12744363,4664020,09/20/2023,20:26,e06b34f8-2da3-4506-ad45-f1e428c6b7ca,OCCUPANT,Unspecified,20517991.0,32.0,,,,,,,,,Registrant,,,M,32.0,UNKNOWN
+11163592,4301287,03/15/2020,23:00,b794078a-987d-4dc3-8ef8-d62b38da514e,OCCUPANT,Unspecified,19613720.0,24.0,,,,,,,,,Registrant,,,F,24.0,UNKNOWN
+12248558,4535379,05/28/2022,11:45,f8b06e66-9d4e-4f47-b311-96265204fcdc,OCCUPANT,Unspecified,20235084.0,61.0,Not Ejected,Does Not Apply,Does Not Apply,"Front passenger, if two or more persons, including the driver, are in the front seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,M,61.0,UNKNOWN
+13186986,4766148,10/22/2024,4:42,d3f1d001-2a51-4a25-a84f-f7652cf10c9e,OCCUPANT,Unspecified,20771012.0,52.0,,,,,,,,,Registrant,,,F,52.0,UNKNOWN
+10988291,4271040,01/09/2020,8:25,60ecbc5b-d5d1-4c53-9131-e46f384ad1ed,OCCUPANT,Unspecified,19521991.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+12911591,4707665,03/05/2024,1:30,3ae6049d-3676-437d-a343-e995059ed821,OCCUPANT,Unspecified,20612842.0,,,,,,,,,,Registrant,,,,39.0,UNKNOWN
+7367535,3840855,02/05/2018,10:15,cc439bcf-6420-40ac-9702-c1acb9c40d73,OCCUPANT,Unspecified,17719042.0,54.0,,,,,,,,,Registrant,,,F,54.0,UNKNOWN
+12022749,4476723,11/12/2021,12:01,6bd74249-fa13-4e84-895b-68b17b0cf7b8,OCCUPANT,Unspecified,20104896.0,61.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,61.0,UNKNOWN
+6626391,3555937,11/04/2016,9:15,2611699,OCCUPANT,Injured,17361870.0,27.0,Not Ejected,Conscious,Back,Driver,Lap Belt & Harness,,,Complaint of Pain,Driver,,,F,27.0,INJURED
+9551310,3963663,08/18/2018,5:54,b7a5ac55-8797-4a2c-a4f3-384053dfe4e4,OCCUPANT,Unspecified,18793971.0,60.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Unknown,,,Does Not Apply,Driver,,,M,60.0,UNKNOWN
+7552237,3887903,04/25/2018,8:39,8142433f-ca76-4fbd-ae29-e0a57ec6a67a,OCCUPANT,Unspecified,17809711.0,49.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,49.0,UNKNOWN
+6979897,3677495,05/24/2017,15:25,73da6ee1-366e-43e7-9dd3-c1b60ebf9c9c,OCCUPANT,Unspecified,17531683.0,48.0,Not Ejected,Does Not Apply,Does Not Apply,"Middle front seat, or passenger lying across a seat",Lap Belt & Harness,,,Does Not Apply,Passenger,,,F,48.0,UNKNOWN
+1441539,76458,09/01/2012,13:35,1,PEDESTRIAN,Injured,,26.0,,,,,,,,,,,,,26.0,INJURED
+7182649,3721744,07/31/2017,11:45,bd00925b-f08b-4c9b-904e-446681df510b,OCCUPANT,Unspecified,17628664.0,45.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,45.0,UNKNOWN
+6419737,3546910,10/23/2016,13:00,2448916,OCCUPANT,Unspecified,17263389.0,40.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt,,,Does Not Apply,Driver,,,M,40.0,UNKNOWN
+11849422,4426120,06/11/2021,14:00,e5eb8dc8-9cfd-484b-b890-810006976a80,OCCUPANT,Unspecified,20004150.0,53.0,Not Ejected,Does Not Apply,Does Not Apply,Driver,Lap Belt & Harness,,,Does Not Apply,Driver,,,M,53.0,UNKNOWN
+12044468,4482364,11/26/2021,4:00,f5b14fe9-0860-4e29-a724-822951874021,OCCUPANT,Unspecified,20117459.0,38.0,,,,,,,,,Registrant,,,M,38.0,UNKNOWN

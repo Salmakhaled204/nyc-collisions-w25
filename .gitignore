@@ -140,3 +140,6 @@ vite.config.ts.timestamp-*
 
 merged_final.csv
 *.code-workspace
+
+merged_final.parquet
+*.parquet

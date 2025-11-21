@@ -1,15 +1,3 @@
-# NYC Motor Vehicle Collisions – Data Pipeline & Interactive Dashboard
-
-Course: Data Engineering and Visualization – Winter 2025  
-Team: [Replace with your team name / group number]  
-
-This project analyzes NYC Motor Vehicle Collisions using two related datasets
-(crashes + persons). The goal is to build a full pipeline from raw data to a
-clean integrated dataset and a fully interactive dashboard for exploration and
-reporting.
-
----
-
 ## 1. Repository Structure
 
 Main contents of this repository:

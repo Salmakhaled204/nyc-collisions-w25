@@ -20,11 +20,9 @@ external_stylesheets = [
 # ===========================
 # 1) LOAD FULL MERGED DATA
 # ===========================
-print("Reading merged_final.csv (full file)...")
-df = pd.read_csv("merged_final.csv")
+print("Reading merged_final.parquet (full file)...")
+df = pd.read_parquet("merged_final.parquet")
 print("Dashboard df shape:", df.shape)
-
-
 # ===========================
 # 2) HELPER: GUESS COLUMN NAMES
 # ===========================

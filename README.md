@@ -1,14 +1,12 @@
 ---
-title: NYC Collision Dashboard
+title: NYC Collisions Dashboard
 emoji: 🚗
 colorFrom: blue
 colorTo: green
-sdk: python
-sdk_version: "3.10"
-app_file: app.py
+sdk: docker
 pinned: false
 ---
 
-NYC Collision Dashboard deployed on HuggingFace Spaces.
+NYC Collisions Dashboard deployed on Hugging Face Spaces.
 
 This dashboard loads a Parquet dataset from GitHub at runtime.

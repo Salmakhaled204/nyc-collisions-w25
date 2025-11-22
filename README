@@ -1,0 +1,189 @@
+As Member 5, I was fully responsible for designing, building, and deploying the complete interactive dashboard required for Milestone 1. This included connecting the final dataset, implementing dynamic filtering, adding search functionality, creating multiple visualizations, and deploying the final version publicly.
+
+1. Responsibilities
+A. Dashboard Architecture & Data Connection
+
+Loaded the final integrated dataset (merged_final.parquet) directly inside the Hugging Face Space for 100% reliability.
+
+Implemented automatic column detection logic to handle any column-name inconsistencies using substring matching.
+
+Engineered supplemental features such as:
+
+Age groups
+
+Weekday extraction
+
+Clean injury categories
+
+B. UI/UX Development
+
+Built the entire Dash layout using Bootstrap for responsiveness.
+
+Applied a consistent pastel-themed color palette across all elements.
+
+Designed a clean layout containing:
+
+Header
+
+Filter section
+
+Search section
+
+Generate Report button
+
+KPI card
+
+Visualization rows
+
+C. Interactive Filters
+
+Implemented all required filters with multi-select support:
+
+Borough
+
+Year
+
+Vehicle Type
+
+Contributing Factor
+
+Age Group
+
+Each filter updates the dataset dynamically through the callback.
+
+D. Keyword Search Mode
+
+Designed a flexible search system that:
+
+Splits user text into tokens
+
+Searches across multiple columns
+
+Combines keyword filters with dropdowns
+
+Works with the Generate Report button
+
+This meets the “search mode” requirement of Milestone 1.
+
+E. Generate Report Button
+
+Built the central callback that recomputes:
+
+All visualizations
+
+KPIs
+
+Map data
+
+Heatmap pivot table
+
+All filtered subsets
+
+Ensured each press updates the entire dashboard in real time.
+
+F. Interactive Visualizations
+
+Created a diverse set of graphs that satisfy all milestone requirements:
+
+Bar chart — Crashes per borough
+
+Line chart — Crashes over time
+
+Heatmap — Hour × Weekday crash density
+
+Mapbox scatter map — Crash locations (sampled for performance)
+
+Pie chart — Injury severity distribution
+
+KPI metrics — total collisions, persons involved, average age
+
+All charts are style-unified using a central style_fig() function.
+
+G. Deployment
+
+Deployed the entire dashboard on Hugging Face Spaces.
+
+Uploaded the dataset directly into the Space for guaranteed loading.
+
+Ensured the app runs instantly with no external dependencies.
+
+👉 Public deployment:
+https://huggingface.co/spaces/salmazakiii/nyc-collisions-dashboard0
+
+2. Research Questions (Member 5)
+RQ9:
+
+How do crash patterns change across boroughs when applying filters for year, vehicle type, and contributing factors?
+
+RQ10:
+
+How does injury severity distribution vary across age groups and boroughs when users apply interactive filters and keyword searches?
+
+These questions connect directly to the dashboard’s visualizations and interactions.
+
+3. Answers to Member 5 Research Questions
+Answer to RQ9:
+
+“How do crash patterns change across boroughs when filters are applied?”
+
+Using the interactive dashboard:
+
+The Borough Bar Chart clearly shows that:
+
+Brooklyn and Queens consistently have the highest crash volume.
+
+Manhattan and the Bronx follow with lower totals.
+
+Staten Island shows very low crash density compared to other boroughs.
+
+When filtering by Year:
+
+Post-2020 years often show a noticeable dip in some boroughs (COVID effect).
+
+Brooklyn remains consistently high regardless of filters.
+
+When filtering by Vehicle Type:
+
+“Sedan” and “SUV” crashes dominate across all boroughs.
+
+When filtering for “Truck,” crashes shift toward industrial boroughs.
+
+When applying Contributing Factor filters:
+
+“Driver Inattention” consistently ranks as the top factor across all boroughs.
+
+Alcohol-related crashes are more concentrated in Manhattan and Brooklyn nightlife areas.
+
+Conclusion:
+
+Crash patterns vary by borough, but Brooklyn and Queens dominate across nearly all filter combinations. Vehicle type and contributing factors refine the patterns but do not change the dominance ranking.
+
+Answer to RQ10:
+
+“How does injury severity vary across age groups and boroughs?”
+
+Using the Age Group filter + Injury pie chart:
+
+Age 18–30 shows the highest involvement in injury-related crashes.
+
+Age 60+ has fewer crashes but shows a higher proportion of serious injuries.
+
+“Unknown” or missing age values appear but decline after cleaning.
+
+When combining Age Group + Borough filters:
+
+Brooklyn exhibits the highest number of injuries in the 18–30 age range.
+
+Manhattan shows a higher percentage of pedestrian injuries, especially among older age groups.
+
+Queens presents balanced distributions with fewer extreme spikes.
+
+When using keyword search (e.g., “pedestrian 2022”):
+
+Injury severity shifts toward “Minor Injury” and “Possible Injury” categories.
+
+Searching for “cyclist” increases the proportion of moderate injuries.
+
+Conclusion:
+
+Younger individuals (18–30) are most frequently involved in crashes, but older individuals (60+) show higher severity when they do appear. Borough selection strongly affects the distribution of injury patterns.

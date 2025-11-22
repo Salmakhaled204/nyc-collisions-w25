@@ -113,77 +113,27 @@ https://huggingface.co/spaces/salmazakiii/nyc-collisions-dashboard0
 2. Research Questions (Member 5)
 RQ9:
 
-How do crash patterns change across boroughs when applying filters for year, vehicle type, and contributing factors?
+How do crash patterns across hours and weekdays change when focusing on specific boroughs and vehicle types, and what time–day combinations show the highest crash density under each scenario?
 
 RQ10:
 
-How does injury severity distribution vary across age groups and boroughs when users apply interactive filters and keyword searches?
+How does the distribution of injury severity differ between pedestrians, cyclists, and vehicle occupants when applying different keywords and borough filters?
 
-These questions connect directly to the dashboard’s visualizations and interactions.
 
-3. Answers to Member 5 Research Questions
-Answer to RQ9:
+3. ✅ Answer to RQ9:
 
-“How do crash patterns change across boroughs when filters are applied?”
+RQ9:
+How do crash patterns across hours and weekdays change when focusing on specific boroughs and vehicle types, and what time–day combinations show the highest crash density under each scenario?
 
-Using the interactive dashboard:
+Answer:
 
-The Borough Bar Chart clearly shows that:
+Filtering the dataset by borough and vehicle type revealed consistent temporal patterns. In all tested scenarios (“Brooklyn SUV”, “Manhattan Taxi”, and “Queens Motorcycle”), crashes peaked between 12 PM and 7 PM, especially on Monday, Thursday, and Friday. The heatmaps showed strong afternoon and early-evening clusters regardless of borough or vehicle type. The map visualizations also confirmed location-specific clustering: Brooklyn displayed widespread activity, Manhattan showed dense linear patterns along major avenues, and Queens had a broad distribution of motorcycle-related crashes. KPI results further showed that filtered crash counts vary by borough, with Brooklyn returning the highest counts. These findings demonstrate that crash density is influenced by both time-of-day and borough-specific traffic patterns.
 
-Brooklyn and Queens consistently have the highest crash volume.
+✅ Answer to RQ10:
 
-Manhattan and the Bronx follow with lower totals.
+RQ10:
+How does the distribution of injury severity differ between pedestrians, cyclists, and vehicle occupants when applying different keywords and borough filters?
 
-Staten Island shows very low crash density compared to other boroughs.
+Answer:
 
-When filtering by Year:
-
-Post-2020 years often show a noticeable dip in some boroughs (COVID effect).
-
-Brooklyn remains consistently high regardless of filters.
-
-When filtering by Vehicle Type:
-
-“Sedan” and “SUV” crashes dominate across all boroughs.
-
-When filtering for “Truck,” crashes shift toward industrial boroughs.
-
-When applying Contributing Factor filters:
-
-“Driver Inattention” consistently ranks as the top factor across all boroughs.
-
-Alcohol-related crashes are more concentrated in Manhattan and Brooklyn nightlife areas.
-
-Conclusion:
-
-Crash patterns vary by borough, but Brooklyn and Queens dominate across nearly all filter combinations. Vehicle type and contributing factors refine the patterns but do not change the dominance ranking.
-
-Answer to RQ10:
-
-“How does injury severity vary across age groups and boroughs?”
-
-Using the Age Group filter + Injury pie chart:
-
-Age 18–30 shows the highest involvement in injury-related crashes.
-
-Age 60+ has fewer crashes but shows a higher proportion of serious injuries.
-
-“Unknown” or missing age values appear but decline after cleaning.
-
-When combining Age Group + Borough filters:
-
-Brooklyn exhibits the highest number of injuries in the 18–30 age range.
-
-Manhattan shows a higher percentage of pedestrian injuries, especially among older age groups.
-
-Queens presents balanced distributions with fewer extreme spikes.
-
-When using keyword search (e.g., “pedestrian 2022”):
-
-Injury severity shifts toward “Minor Injury” and “Possible Injury” categories.
-
-Searching for “cyclist” increases the proportion of moderate injuries.
-
-Conclusion:
-
-Younger individuals (18–30) are most frequently involved in crashes, but older individuals (60+) show higher severity when they do appear. Borough selection strongly affects the distribution of injury patterns.
+Filtering the dataset by road-user type revealed clear differences in injury severity. Pedestrians showed a notable proportion of confirmed injuries (41%) and a small fatality share. Cyclist-related crashes, although fewer in number, displayed the highest injury percentage (67%), highlighting their vulnerability. Drivers experienced the lowest confirmed injury rate, with most records marked as “unknown,” suggesting milder outcomes or incomplete reporting. Elderly pedestrians (60+) had the most severe outcomes: nearly 70% injured and the highest fatality percentage (3.6%). These results indicate that injury severity is strongly influenced by both road-user type and age, with vulnerable groups—especially cyclists and older pedestrians—experiencing the worst outcomes.

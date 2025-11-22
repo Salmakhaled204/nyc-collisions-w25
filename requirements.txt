@@ -3,4 +3,4 @@ plotly
 pandas
 pyarrow
 requests
-flask
+gunicorn

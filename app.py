@@ -18,7 +18,7 @@ external_stylesheets = [
 ]
 
 # ===========================
-# 1) LOAD FULL MERGED DATA
+# 1 LOAD FULL MERGED DATA
 # ===========================
 print("Reading merged_final.parquet (full file)...")
 df = pd.read_parquet("merged_final.parquet")

@@ -1,3 +1,5 @@
+import os
+import requests
 import pandas as pd
 from dash import Dash, dcc, html, Input, Output, State
 import plotly.express as px
@@ -17,12 +19,30 @@ external_stylesheets = [
     "https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
 ]
 
+
 # ===========================
-# 1 LOAD FULL MERGED DATA
+# 1) LOAD FULL MERGED DATA FROM GITHUB PARQUET
 # ===========================
-print("Reading merged_final.parquet (full file)...")
-df = pd.read_parquet("merged_final.parquet")
-print("Dashboard df shape:", df.shape)
+PARQUET_URL = "https://raw.githubusercontent.com/Salmakhaled204/nyc-collisions-w25/salma-parquet/merged_final.parquet"
+LOCAL_PARQUET = "merged_final.parquet"
+
+def load_data():
+    # download once if it does not exist
+    if not os.path.exists(LOCAL_PARQUET):
+        print("Downloading merged_final.parquet from GitHub...")
+        resp = requests.get(PARQUET_URL)
+        resp.raise_for_status()
+        with open(LOCAL_PARQUET, "wb") as f:
+            f.write(resp.content)
+        print("Download finished.")
+
+    print("Reading merged_final.parquet (full file)...")
+    df = pd.read_parquet(LOCAL_PARQUET)
+    print("Dashboard df shape:", df.shape)
+    return df
+
+df = load_data()
+
 # ===========================
 # 2) HELPER: GUESS COLUMN NAMES
 # ===========================

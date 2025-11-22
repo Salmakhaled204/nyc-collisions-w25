@@ -23,25 +23,59 @@ external_stylesheets = [
 # ===========================
 # 1) LOAD FULL MERGED DATA FROM GITHUB PARQUET
 # ===========================
-PARQUET_URL = "https://raw.githubusercontent.com/Salmakhaled204/nyc-collisions-w25/salma-parquet/merged_final.parquet"
+
 LOCAL_PARQUET = "merged_final.parquet"
 
 def load_data():
-    # download once if it does not exist
-    if not os.path.exists(LOCAL_PARQUET):
-        print("Downloading merged_final.parquet from GitHub...")
-        resp = requests.get(PARQUET_URL)
-        resp.raise_for_status()
-        with open(LOCAL_PARQUET, "wb") as f:
-            f.write(resp.content)
-        print("Download finished.")
-
-    print("Reading merged_final.parquet (full file)...")
-    df = pd.read_parquet(LOCAL_PARQUET)
-    print("Dashboard df shape:", df.shape)
-    return df
+    # guaranteed local file load
+    if os.path.exists(LOCAL_PARQUET):
+        print("Loading full dataset from local merged_final.parquet ...")
+        df = pd.read_parquet(LOCAL_PARQUET)
+        print("Loaded parquet:", df.shape)
+        return df
+    else:
+        raise FileNotFoundError(
+            "merged_final.parquet not found! Make sure it is included in your Space."
+        )
 
 df = load_data()
+# PARQUET_URL = "https://raw.githubusercontent.com/Salmakhaled204/nyc-collisions-w25/salma-parquet/merged_final.parquet"
+# LOCAL_PARQUET = "merged_final.parquet"
+# LOCAL_CSV = "sample_final.csv"  # this file is already in your Space repo
+
+# def load_data():
+#     # 1) try to read an existing local parquet file
+#     if os.path.exists(LOCAL_PARQUET):
+#         try:
+#             print("Trying local parquet...")
+#             df = pd.read_parquet(LOCAL_PARQUET)
+#             print("Loaded local parquet:", df.shape)
+#             return df
+#         except Exception as e:
+#             print("Failed to read local parquet, will try download:", e)
+
+#     # 2) try to download parquet from GitHub and read it
+#     try:
+#         print("Downloading merged_final.parquet from GitHub...")
+#         resp = requests.get(PARQUET_URL, timeout=60)
+#         resp.raise_for_status()
+#         with open(LOCAL_PARQUET, "wb") as f:
+#             f.write(resp.content)
+#         print("Download finished. Reading parquet...")
+#         df = pd.read_parquet(LOCAL_PARQUET)
+#         print("Loaded downloaded parquet:", df.shape)
+#         return df
+#     except Exception as e:
+#         print("Failed to download/read parquet, FALLING BACK to CSV:", e)
+
+#     # 3) fallback: use the CSV shipped with the Space
+#     print("Loading fallback CSV:", LOCAL_CSV)
+#     df = pd.read_csv(LOCAL_CSV)
+#     print("Loaded CSV:", df.shape)
+#     return df
+
+# # use this DataFrame everywhere in your app
+# df = load_data()
 
 # ===========================
 # 2) HELPER: GUESS COLUMN NAMES

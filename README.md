@@ -120,8 +120,8 @@ You analyzed PERSON_TYPE and PERSON_INJURY in your uniques, counts, and plots. T
 
 ### *Member 5*
 
-9. How does crash frequency change when multiple filters (borough, hour, weekday, and vehicle type) are combined, and what interaction patterns appear across time and location?
-10. What are the most common injury outcomes for different types of road users (drivers, passengers, pedestrians, cyclists), and how does this distribution shift when filters or search keywords are applied?
+9. How do crash patterns across hours and weekdays change when focusing on specific boroughs and vehicle types, and what time–day combinations show the highest crash density under each scenario?
+10. How does the distribution of injury severity differ between pedestrians, cyclists, and vehicle occupants when applying different keywords and borough filters?
 
 ---
 
@@ -235,61 +235,23 @@ Delivered raw datasets, missing value report, initial plots, variables summary.
 
 ## 🧠 *Answers to Member 5 Research Questions*
 
-✅ Answer to RQ9: Crash Frequency by Combined Filters
-
+✅ Answer to RQ9: 
 RQ9:
-How does crash frequency change when multiple filters (borough, hour, weekday, and vehicle type) are combined, and what interaction patterns appear across time and location?
+
+How do crash patterns across hours and weekdays change when focusing on specific boroughs and vehicle types, and what time–day combinations show the highest crash density under each scenario?
 
 Answer:
+Filtering the dataset by borough and vehicle type revealed consistent temporal patterns. In all tested scenarios (“Brooklyn SUV”, “Manhattan Taxi”, and “Queens Motorcycle”), crashes peaked between 12 PM and 7 PM, especially on Monday, Thursday, and Friday. The heatmaps showed strong afternoon and early-evening clusters regardless of borough or vehicle type. The map visualizations also confirmed location-specific clustering: Brooklyn displayed widespread activity, Manhattan showed dense linear patterns along major avenues, and Queens had a broad distribution of motorcycle-related crashes. KPI results further showed that filtered crash counts vary by borough, with Brooklyn returning the highest counts. These findings demonstrate that crash density is influenced by both time-of-day and borough-specific traffic patterns.
 
-Using the interactive dashboard:
-The heatmap reveals consistent temporal patterns:
-Crash frequency peaks around 5–6 PM across all boroughs (evening rush hour).
-Weekends show more afternoon crashes, especially Saturdays.
-Weekdays show concentrated morning (8 AM) and evening (5–7 PM) peaks.
-When Borough filters are applied:
-Brooklyn and Queens display the strongest rush-hour peaks.
-Manhattan shows more late-night crashes (nightlife + tourism zones).
-When Vehicle Type filters are combined:
-“Sedan” and “SUV” amplify standard rush-hour patterns.
-“Motorcycle” crashes peak more in warm seasons (visible when filtering by year).
-When search keywords like “Uber”, “bike”, or “truck” are applied:
-Patterns shift to specific hours or days related to activity levels.
 
-Conclusion:
-
-Crash frequency strongly depends on the interaction of borough × hour × weekday × vehicle type.
-Rush hours are universally high, Brooklyn/Queens dominate volume, and certain vehicle types shift the temporal pattern.
-
-✅ Answer to RQ10: Injury Outcomes Across Road User Types
+✅ Answer to RQ10: 
 
 RQ10:
-What are the most common injury outcomes for different types of road users (drivers, passengers, pedestrians, cyclists), and how does this distribution shift when filters or search keywords are applied?
+How does the distribution of injury severity differ between pedestrians, cyclists, and vehicle occupants when applying different keywords and borough filters?
+
 
 Answer:
-
-Using the injury severity pie chart + age groups + filters:
-Drivers:
-Most injuries fall into “Possible Injury” and “Minor Injury.”
-Severe injuries are present but less common due to vehicle protection.
-Passengers:
-Injury distribution is similar to drivers but with slightly fewer severe cases.
-Pedestrians:
-Show a much higher proportion of “Moderate” and “Severe” injuries.
-Filters reveal Manhattan as the borough with the highest pedestrian injury ratios.
-Cyclists:
-Higher share of moderate injuries, especially in Brooklyn and Manhattan.
-Search keywords like “bicycle” highlight these patterns clearly.
-Filters & Keyword Effects:
-Filtering by “age 60+” increases severe injury proportions.
-Filtering by “Brooklyn” + “SUV” increases moderate injuries.
-Searching “pedestrian 2022” raises the share of serious injuries.
-
-Conclusion:
-
-Injury severity strongly depends on the road-user type.
-Pedestrians and cyclists face the highest risk of serious injuries, while drivers and passengers show milder overall severity. Filters and search queries significantly shift severity proportions.
----
+Filtering the dataset by road-user type revealed clear differences in injury severity. Pedestrians showed a notable proportion of confirmed injuries (41%) and a small fatality share. Cyclist-related crashes, although fewer in number, displayed the highest injury percentage (67%), highlighting their vulnerability. Drivers experienced the lowest confirmed injury rate, with most records marked as “unknown,” suggesting milder outcomes or incomplete reporting. Elderly pedestrians (60+) had the most severe outcomes: nearly 70% injured and the highest fatality percentage (3.6%). These results indicate that injury severity is strongly influenced by both road-user type and age, with vulnerable groups—especially cyclists and older pedestrians—experiencing the worst outcomes.
 
 ## ✔ Submission Requirements Checklist
 
